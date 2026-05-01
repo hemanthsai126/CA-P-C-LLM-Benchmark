@@ -1,0 +1,31 @@
+# California Code,  INS 10842.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10842.
+
+**Section:** 10842
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 9. The Private Health Care Voluntary Purchasing Alliance Act [10800 - 10887]
+( Chapter 9 added by Stats. 1996, Ch. 916, Sec. 1. )
+ARTICLE 5. Additional Powers of and Restrictions on Purchasing Alliances [10840 - 10845]
+( Article 5 added by Stats. 1996, Ch. 916, Sec. 1. )
+10842.
+A purchasing alliance may do any of the following:
+(a) Contract with qualified independent third parties for any services necessary to carry out the powers and duties authorized or required by this chapter.
+(b) Employ necessary staff.
+(c) Sue or be sued, including taking any legal actions necessary or proper for recovering any penalties for or on behalf of the health insurance purchasing group.
+(d) Allow a participating employer to choose the benefit plan design, from those offered by the purchasing alliance, to be made available to their eligible employees.
+(e) Allow eligible employees to enroll in any benefit plan design offered by the purchasing alliance.
+(f) Contract with licensed insurance agents or brokers to market and service coverage made available through the purchasing alliance to its members.  Compensation for agents and brokers may not vary based on the small employer or his or her enrollees and dependents’ actual or expected health status, industry, occupation, medical utilization, claims experience, or geographic location within the service region.  This subdivision shall not apply with respect to a compensation arrangement that provides compensation to an agent or broker on the basis of percentage of premium; provided that percentage shall not vary because of the health status, industry, occupation, medical utilization, claims experience, or geographic location within the service region.
+(g) Exclude a carrier or freeze enrollment in a carrier for failure to achieve established quality, access, or information reporting standards of the purchasing alliance.
+(Added by Stats. 1996, Ch. 916, Sec. 1.   Effective January 1, 1997.)

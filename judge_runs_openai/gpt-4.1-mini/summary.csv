@@ -1,0 +1,11 @@
+run,file,judge_model,n_scored,accuracy,avg_alignment_score,pct_score_0,pct_score_1,pct_score_2,pct_score_3
+gemma_2b_reasoned,results/gemma_2b_reasoned.csv,gpt-4.1-mini,111,0.5045,1.7658,0.0901,0.4144,0.1351,0.3604
+llama3.2_3b_reasoned,results/llama3.2_3b_reasoned.csv,gpt-4.1-mini,111,0.7658,2.4775,0.036,0.1802,0.0541,0.7297
+mistral_7b_reasoned,results/mistral_7b_reasoned.csv,gpt-4.1-mini,111,0.7748,2.4414,0.009,0.1712,0.1892,0.6306
+openai_gpt-3.5-turbo_reasoned,results/openai_gpt-3.5-turbo_reasoned.csv,gpt-4.1-mini,111,0.8468,2.6937,0.0,0.1261,0.0541,0.8198
+openai_gpt-4.1-mini_reasoned,results/openai_gpt-4.1-mini_reasoned.csv,gpt-4.1-mini,111,0.955,2.9009,0.0,0.045,0.009,0.9459
+openai_gpt-4.1-nano_reasoned,results/openai_gpt-4.1-nano_reasoned.csv,gpt-4.1-mini,111,0.9099,2.8198,0.0,0.0721,0.036,0.8919
+openai_gpt-4.1_reasoned,results/openai_gpt-4.1_reasoned.csv,gpt-4.1-mini,111,0.9459,2.9009,0.0,0.027,0.045,0.9279
+phi3_mini_reasoned,results/phi3_mini_reasoned.csv,gpt-4.1-mini,111,0.8018,2.5676,0.018,0.1532,0.0721,0.7568
+qwen2.5_reasoned,results/qwen2.5_reasoned.csv,gpt-4.1-mini,111,0.8559,2.7027,0.0,0.1261,0.045,0.8288
+tinyllama_reasoned,results/tinyllama_reasoned.csv,gpt-4.1-mini,111,0.1712,0.973,0.1712,0.7027,0.1081,0.018

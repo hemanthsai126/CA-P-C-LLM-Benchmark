@@ -1,0 +1,36 @@
+# California Code,  INS 10850.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10850.
+
+**Section:** 10850
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 9. The Private Health Care Voluntary Purchasing Alliance Act [10800 - 10887]
+( Chapter 9 added by Stats. 1996, Ch. 916, Sec. 1. )
+ARTICLE 6. Participating Carriers [10850 - 10856]
+( Article 6 added by Stats. 1996, Ch. 916, Sec. 1. )
+10850.
+(a) In order to be eligible to be a participating carrier, a carrier shall demonstrate the following operating characteristics satisfactory to the board:
+(1) Be licensed and approved as a carrier and in good standing with the appropriate regulatory authority.
+(2) The ability to provide data required by the board, including information on enrollee satisfaction based on standard surveys, as may be prescribed, and to meet reasonable satisfaction measures as may be established.
+(3) The ability to provide standard data elements in a manner prescribed by the board.
+(4) All other criteria established by the board.
+(b) Carriers that contract with or employ health care providers shall have mechanisms to accomplish all of the following in a manner satisfactory to the purchasing alliance, provided that the requirements of the alliance do not conflict with the carrier’s licensing requirements:
+(1) Review the quality of care covered.
+(2) Review the appropriateness of care covered.
+(3) Provide accessible health care services.
+(c) In evaluating which carriers may participate in the purchasing alliance, the board shall consider all of the following:
+(1) Minimum geographic service and participation requirements, maximum thresholds for premium rates, and standards for determining whether a carrier operates efficiently.
+(2) The ability of a carrier to provide services within the purchasing alliance service regions.
+(3) Pricing and the competitiveness of each bid from a carrier.
+(Added by Stats. 1996, Ch. 916, Sec. 1.   Effective January 1, 1997.)

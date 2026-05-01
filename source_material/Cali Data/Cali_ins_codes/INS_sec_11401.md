@@ -1,0 +1,27 @@
+# California Code,  INS 11401.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=11401.
+
+**Section:** 11401
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 10A. Firemen's, Policemen's,or Peace Officers’ Benefit and Relief Associations [11400 - 11407]
+( Chapter 10A added by Stats. 1935, Ch. 161. )
+11401.
+(a) An association shall not operate or do business in this state without a certificate of authority. The commissioner shall issue a certificate of authority to any association unless the commissioner determines, after examination, that it does not comply with the provisions of this chapter. The filing fee for the application for the certificate of authority shall be one thousand four hundred ten dollars ($1,410).
+(b) An association shall renew its certificate of authority within 30 days after a change in name or address or before a merger.
+(c) (1) The commissioner may revoke the certificate of authority
+						for an association that failed to renew its certificate of authority in compliance with subdivision (b), after giving reasonable written notice mailed to the last address of the association registered with the department.
+(2) The commissioner may revoke the certificate of authority for an association that has a dissolved, suspended, or otherwise inactive status according to the records of the Secretary of State, after giving reasonable written notice mailed to the last address of the association registered with the department.
+(3) To obtain a reissue of a certificate of authority revoked pursuant to this subdivision, an association shall apply to the commissioner pursuant to subdivision (a).
+(Amended by Stats. 2024, Ch. 444, Sec. 6.   (SB 577)   Effective January 1, 2025.)

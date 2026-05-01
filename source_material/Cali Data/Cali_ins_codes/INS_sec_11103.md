@@ -1,0 +1,34 @@
+# California Code,  INS 11103.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=11103.
+
+**Section:** 11103
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 10. Fraternal Benefit Societies [10970 - 11165]
+( Chapter 10 repealed and added by Stats. 1951, Ch. 1193. )
+ARTICLE 6. Powers of Commissioner [11090 - 11112]
+( Article 6 added by Stats. 1951, Ch. 1193. )
+11103.
+(a) The examination requirements of Article 7 (commencing with Section 1675) of Chapter 5 of Part 2 of Division 1 shall not apply to a license to represent a fraternal benefit society if the individual insurance licensee of a society meets either of the following conditions:
+(1) Was in the service of a society on March 1, 1945, and licensed to represent a fraternal benefit society on January 1, 1952, and continuously thereafter.
+(2) Does not devote substantially full time to the sale of life insurance, accident and health or sickness insurance, or both, as provided in Section 1622, and is an individual part-time fraternal licensee, whether that insurance is provided by insurance
+				  policies or by fraternal benefit policies or certificates.
+(b) If an individual that is exempt from the examination requirements described in subdivision (a) and meets the condition described in paragraph (2) of subdivision (a) later intends, after securing a license pursuant to this section, to devote substantially full time to the sale of life insurance, accident and health or sickness insurance, or both, the society shall give notice to the commissioner.
+(c) (1) Upon receiving notice, the commissioner shall send to the individual part-time fraternal insurance licensee a notice specifying when the examination fee shall be paid and when, not sooner than one month nor later than three months, the licensee shall qualify by examination. Failure to pass the examination or failure to appear pursuant to the commissioner’s notification shall result in a
+				  termination 45 days thereafter of all license privileges unless the licensee passes the examination within the 45-day period. The individual part-time fraternal insurance licensee shall not be permitted to retake the examination more than twice within that 45-day period.
+(2) Following termination pursuant to paragraph (1), the individual may remain licensed as a part-time fraternal insurance licensee until the licensee files a new application for the license and does either of the following:
+(A) Takes and passes the qualifying examination to become a life insurance agent, accident and health or sickness insurance agent, or both.
+(B) Demonstrates affirmatively to the commissioner that the individual will no longer devote substantially full time to the sale of life insurance, accident and health or sickness insurance,
+				  or both, to retain the individual part-time fraternal insurance license.
+(Repealed and added by Stats. 2025, Ch. 558, Sec. 23.   (AB 487)   Effective January 1, 2026.)

@@ -1,0 +1,25 @@
+# California Code,  INS 10276.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10276.
+
+**Section:** 10276
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 4. Standard Provisions in Disability Policies [10270 - 10402.1]
+( Chapter 4 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 1. Scope of Chapter and Definitions [10270 - 10279]
+( Article 1 enacted by Stats. 1935, Ch. 145. )
+10276.
+Every individual accident and health policy or contract, except single premium nonrenewable policies or contracts, issued for delivery in this state on or after July 1, 1962, by an insurance company, nonprofit hospital service plan or medical service corporation, shall have printed thereon or attached thereto a notice stating that the person to whom the policy or contract is issued shall be permitted to return the policy or contract after its delivery to the purchaser and to have the premium paid refunded if, after examination of the policy or contract, the purchaser is not satisfied with it for any reason. The period time set forth by the insurer, nonprofit hospital service plan or medical service corporation for return of the policy or contract shall be clearly stated on the notice and such period shall not be less than 10 days nor more than 30 days. The policyholder or purchaser may return the policy or contract to the insurer, plan or corporation at any time during the period specified in the notice. If a policyholder or purchaser pursuant to such notice, returns the policy or contract to the company or association at its home or branch office or to the agent through whom it was purchased, it shall be void from the beginning and the parties shall be in the same position as if no policy or contract had been issued.
+This section shall apply to all policies or contracts subject to this section and issued, amended, delivered, or renewed in this state on or after January 1, 1981.  All policies or contracts subject to this section which are in effect on January 1, 1981, shall be construed to be in compliance with this section, and any provision in any such policy or contract which is in conflict with this section shall be of no force or effect.
+(Amended by Stats. 1980, Ch. 320, Sec. 2.)

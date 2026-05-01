@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.DS_Store
+.mplconfig/
+.env
+.env.*
+*.log
+.ipynb_checkpoints/

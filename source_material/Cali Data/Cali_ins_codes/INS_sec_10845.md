@@ -1,0 +1,26 @@
+# California Code,  INS 10845.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10845.
+
+**Section:** 10845
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 9. The Private Health Care Voluntary Purchasing Alliance Act [10800 - 10887]
+( Chapter 9 added by Stats. 1996, Ch. 916, Sec. 1. )
+ARTICLE 5. Additional Powers of and Restrictions on Purchasing Alliances [10840 - 10845]
+( Article 5 added by Stats. 1996, Ch. 916, Sec. 1. )
+10845.
+(a) The commissioner shall require every purchasing alliance, as a condition precedent to receiving and holding a certificate of registration, to file and maintain in the commissioner’s office a writing designating an agent for service of process.  The writing shall state the name of the agent and his or her place of business in this state with sufficient particularity so that he or she can readily be found by peace officers or process servers.  Appointment of the agent reasonably available for service of papers, notice, proof of loss, summons or other process during business hours shall be continuously maintained by every registered purchasing alliance subject to this article while it holds a valid and unrevoked certificate of registration.
+(b) An agent designated by a purchasing alliance as provided in this article may file with the commissioner a written statement of resignation as that agent, which shall be signed and execution thereof shall be duly acknowledged by the agent.  Thereupon, the authority of the agent to act in such capacity shall cease and the commissioner shall forthwith give written notice of the resignation by mail to the purchasing alliance addressed to its principal office as shown by the commissioner’s records.  If an agent who has been appointed by a purchasing alliance as provided by this article dies or resigns or removes his or her residence from the state, the purchasing alliance shall forthwith file with the commissioner an appointment of a new agent on a form provided by the commissioner for such purpose and pay the filing fee therefor, and the filing shall be deemed to revoke any prior designation of agent.
+(c) No fee shall be charged, except as included in the application for certificate of registration fee provided in this article, for filing the initial appointment under this article by an applicant for registration. Thereafter the commissioner shall require the payment of forty-five dollars ($45) in advance as a fee for filing appointment of agent or stipulation or both by every registered purchasing alliance.
+(Added by Stats. 1996, Ch. 916, Sec. 1.   Effective January 1, 1997.)

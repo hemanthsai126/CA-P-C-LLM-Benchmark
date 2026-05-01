@@ -1,0 +1,32 @@
+# California Code,  INS 884.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=884.
+
+**Section:** 884
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. General Regulations [680 - 1113]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 9. Registration of Insurers’ Names [880 - 886]
+( Article 9 enacted by Stats. 1935, Ch. 145. )
+884.
+Unless renewed, the approval and registration of all underwriters’ names shall expire at 12:01 a.m. July 1 of each even-numbered year. Renewal may be secured by filing with the commissioner an application therefor, together with a fee of twenty-five dollars ($25). An application shall be filed during the month of May preceding that July 1. The commissioner shall furnish the application forms for the renewal. The commissioner shall, upon receipt of a proper renewal application and payment of the filing fee therefor, renew the approval and registration of the underwriter’s name unless he or she finds any of the following:
+(a) The insurer has abandoned use of the underwriter’s name.
+(b) The insurer is actually using or publicizing the name in any manner after it has discontinued the issuance of underwriter’s policies bearing that name.
+(c) The insurer has used that underwriter’s name in a manner that has resulted in misrepresentation or fraud.
+(d) The insurer has used that underwriter’s name in a manner that would violate any provision of law relating to the conduct of its business.
+(e) The insurer has secured that underwriter’s name through misrepresentation or concealment of material information.
+(f) Reasons exist that would warrant refusal of approval or registration if the same were being initially requested.
+If the commissioner so finds he or she shall advise all insurers
+				  using that underwriter’s name in writing that the renewal application is denied and set forth with particularity the reasons for the denial. That denial shall be effective 30 days after mailing of that advice to the insurer unless within those 30 days the insurer requests a hearing. In this event the advice of denial shall constitute the commissioner’s opening pleading for the purpose of the hearing, which shall be deemed denied by the insurer. The insurer if it elects may, within 10 days, file an additional written response. The hearing shall be noticed and commenced within a reasonable time. During those 30 days, and, if a request for hearing is filed, until the termination of that proceeding, the insurer may continue the use of the underwriter’s name and the issuance of policies thereunder provided timely renewal application has been filed and the filing fee paid.
+(Amended by Stats. 2017, Ch. 534, Sec. 14.   (AB 1699)   Effective January 1, 2018.)

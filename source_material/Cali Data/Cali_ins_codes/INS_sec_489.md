@@ -1,0 +1,24 @@
+# California Code,  INS 489.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=489.
+
+**Section:** 489
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 1. THE CONTRACT [100 - 679.75]
+( Part 1 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 5. The Premium [480 - 491]
+( Chapter 5 enacted by Stats. 1935, Ch. 145. )
+489.
+(a) Upon issuance of a policy of insurance described in Section 660, the insurer or its agent shall deliver to the named insured a notice explaining the manner in which the insurer’s rating plan provides for an increase in the premium based upon accidents or convictions within the meaning of Sections 13103 and 13105 of the Vehicle Code.
+Every insurer or its agent, not less than 20 days prior to renewal of a policy covered by this section, shall inform the named insured of the named insured’s right to be informed, upon request, of any increase in the premium, in whole or in part, charged the named insured by virtue of the involvement in any accident, or conviction within the meaning of Section 13103 and 13105 of the Vehicle Code, by the insured or any operator of the motor vehicle.
+(b) Every insurer shall, after March 1, 1977, as part of the first offer required by Section 663, deliver to everyone who was a named insured under a policy of insurance described in Section 660 on March 1, 1977, a notice explaining the manner in which the insurer’s rating plan provides for an increase in the premium, based upon accidents or convictions within the meaning of Sections 13103 and 13105 of the Vehicle Code.  The provisions of this subdivision shall expire on March 1, 1978.
+(Added by Stats. 1976, Ch. 1240.)

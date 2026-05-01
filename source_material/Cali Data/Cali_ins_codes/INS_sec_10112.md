@@ -1,0 +1,28 @@
+# California Code,  INS 10112.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10112.
+
+**Section:** 10112
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. The Contract [10110 - 10198.10]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 1. General Provisions [10110 - 10127.20]
+( Article 1 enacted by Stats. 1935, Ch. 145. )
+10112.
+Subject to Section 2459 of the Probate Code, in respect to life or disability insurance, or annuity contracts (except as provided in Sections 2500 to 2507, inclusive, of the Probate Code and Section 3500 of the Probate Code and Chapter 4 (commencing with Section 3600) of Part 8 of Division 4 of the Probate Code), heretofore or hereafter issued to or upon the life of any person not of a full 18 years of age for the benefit of such minor or for the benefit of the father, mother, spouse, child, brother, or sister, of such minor, or issued to such minor, subject to written consent of a parent or guardian, upon the life of any person in whom such minor has an insurable interest for the benefit of himself or herself or such minor’s father, mother, spouse, child, brother or
+				  sister, such minor shall not, by reason only of such minority, be deemed incompetent to contract for such insurance or annuity, or for the surrender thereof, or to exercise all contractual rights thereunder, or, subject to approval of a parent or guardian, to give a valid discharge for any benefit accruing or for any money payable thereunder; provided, that all such contracts made by a minor under 16 years of age, as determined by the nearest birthday, shall have the written consent of a parent or guardian, and that the exercise of all contractual rights under such contracts, or the surrender thereof, or the giving of a valid discharge for any benefit accruing or money payable thereunder, in the case of a minor under 16 years of age, as determined by the nearest birthday, shall have the written consent of a parent or guardian.
+All such contracts made by a minor not of a full 18 years of age which may result in any personal liability for assessment shall have the
+				  written assumption of any such liability by a parent or guardian in consideration of the issuance of the contract. Such assumption shall be in a form approved by the commissioner, reasonably designed to inform the parent or guardian of the liability thus assumed.
+Such assumption of liability may be made a part of and included with any written consent of such parent or guardian required under other provisions of this section and it may be provided therein that such assumption shall cover only up to the anniversary date of the policy nearest to the member’s birthday at which he or she attains 18 years of age.
+(Amended by Stats. 2016, Ch. 50, Sec. 57.   (SB 1005)   Effective January 1, 2017.)

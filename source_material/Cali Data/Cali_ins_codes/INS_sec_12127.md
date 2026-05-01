@@ -1,0 +1,25 @@
+# California Code,  INS 12127.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=12127.
+
+**Section:** 12127
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 4. MISCELLANEOUS CASUALTY INSURANCES [12050 - 12129]
+( Part 4 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 3. Group and Individual Plans for Legal Insurance [12125 - 12129]
+( Chapter 3 added by Stats. 1974, Ch. 1161. )
+12127.
+Group and individual legal insurance may be offered in this state subject to all the following conditions:
+(a) Premium rates shall comply with any pertinent standards in this code, including the standards that rates not be excessive, inadequate, or unfairly discriminatory.  Rates for group legal insurance shall not be deemed to be unfairly discriminatory because different premiums result for policyholders with like loss exposures but different expense factors, or like expense factors but different loss exposures, so long as the rates reflect the difference with reasonable accuracy.  Rates shall not be considered to be unfairly discriminatory if they are averaged broadly among persons insured under a group legal insurance plan.
+(b) No policy or certificate of legal insurance may be delivered or issued for delivery in this state unless and until a copy of the form thereof has been filed with the commissioner.  However, this subdivision shall apply only to an insurer for a two-year period immediately following the date upon which it files its first policy or certificate of legal insurance with the commissioner.
+(c) No policy of group legal insurance may be delivered or issued for delivery in this state unless it contains a provision that the insurer shall issue to the person in whose name the policy is issued, for delivery to each member of the insured group, a certificate setting forth in a summary form a statement of the essential features of the insurance coverage and to whom benefits thereunder are payable.  If dependents are included in the coverage, only one certificate need be issued for each family unit.  Any certificates delivered to members of an insured group pursuant to this subdivision shall be required to be “individualized” within the meaning of that term as it is defined by Section 10270.63 only if members of the group contribute to the payment of the legal insurance premiums.
+(Added by renumbering Section 12122 (as amended by Stats. 1974, Ch. 1161) by Stats. 1995, Ch. 91, Sec. 102.   Effective January 1, 1996.)

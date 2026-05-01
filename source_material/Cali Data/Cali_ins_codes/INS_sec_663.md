@@ -1,0 +1,31 @@
+# California Code,  INS 663.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=663.
+
+**Section:** 663
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 1. THE CONTRACT [100 - 679.75]
+( Part 1 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 10. Cancellation or Failure to Renew [660 - 669.5]
+( Chapter 10 repealed and added by Stats. 1968, Ch. 137. )
+663.
+(a) Before policy expiration, an insurer shall deliver to or mail to the named insured, at the address shown on the policy, one of the following:
+(1) At least 20 days before expiration, a written or verbal offer of renewal of the policy, contingent upon payment of premium as stated in the offer.
+(2) At least 30 days before expiration, a written notice of nonrenewal of the policy, including the statement required by Section 666.
+(b) (1) An insurer that delivers a verbal offer to renew that is declined by an insured shall, at least 20 days before expiration of the policy, deliver to or mail to the named insured, at the address shown on the policy, a written confirmation of the offer and rejection.
+(2) An insurer that attempts to satisfy subdivision (a) with a verbal offer to renew, but is unable to contact the named insured directly at least 20 days before policy expiration, shall, at least 20 days before policy expiration, deliver to or mail to the named insured, at the address shown on the policy, a written offer to renew the policy, contingent upon payment of premium as stated in the offer.
+(c) In
+				  the event that an insurer fails to give the named insured either an offer of renewal or notice of nonrenewal as required by this section, the existing policy, with no change in its terms and conditions, shall remain in effect for 30 days from the date that either the offer to renew or the notice of nonrenewal is delivered or mailed to the named insured. A notice to this effect shall be provided by the insurer to the named insured with the policy or the notice of renewal or nonrenewal. Notwithstanding the failure of an insurer to comply with this section, the policy shall terminate on the effective date of any other replacement or succeeding automobile insurance policy procured by the insured, or his agent or broker, with respect to any automobile designated in both policies.
+(d) The insurer shall not be required to notify the named insured, or any other insured, of nonrenewal of the
+				  policy if the insurer has mailed or delivered a notice of expiration or cancellation, on or prior to the 30th day preceding expiration of the policy period.
+(e) This section shall become operative on January 1, 2019.
+(Repealed (in Sec. 6) and added by Stats. 2013, Ch. 369, Sec. 7.   (SB 251)   Effective January 1, 2014.   Section operative January 1, 2019, by its own provisions.)

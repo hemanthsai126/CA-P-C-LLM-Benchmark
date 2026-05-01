@@ -1,0 +1,26 @@
+# California Code,  INS 758.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=758.
+
+**Section:** 758
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. General Regulations [680 - 1113]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 5.1. Unlawful Practices [755 - 758.7]
+( Heading of Article 5.1 renumbered from Article 5 (as added by Stats. 1989, Ch. 1099) by Stats. 1990, Ch. 216, Sec. 86. )
+758.
+(a) It is unlawful for an insurer to require an auto body repair shop registered pursuant to Sections 9884 and 9889.52 of the Business and Professions Code, as a condition of participation in the insurer’s direct repair program, to pay for the cost of an insured’s rental vehicle that is replacing an insured vehicle damaged in an accident, or to pay for the towing charges of the insured with respect to that accident.  However, the insurer and the auto body repair shop may agree in writing to terms and conditions under which the rental vehicle charges become the responsibility of the auto body repair shop when the shop fails to complete work within the agreed-upon time for repair of the damaged vehicle.
+(b) A registered auto body repair shop that is denied participation in an insurer’s direct repair program may report a denial to the department, which shall maintain a record of all those denials for the purposes of gathering market conduct information.  An insurer, upon the request of the department, shall disclose the fact that a denial was made.
+(c) Any insurer that conducts an auto body repair labor rate survey to determine and set a specified prevailing auto body rate in a specific geographic area shall report the results of that survey to the department, which shall make the information available upon request.  The survey information shall include the names and addresses of the auto body repair shops and the total number of shops surveyed.
+(Added by Stats. 2000, Ch. 867, Sec. 15.   Effective January 1, 2001.)

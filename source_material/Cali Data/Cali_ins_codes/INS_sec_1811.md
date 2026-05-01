@@ -1,0 +1,40 @@
+# California Code,  INS 1811.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1811.
+
+**Section:** 1811
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 7. Bail Licenses [1800 - 1823]
+( Chapter 7 added by Stats. 1937, Ch. 654. )
+ARTICLE 1. Qualification and Licensing [1800 - 1823]
+( Article 1 added by Stats. 1937, Ch. 654. )
+1811.
+For the commissioner’s services in connection with the filing of any application or request for any license under this chapter, the commissioner shall charge and collect the following fees:
+(a) For filing an application or request for bail agent’s license, three hundred eleven dollars ($311) per year.
+(b) For filing an application or request for bail solicitor’s license, three hundred eleven dollars ($311) per year.
+(c) For filing an application or request for bail permittee’s license, six hundred twenty-four dollars ($624).
+(d) For filing an application or request for bail fugitive recovery agent’s license, three hundred eleven dollars ($311) per year.
+(e) For filing an application for examination, or reexamination, sixty-two dollars ($62).
+(f) For a renewal application, a fee of ninety-four dollars ($94) per year. In the case of a bail agent with more than one valid notice of appointment on file, the fee to be charged pursuant to this subdivision shall be the fee provided herein multiplied by the number of insurers whose valid appointments are on file on the date the document is filed unless the bail agent in that document advises the commissioner of the agent’s intent to terminate the appointment of one or more of those insurers, in which event the fee shall be based upon the number
+						of insurers remaining.
+(g) For a bail solicitor’s renewal application, a fee of ninety-four dollars ($94) per year.
+(h) For a bail permittee’s renewal application, a fee of three hundred ninety-four dollars ($394) per year.
+(i) For a bail fugitive recovery agent’s renewal application, a fee of ninety-four dollars ($94) per year.
+(j) At the time of filing an application for a license, if a qualifying examination is required for issue or in connection with the license, the fee for filing the first application to take the qualifying examination shall be paid at the time of filing application for the license.
+(k) For filing application or request for approval of a true or fictitious name pursuant to Section 1724.5, thirty-two dollars ($32), except that there shall be no fee when the name is contained in an original application.
+(l) For filing a bond required by this chapter, except when the bond constitutes part of an original application, twenty-eight dollars ($28).
+(m) For filing a first amendment to an application, fifteen dollars ($15).
+(n) For filing a second and each subsequent amendment to an application, thirty-two dollars ($32).
+(o) This section shall become operative on July 1, 2023.
+(Repealed (in Sec. 14) and added by Stats. 2022, Ch. 768, Sec. 15.   (AB 2043)   Effective January 1, 2023.   Operative July 1, 2023, by its own provisions.)

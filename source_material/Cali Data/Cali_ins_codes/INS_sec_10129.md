@@ -1,0 +1,24 @@
+# California Code,  INS 10129.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10129.
+
+**Section:** 10129
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. The Contract [10110 - 10198.10]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 2. Transfer [10129 - 10133.14]
+( Article 2 enacted by Stats. 1935, Ch. 145. )
+10129.
+Sections 10130 and 10131 do not apply to group life policies, to group disability policies, or to individual disability policies providing a benefit for loss of time and which are noncancellable and guaranteed renewable for not less than five years, when any of such group life policies, group disability policies or individual disability policies expressly provide that benefits payable thereunder are not assignable, and in such case the benefits shall be paid only as provided in the policy.
+(Amended by Stats. 1947, Ch. 904.)

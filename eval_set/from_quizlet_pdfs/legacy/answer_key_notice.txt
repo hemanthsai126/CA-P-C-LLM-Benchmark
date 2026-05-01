@@ -1,0 +1,26 @@
+About answers.txt (Quizlet Test PDFs)
+--------------------------------------
+
+The printed PDFs do **not** include which letter (A–D) was correct for each item.
+
+We inferred letters by:
+
+  1. Keeping the same **Quizlet sets** as in the PDF URLs (cached HTML dumps in
+     `data/quizlet/quizlet_ca_flashcard_dump.md` and `data/quizlet/quizlet_ins_flashcard_dump.md`).
+  2. Matching each `questions.txt` stem to a flashcard **term**, then matching the
+     flashcard **definition** (the correct answer phrase) to the closest of the
+     four **options** in that block.
+
+Re-run or refresh answers:
+
+  .venv/bin/python3 scripts/fill_answers_from_quizlet_flashcards.py \\
+    --questions eval_set/from_quizlet_pdfs/questions.txt \\
+    --out eval_set/from_quizlet_pdfs/answers.txt
+
+Rows that stay `?` mean no confident flashcard stem match or no clear option match
+(often due to OCR/spacing differences). Fix those manually with
+`--answers-merge-from` on `scripts/quizlet_pdfs_to_eval_txt.py`, or edit
+`answers_key_TEMPLATE.tsv` and merge.
+
+INS QAA-style PDFs (numbered 1–4 options + duplicate answer line) still get keys
+directly from the PDF when you include them in `--pdfs`.

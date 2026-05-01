@@ -1,0 +1,30 @@
+# California Code,  INS 10786.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10786.
+
+**Section:** 10786
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 8.5. Coverage for Federally Eligible Defined Individuals [10785 - 10786]
+( Chapter 8.5 added by Stats. 2000, Ch. 810, Sec. 3. )
+10786.
+(a) (1) On and after January 1, 2014, a health insurer providing health insurance coverage shall provide to policyholders in individual policies or certificate holders in group policies who cease to be enrolled in coverage a notice informing them that they may be eligible for reduced-cost coverage through the California Health Benefit Exchange (Exchange) established under Title 22 (commencing with Section 100500) of the Government Code or free or low-cost coverage through Medi-Cal. The notice shall include information on obtaining coverage pursuant to those programs, shall be in no less than 12-point type, and shall be developed by the department, no later than July 1, 2013, in consultation with the Department of Managed
+						Health Care and the Exchange. The notice shall also include information that individuals eligible for the Medicare Program should examine their options carefully, as delaying Medicare enrollment may result in substantial financial implications, as well as information on how to find enrollment advice or assistance.
+(2) The notice described in paragraph (1) may be incorporated into or sent simultaneously with and in the same manner as any other notices sent by the health insurer.
+(b) (1) A health insurer shall annually notify a policyholder or certificate holder that if the
+						policyholder or certificate holder ceases to be enrolled in coverage, the health insurer will provide information, including the policyholder’s or certificate holder’s name, address, and other contact information, such as email address, to the Exchange so that the policyholder or certificate holder may obtain other coverage. A policyholder or certificate holder may opt out of this transfer of information to the Exchange. This notice may be incorporated into or sent simultaneously with other notices sent by the health insurer.
+(2) Beginning January 1, 2021, a health insurer that has notified its policyholders or certificate holders consistent with paragraph (1) shall provide to the Exchange the name, address, and other contact information of a policyholder or certificate holder who ceased to be enrolled in coverage and who did not opt out of the information
+						transfer. The information shall be provided in a manner prescribed by the Exchange.
+(3) The Exchange may use any contact method to communicate with and inform a policyholder or certificate holder who ceases to be enrolled in coverage of available coverage options.
+(c) This section does not apply to a specialized health insurance policy or a health insurance policy consisting solely of coverage of excepted benefits as described in Section 2722 of the federal Public Health Service Act (42 U.S.C. Sec. 300gg-21).
+(Amended by Stats. 2019, Ch. 845, Sec. 3.   (SB 260)   Effective January 1, 2020.)

@@ -1,0 +1,40 @@
+# California Code,  INS 12921.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=12921.
+
+**Section:** 12921
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 3. THE INSURANCE COMMISSIONER [12900 - 13855]
+( Division 3 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 2. Powers and Duties [12919 - 13555]
+( Chapter 2 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 1. Generally [12919 - 12938]
+( Article 1 enacted by Stats. 1935, Ch. 145. )
+12921.
+(a) The commissioner shall perform all duties imposed upon the commissioner by the provisions of this code and other laws regulating the business of insurance in this state, and shall enforce the execution of those provisions and laws.
+(b) In an administrative action to enforce the provisions of this code and other laws regulating the business of insurance in this state, any settlement is subject to all of the following:
+(1) The commissioner may delegate the power to negotiate the terms and conditions of a settlement to designated deputy commissioners. The commissioner may delegate the power to approve a settlement, unless the settlement involves any of the following:
+(A) An insurer.
+(B) A managing general agent or production agent that manages the business of an insurer.
+(C) A title company.
+(D) A home protection company.
+(E) An insurance adjuster whose claims practices are at issue.
+(F) An insurance agent or broker, or an applicant for an insurance agent or broker license, who has allegedly engaged in theft, fraud, or the misappropriation of premium or other funds in an amount that exceeds fifty thousand dollars ($50,000).
+(2) Unless specifically provided for in a provision of this code, the commissioner may not agree to any
+				  of the following:
+(A) That the respondent contribute, deposit, or transfer any moneys or other resources to a nonprofit entity.
+(B) That a respondent contribute, deposit, or transfer any fine, penalty, assessment, cost, or fee except to the commissioner for deposit in the appropriate state fund pursuant to Section 12975.7.
+(C) That the commissioner may or shall direct the transfer, distribution, or payment to another person or entity of any fine, penalty, assessment, cost, or fee.
+(D) The use of the commissioner’s name, likeness, or voice in any printed material or audio or visual medium, either for general distribution or for distribution to specific recipients.
+(3) The commissioner may
+				  only agree to payment to those persons or entities to whom payment may be due because of the respondent’s violation of a provision of this code or other law regulating the business of insurance in this state.
+(4) A settlement may only include the sanctions provided by this code or other laws regulating the business of insurance in this state, except that the settlement may include attorney’s fees, costs of the department in bringing the enforcement action, and future costs of the department to ensure compliance with the settlement agreement.
+(c) Notwithstanding any other law, the commissioner may accept documents submitted for filing or approval, process transactions, and maintain records in electronic form or as paper documents, and may adopt regulations to further this subdivision.
+(Amended by Stats. 2021, Ch. 50, Sec. 246.   (AB 378)   Effective January 1, 2022.)

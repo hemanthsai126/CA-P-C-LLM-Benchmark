@@ -1,0 +1,26 @@
+# California Code,  INS 931.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=931.
+
+**Section:** 931
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. General Regulations [680 - 1113]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 10.5. National Association of Insurance Commissioners [930 - 934]
+( Article 10.5 added by Stats. 1991, Ch. 986, Sec. 1. )
+931.
+(a) Each domestic, foreign, and alien insurer doing business in this state shall annually, on or before the first day of March of each year, file with the National Association of Insurance Commissioners a copy of its annual statement convention blank, along with any additional filings as prescribed by the commissioner for the preceding year.  The information filed with the National Association of Insurance Commissioners shall be in the same format and scope as that required by the commissioner and shall include the signed jurat page and the actuarial certification.  Any amendments and addendums to the annual statement filing subsequently filed with the commissioner shall also be filed with the National Association of Insurance Commissioners.
+(b) Each year, on or before the following dates, every domestic, foreign, and alien insurer doing business in this state shall make and file with the National Association of Insurance Commissioners, in the number, form, and methods prescribed by the commissioner, a copy of the quarterly statements exhibiting its condition and affairs for the period beginning on January 1 of the current calendar year through the end of each quarter of the current year as described below.  These quarterly filings shall cover the period of time beginning January 1 of the current year through and including the last day of the quarter for which the report is being made.  The first quarter filing shall be filed on or before May 15th of every year.  The second quarter filing shall be filed on or before August 15th of every year.  The third quarter filing shall be filed on or before November 15th of every year.  If any of these dates fall on a day other than a business day, then the filing is due to the National Association of Insurance Commissioners by the first business day preceding that date.  The information filed with the National Association of Insurance Commissioners shall include a jurat page.  A copy of any amendments and addendums to the quarterly statement filings subsequently filed with the commissioner shall also be filed with the National Association of Insurance Commissioners.
+(c) Foreign insurers that are domiciled in a state which has a law substantially similar to subdivision (a) of this section shall be deemed in compliance with this section.
+(Amended by Stats. 2004, Ch. 599, Sec. 3.   Effective January 1, 2005.)

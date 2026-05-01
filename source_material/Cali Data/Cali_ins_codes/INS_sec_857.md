@@ -1,0 +1,30 @@
+# California Code,  INS 857.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=857.
+
+**Section:** 857
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. General Regulations [680 - 1113]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 8. Issue of Securities [820 - 860]
+( Article 8 enacted by Stats. 1935, Ch. 145. )
+857.
+The commissioner shall charge and collect the following fees:
+(a) For filing an original or supplemental application, or any amendments thereto, for a permit to issue securities, four thousand two hundred thirty-three dollars ($4,233) except for applications for a permit to issue securities evidencing any change in rights, preferences, privileges, or restrictions on outstanding securities, or for applications for a permit to issue securities evidencing only a share dividend or a share split.
+(b) For filing an application for a permit to issue securities evidencing any change in the rights, preferences, privileges, or restrictions on outstanding securities, five hundred sixty-seven
+				  dollars ($567).
+(c) For filing an application for a permit to issue securities evidencing a share dividend or a share split, one thousand four hundred ten dollars ($1,410).
+(d) For filing an application for any other kind of permit, such as an application, for the issuance of a preorganizational or a negotiating permit, an application for a permit to issue options for securities, but not for the securities themselves, or any application for an amendment to an existing permit to issue securities, two hundred eighty-three dollars ($283).
+(e) An original or supplemental application shall not be amended after the permit sought thereby or by amendment thereto has been issued or denied.
+(Amended by Stats. 2017, Ch. 534, Sec. 10.   (AB 1699)   Effective January 1, 2018.)

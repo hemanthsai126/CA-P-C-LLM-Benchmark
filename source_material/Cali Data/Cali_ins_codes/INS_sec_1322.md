@@ -1,0 +1,35 @@
+# California Code,  INS 1322.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1322.
+
+**Section:** 1322
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 3. Reciprocal Insurers [1280 - 1560.19]
+( Chapter 3 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 3. Filing of Documents [1320 - 1330]
+( Article 3 enacted by Stats. 1935, Ch. 145. )
+1322.
+The attorney prior to admission shall file with the commissioner a declaration verified by his oath or, where such attorney is a corporation, by the oath of its duly authorized officers. Such declaration shall set forth or have annexed thereto:
+(a) The name of the attorney and the name under which contracts are to be made.
+(b) The location of the principal office of the exchange.
+(c) The classes of insurance to be exchanged.
+(d) A copy of each form of policy under or by which insurance is to be exchanged.
+(e) A copy of the form of the power of attorney or agreement under and by which such insurance is to be exchanged.
+(f) A statement that executed contracts or bona fide applications, to be concurrently effective, have been made for the exchange of indemnities by at least 100 separate subscribers, except that such statement shall not be required for organizations operating pursuant to Section 1284.
+(g) In the case of employer’s liability or workmen’s compensation insurance, a statement that there have been executed contracts or bona fide applications, to be concurrently effective, representing annual payroll having a total of not less than one million dollars ($1,000,000).
+(h) A statement that there are in the possession of such attorney subject to the supervision of the advisory board, assets conforming to the requirements of Article 5 of this chapter.
+(i) A financial statement under oath in the form prescribed by the commissioner for the annual statement.
+(j) The instrument authorizing service of process as provided in this chapter.
+(k) A certificate showing any deposits of funds or securities.
+(Amended by Stats. 1977, Ch. 904.)

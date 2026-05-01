@@ -1,0 +1,39 @@
+# California Code,  INS 1726.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1726.
+
+**Section:** 1726
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 5. Production Agencies [1621 - 1758.993]
+( Chapter 5 repealed and added by Stats. 1959, Ch. 4. )
+ARTICLE 12. Conduct of Licensee [1724 - 1736.5]
+( Article 12 added by Stats. 1959, Ch. 4. )
+1726.
+(a) A person who is licensed in this state as an insurance agent or broker, advertises insurance on the internet, and transacts insurance in this state, shall identify all of the following information in the same size type on the person’s internet website home page or in a prominently displayed link from the home page, regardless of whether the insurance agent or broker maintains the internet presence or if the presence is maintained on the person’s behalf:
+(1) The person’s name as filed with the commissioner that has not been disapproved pursuant to Section 1724.5.
+(2) The person’s state of domicile and
+						principal place of business.
+(3) The person’s California insurance license number.
+(4) The word “insurance.”
+(b) A person shall be deemed to be transacting insurance in this state when the person advertises on the internet, regardless of whether the insurance agent or broker maintains the internet presence or if it is maintained on the person’s behalf, and does any of the following:
+(1) Solicits a California resident.
+(2) Provides an insurance premium quote to a California resident.
+(3) Accepts an application for coverage from a
+						California resident.
+(4) Communicates with a California resident regarding one or more terms of an agreement to provide insurance or an insurance policy.
+(5) Enters into negotiations before executing an insurance contract with a California resident.
+(6) Executes an insurance contract with a California resident.
+(7) Transacts matters after executing an insurance contract with a California resident that arise out of that contract.
+(c) This section shall become operative on July 1, 2020.
+(Repealed in (Sec. 6) and added by Stats. 2019, Ch. 201, Sec. 7.   (AB 1813)   Effective January 1, 2020.   Section operative July 1, 2020, by its own provisions.)

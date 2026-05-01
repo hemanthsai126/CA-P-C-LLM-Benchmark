@@ -1,0 +1,31 @@
+# California Code,  INS 108.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=108.
+
+**Section:** 108
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 1. THE CONTRACT [100 - 679.75]
+( Part 1 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. Classes of Insurance [100 - 124.5]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+108.
+Liability insurance includes:
+(a) Insurance against loss resulting from liability for injury, fatal or nonfatal, suffered by any natural person, or resulting from liability for damage to property, or property interests of others but does not include worker’s compensation, common carrier liability, boiler and machinery, or team and vehicle insurance.
+(b) (1) With respect to operations or property covered by a policy of liability insurance as defined in subdivision (a), insurance of medical, hospital, surgical and funeral loss or
+				expense of the insured or other persons injured, and in the case of an automobile liability policy disability benefits to the insured or other persons injured and in the event of their death, funeral and accidental death benefits to their dependents, beneficiaries or personal representatives irrespective of legal liability of the insured, when issued with or supplemental to the insurance defined in subdivision (a);
+(2) When issued with or supplemental to the insurance defined in subdivision (a), disability insurance covering the insured and members of his household, or other persons who customarily operate any automobile covered by such a policy and who are named in such policy; and such disability insurance may cover against accidental injury, death or dismemberment caused by any or all hazards as defined in such coverage;
+(c) Insurance covering injuries sustained by an insured
+				resulting from a tort committed by a third party against which such third party is not himself covered by liability insurance;
+(d) Insurance coverage against the legal liability of the insured, and against loss, damage, or expense incident to a claim arising out of the death or injury of any person as the result of negligence or malpractice in rendering professional services by any person who holds a certificate or license issued pursuant to Chapter 5 (commencing with Section 2000) of Division 2 of the Business and Professions Code, a license issued pursuant to the Osteopathic Initiative Act, or license as a community clinic defined in subdivision (a) of Section 1203 of the Health and Safety Code, or a license as a health facility pursuant to Chapter 2 (commencing with Section 1250) of Division 2 of the Health and Safety Code.
+(e) The provisions of this code relating to disability
+				insurance do not apply to insurance defined in this section.
+(Amended by Stats. 1976, Ch. 152.)

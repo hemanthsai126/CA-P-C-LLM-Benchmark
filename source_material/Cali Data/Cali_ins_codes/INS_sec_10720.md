@@ -1,0 +1,32 @@
+# California Code,  INS 10720.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10720.
+
+**Section:** 10720
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 8. Small Employer Health Insurance [10700 - 10752.8]
+( Heading of Chapter 8 renumbered from Chapter 14 (as added by Stats. 1992, Ch. 1128) by Stats. 1993, Ch. 113, Sec. 6. )
+ARTICLE 3. Voluntary Reinsurance Mechanism [10719 - 10729]
+( Article 3 added by Stats. 1992, Ch. 1128, Sec. 10. )
+10720.
+(a) The fund shall be governed by a board of directors, which shall initially be elected by small employer carriers and small employer health care service plans.  The initial board shall be elected by a weighted vote based on net health insurance premiums derived from the state in the previous calendar year in the small employer market.  The initial board shall consist of at least five and not more than nine representatives of small employer carriers and small employer health care service plans.
+(b) Within 180 days of the election of the initial board, the board shall adopt a plan of operation which provides for the reasonable and equitable administration of the fund.
+(c) The plan of operation shall, among other things, do all of the following:
+(1) Establish procedures to assure the fair, reasonable, and equitable administration of the fund and provide for the sharing of fund gains or losses on an equitable and proportionate basis.
+(2) Establish procedures for handling and accounting of program assets and moneys.
+(3) Establish terms of office and procedures for filling vacancies on the board.
+(4) Establish procedures for reinsuring risks in accordance with the provisions of this chapter.
+(5) Establish procedures for collecting assessments from members to provide for claims reinsured by the fund and for administrative expenses incurred or estimated to be incurred during the period for which the assessment is made.
+(d) Within 60 days of the board’s adoption of the plan of operation, small employer carriers and small employer health care service plans shall elect to be either a participant or nonparticipant of the fund.  All participants of the fund shall be members of the fund, and only members of the fund shall continue to be members of the board.  Members may elect new members of the board, if necessary, to replace initial board members who elect to be nonparticipants of the fund, subject to subdivision (a).  The election shall be binding for a three-year period.  Thereafter, each small employer carrier shall notify the board 90 days prior to the end of the election period whether or not they will be a member of the fund.
+(Added by Stats. 1992, Ch. 1128, Sec. 10.   Effective January 1, 1993.   Operative July 1, 1993, by Sec. 15 of Ch. 1128.)

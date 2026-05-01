@@ -1,0 +1,66 @@
+# California Code,  INS 10083.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10083.
+
+**Section:** 10083
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 1. FIRE AND MARINE INSURANCE [1880 - 10108.1]
+( Part 1 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 8.5. Earthquake Insurance [10081 - 10089.4]
+( Chapter 8.5 added by Stats. 1984, Ch. 916, Sec. 1. )
+10083.
+(a) The offer of coverage required by Section 10081 may be made prior to, concurrent with, or within 60 days following the issuance or renewal of a residential property insurance policy. If the offer of coverage is mailed to the named insured or applicant, it shall be mailed to the mailing address shown on the policy of residential property insurance or on the application.
+(1) If the offer is made by a nonparticipating insurer as defined in Section 10089.5, the offer of earthquake coverage shall contain all of the following language in at least 10-point boldface type:
+“Your residential property insurance policy does not cover earthquake damage to your home or its contents.
+To cover earthquake damage to your home and its contents you need to purchase a separate earthquake insurance policy. The coverage provided by an earthquake insurance policy is different from, and typically more limited than, the coverage provided by your residential property insurance policy.
+California law requires insurance companies to offer earthquake insurance in conjunction with a residential property insurance policy. If you do not accept the offer of earthquake insurance below within 30 days of the mailing of this notice, your insurance company shall presume that you have not accepted this offer of earthquake insurance.
+You may purchase earthquake insurance coverage on the following terms:
+(A) Amount of Dwelling/Building Coverage Limit: _______________
+(B) Deductible: ______________
+(C) Contents Coverage Limit: _______________
+(D) Additional Living Expenses Coverage Limit: _____________
+(E) Estimated Annual Premium:_______________
+The deductible represents the amount of damage your covered property must incur before the earthquake insurance coverage begins. If your covered loss is less than the applicable deductible, you may not receive any payment.
+Contact your insurance agent or your insurance company to obtain details regarding this offer of earthquake insurance and other coverage options.”
+(2) If the offer is made by a participating insurer as defined by
+						Section 10089.5, the offer of earthquake coverage shall contain all of the following language in at least 10-point boldface type:
+“Your residential property insurance policy does not cover earthquake damage to your home or its contents.
+To cover earthquake damage to your home and its contents you need to purchase a separate earthquake insurance policy. The coverage provided by an earthquake insurance policy is different from, and typically more limited than, the coverage provided by your residential property insurance policy.
+California law requires insurance companies to offer earthquake insurance in conjunction with a residential property insurance policy. If you do not accept the offer of earthquake insurance below within 30 days of the mailing of this notice, your insurance company shall presume that you have not accepted this offer of
+						earthquake insurance.
+You may purchase earthquake insurance coverage on the following terms:
+(A) Amount of Dwelling/Building Coverage Limit: _______________
+(B) Deductible: ______________
+(C) Contents Coverage Limit: _______________
+(D) Additional Living Expenses Coverage Limit: _____________
+(E) Estimated Annual Premium:_______________
+The deductible represents the amount of damage your covered property must incur before the earthquake insurance coverage begins. If your covered loss is less than the applicable deductible, you may not receive any payment.
+If you
+						choose not to accept this offer within the 30-day period, you may apply for earthquake coverage at a later date.
+Your insurance company contracts with the California Earthquake Authority (CEA) to offer earthquake insurance to its customers. For an additional premium, you can choose CEA coverage options such as higher limits for Contents or Additional Living Expenses, increased building code upgrade limits, or a lower deductible. You can also choose to buy certain CEA coverages separately.
+Contact your insurance agent or your insurance company to obtain details regarding this offer of earthquake insurance and other coverage options.”
+(b) If the offer of earthquake coverage made pursuant to Section 10081 is not accepted, the insurer or any affiliated insurer shall be required on an every other year basis to offer earthquake coverage in connection with any continuation, renewal, or reinstatement of the policy following any lapse thereof, or with respect to any other policy that extends, changes, supersedes, or replaces the policy of residential property insurance.
+(c) The offer may contain additional provisions not in conflict with or in derogation of this section.
+(d) The commissioner may approve modifications to the language prescribed in subdivision (a)
+						only if all of the following conditions are met:
+(1) The modifications are not in conflict with or in derogation of any provision of this section or Section 10089.
+(2) The modifications accurately describe the coverage provided by the policy being offered.
+(3) The modifications are strictly limited to necessary changes so that the modified
+						offer is otherwise identical to the offer prescribed in subdivision (a).
+(e) Use of the language prescribed by this section, or modified language approved pursuant to subdivision (d), shall constitute compliance with the requirements of Section 10081 by an insurer subject thereto.
+(f) (1) If an insurer issues or causes to be issued a policy with earthquake coverages other than the coverages specified in subdivisions (a) and (b) of Section 10089, pursuant to a rate application approved by the commissioner in accordance with subdivision (c) of Section 10089, no further or other
+						offer of earthquake coverage as specified in subdivisions (a) and (b) of Section 10089 and no further or other notice of noncoverage is required by the insurer if both of the following apply:
+(A) A renewal of that policy is offered.
+(B) A written notice is provided with that renewal regarding additional earthquake coverage that is available.
+(2) The form of the written notice in paragraph (1) shall be filed with the commissioner at least 30 days before its first use. The form shall not be used if the commissioner disapproves the form of the written notice within that period for being misleading or incomplete.
+(g) This section shall become operative on January 1, 2019.
+(Amended (as amended by Stats. 2014, Ch. 427, Sec. 2.5) by Stats. 2016, Ch. 549, Sec. 2.   (AB 499)   Effective January 1, 2017.   Section operative January 1, 2019, by its own provisions.)

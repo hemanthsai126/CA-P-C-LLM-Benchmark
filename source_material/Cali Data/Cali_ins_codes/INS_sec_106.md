@@ -1,0 +1,33 @@
+# California Code,  INS 106.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=106.
+
+**Section:** 106
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 1. THE CONTRACT [100 - 679.75]
+( Part 1 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. Classes of Insurance [100 - 124.5]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+106.
+(a) Disability insurance includes insurance appertaining to injury, disablement or death resulting to the insured from accidents, and appertaining to disablements resulting to the insured from sickness.
+(b) In statutes that become effective on or after January 1, 2002, the term “health insurance” for purposes of this code shall mean an individual or group disability insurance policy that provides coverage for hospital, medical, or surgical benefits. The term “health insurance” shall not include any of the following kinds of insurance:
+(1) Accidental death and accidental death and
+						dismemberment.
+(2) Disability insurance, including hospital indemnity, accident only, and specified disease insurance that pays benefits on a fixed benefit, cash payment only basis.
+(3) Credit disability, as defined in subdivision (2) of Section 779.2.
+(4) Coverage issued as a supplement to liability insurance.
+(5) Disability income, as defined in subdivision (c) of Section 799.01.
+(6) Insurance under which benefits are payable with or without regard to fault and that is statutorily required to be contained in any liability insurance policy or equivalent self-insurance.
+(7) Insurance arising out of a workers’ compensation or similar law.
+(8) Long-term care.
+(c) In a statute that becomes effective on or after January 1, 2008, the term “specialized health insurance policy” as used in this code shall mean a policy of health insurance for covered benefits in a single specialized area of health care, including dental-only, vision-only, and behavioral health-only policies.
+(Amended by Stats. 2022, Ch. 424, Sec. 1.   (SB 1242)   Effective January 1, 2023.)

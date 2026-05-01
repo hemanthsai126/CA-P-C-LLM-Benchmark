@@ -1,0 +1,50 @@
+# California Code,  INS 1668.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1668.
+
+**Section:** 1668
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 5. Production Agencies [1621 - 1758.993]
+( Chapter 5 repealed and added by Stats. 1959, Ch. 4. )
+ARTICLE 6. License Qualifications [1666 - 1672]
+( Article 6 added by Stats. 1959, Ch. 4. )
+1668.
+The commissioner may deny an application for a license issued pursuant to this chapter if any of the following are true:
+(a) The applicant is not properly qualified to perform the duties of a person holding the license for which the applicant applied.
+(b) The granting of the license will be against public interest.
+(c) The applicant does not intend actively and in good faith to carry on as a business with the general public the transactions that would be permitted by the issuance of the license for which the applicant applied.
+(d) The applicant is not of good business reputation.
+(e) The applicant is lacking in integrity.
+(f) The applicant has been refused a professional, occupational, or vocational license or had a professional, occupational, or vocational license suspended or revoked by a licensing authority for reasons that should preclude the granting of the license for which the applicant applied.
+(g) The applicant seeks the license for the purpose of avoiding or preventing the operation or enforcement of the insurance laws of this state.
+(h) The applicant has knowingly or willfully made a misstatement in an application to the commissioner for a license, or in a
+						document filed in support of that application, or has made a false statement in testimony given under oath before the commissioner or another person acting in the commissioner’s stead.
+(i) The applicant has previously engaged in a fraudulent practice or act or has conducted any business in a dishonest manner.
+(j) The applicant has shown incompetency or untrustworthiness in the conduct of any business, or has by commission of a wrongful act or practice in the course of any business exposed the public or those dealing with the applicant to the danger of loss.
+(k) The applicant has knowingly misrepresented the terms or effect of an insurance policy or contract.
+(l) The
+						applicant has failed to perform a duty expressly enjoined upon them by this code or has committed an act expressly forbidden by this code.
+(m) The applicant has been convicted of any of the following:
+(1) A felony.
+(2) A misdemeanor specified by this code or other laws regulating insurance.
+(3) A public offense having as one of its necessary elements a fraudulent act or an act of dishonesty in acceptance, custody, or payment of money or property.
+(n) The applicant has aided or abetted a person in an act or omission that would constitute grounds for the suspension, revocation, or refusal of a
+						license or certificate issued under this code to the person aided or abetted.
+(o) The applicant has permitted a person in the applicant’s employ to violate this code.
+(p) The applicant has violated a law relating to conduct of business that could lawfully be done only under authority conferred by that license.
+(q) The applicant has submitted to the commissioner a false or fraudulent certificate pursuant to subdivision (d) of Section 1749.5.
+(r) The applicant has been found liable by clear and convincing evidence in a civil action involving allegations of elder or dependent abuse, oppression, fraud, malice, misappropriation or conversion of funds,
+						misrepresentation, or breach of fiduciary duty.
+A judgment, plea, or verdict of guilty, or a plea of nolo contendere is deemed to be a conviction within the meaning of this section.
+(Amended by Stats. 2021, Ch. 627, Sec. 7.   (AB 1511)   Effective January 1, 2022.)

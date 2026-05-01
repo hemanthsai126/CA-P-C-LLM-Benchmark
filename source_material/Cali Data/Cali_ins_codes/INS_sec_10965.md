@@ -1,0 +1,34 @@
+# California Code,  INS 10965.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10965.
+
+**Section:** 10965
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 9.9. Individual Access to Health Insurance [10965 - 10965.18]
+( Chapter 9.9 added by Stats. 2013, 1st Ex. Sess., Ch. 1, Sec. 19. )
+10965.
+For purposes of this chapter, the following definitions shall apply:
+(a) “Child” means a child described in Section 22775 of the Government Code and subdivisions (n) to (p), inclusive, of Section 599.500 of Title 2 of the California Code of Regulations.
+(b) “Dependent” means the spouse or registered domestic partner, child, or parent or stepparent pursuant to Section 10278.1, of an individual, subject to applicable terms of the health benefit plan.
+(c) “Exchange” means the California Health Benefit Exchange created by Section 100500 of the Government Code.
+(d) “Family” means the policyholder and dependent or dependents.
+(e) “Grandfathered health plan” has the same meaning as defined in Section 1251 of PPACA.
+(f) “Health benefit plan” means an individual or group policy of health insurance, as defined in Section 106. The term does not include a health insurance policy that provides excepted benefits, as described in Sections 2722 and 2791 of the federal Public Health Service Act (42 U.S.C. Sec. 300gg-21; 42 U.S.C. Sec. 300gg-91), subject to Section 10965.01 a health insurance policy provided in the Medi-Cal program (Chapter 7 (commencing with Section 14000) of Part 3 of Division 9 of the Welfare and Institutions Code), the Healthy Families Program (Part 6.2 (commencing
+						with Section 12693) of Division 2), the Access for Infants and Mothers Program (Part 6.3 (commencing with Section 12695) of Division 2), or the program under Part 6.4 (commencing with Section 12699.50) of Division 2, or Medicare supplement coverage, to the extent consistent with PPACA or a specified disease or hospital indemnity policy, subject to Section 10965.01.
+(g) “Policy year” means the period from January 1 to December 31, inclusive.
+(h) “PPACA” means the federal Patient Protection and Affordable Care Act (Public Law 111-148), as amended by the federal Health Care and Education Reconciliation Act of 2010 (Public Law 111-152), and any rules, regulations, or guidance issued pursuant to that law.
+(i) “Preexisting condition provision” means a policy provision that excludes coverage for charges or expenses incurred during a specified period following the insured’s effective date of coverage, as to a condition for which medical advice, diagnosis, care, or treatment was recommended or received during a specified period immediately preceding the effective date of coverage.
+(j) “Rating period” means the calendar year for which premium rates are in effect pursuant to subdivision (d) of Section 10965.9.
+(k) “Registered domestic partner” means a person who has established a domestic partnership as described in Section 297 of the Family Code.
+(Amended by Stats. 2021, Ch. 468, Sec. 4.   (AB 570)   Effective January 1, 2022.)

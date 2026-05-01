@@ -1,0 +1,29 @@
+# California Code,  INS 750.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=750.
+
+**Section:** 750
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. General Regulations [680 - 1113]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 5. Unlawful Referrals [750 - 754]
+( Article 5 added by Stats. 1989, Ch. 372, Sec. 1. )
+750.
+(a) Except as provided in Section 750.5, any person acting individually or through his or her employees or agents, who engages in the practice of processing, presenting, or negotiating claims, including claims under policies of insurance, and who offers, delivers, receives, or accepts any rebate, refund, commission, or other consideration, whether in the form of money or otherwise, as compensation or inducement to or from any person for the referral or procurement of clients, cases, patients, or customers, is guilty of a crime.
+(b) A violation of subdivision (a) is punishable upon a first conviction by imprisonment in a county jail for not more than one year, or by imprisonment
+				  pursuant to subdivision (h) of Section 1170 of the Penal Code, or by a fine not exceeding fifty thousand dollars ($50,000), or by both that imprisonment and fine. A second or subsequent conviction is punishable by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code or by that imprisonment and a fine of fifty thousand dollars ($50,000).
+(c) Nothing in this section shall prohibit a licensed collection or lien agency from receiving a commission on the collection of delinquent debts nor prohibits the agency from paying its employees a commission for obtaining clients seeking collection on delinquent debts.
+(d) Nothing in this section is intended to limit, restrict, or in any way apply to, the rebating of commissions by insurance agents or brokers, as authorized by Proposition 103, enacted by the people at the November 8, 1988, general
+				  election.
+(Amended by Stats. 2011, Ch. 15, Sec. 206.   (AB 109)   Effective April 4, 2011.   Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)

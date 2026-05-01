@@ -1,0 +1,22 @@
+# California Code,  INS 12954.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=12954.
+
+**Section:** 12954
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 3. THE INSURANCE COMMISSIONER [12900 - 13855]
+( Division 3 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 2. Powers and Duties [12919 - 13555]
+( Chapter 2 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 3. Procuring Information on Policies [12950 - 12960]
+( Article 3 enacted by Stats. 1935, Ch. 145. )
+12954.
+Immediately after receiving such affidavit from an insurer the commissioner shall certify such affidavit to the applicant. Such affidavit so certified by the commissioner shall be delivered to the applicant personally or by depositing it in the United States post office, addressed to the applicant, with postage prepaid thereon.
+(Enacted by Stats. 1935, Ch. 145.)

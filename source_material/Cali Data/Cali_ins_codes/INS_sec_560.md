@@ -1,0 +1,30 @@
+# California Code,  INS 560.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=560.
+
+**Section:** 560
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 1. THE CONTRACT [100 - 679.75]
+( Part 1 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 6. Loss [520 - 580]
+( Chapter 6 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 4. Payment of Automobile Collision Repairs [560- 560.]
+( Article 4 added by Stats. 1971, Ch. 798. )
+560.
+(a) An insurer that issues a policy providing automobile collision coverage, as defined in subdivision (d) of Section 660, or automobile physical damage coverage, as defined in subdivision (c) of Section 660, shall, if a covered automobile is damaged by collision or otherwise and the insurer knows that the automobile will be repaired by the repairer, make payment by check or draft, payable to the repairer or to the named insured and the repairer, jointly, or, with the consent of the repairer, by an electronic funds transfer to the repairer, not later than 10 days subsequent to receipt of an itemized bill or invoice covering repairs authorized by the insurer which have been satisfactorily completed. This section applies if the insured has
+						received actual notice that the repairer is doing work pursuant to a contract approved by the insurance company and, in that case, the payment shall include the name of the repairer.
+(b) (1) This section does not limit the right of an insured to select, or prohibit an insured from selecting, the auto body repair shop or other repair facility to repair the damaged vehicle, as described in Section 758.5, nor does it limit the right of an insured to decide, or prohibit an insured from deciding, not to have the vehicle repaired. If the insured decides not to have the vehicle repaired, the insurer shall not withhold the payment of reasonable repair cost benefits that are otherwise payable under the policy.
+(2) This section does not prohibit an insurer from restricting payment
+						in cases of suspected fraud or from including a named loss payee or lienholder as an additional payee on the claims
+						payment check or draft, to the degree the insurance policy permits the loss payee or lienholder to be added as additional payee on the claims payment check or draft.
+(3) This section does not prohibit an insurer from requiring that a damaged vehicle be repaired as a condition for payment if the damage to the vehicle is sufficiently serious that safety features that are part of the vehicle’s operating systems are compromised.
+(Amended by Stats. 2019, Ch. 132, Sec. 1.   (AB 1538)   Effective January 1, 2020.)

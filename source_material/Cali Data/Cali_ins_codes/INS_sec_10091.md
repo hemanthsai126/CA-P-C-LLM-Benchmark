@@ -1,0 +1,33 @@
+# California Code,  INS 10091.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10091.
+
+**Section:** 10091
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 1. FIRE AND MARINE INSURANCE [1880 - 10108.1]
+( Part 1 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 9. Basic Property Insurance Inspection and Placement Plan [10090 - 10100.3]
+( Chapter 9 added by Stats. 1968, Ch. 574. )
+10091.
+Unless the provision or context otherwise requires, the following definitions govern the construction of this chapter:
+(a) “Association,” “industry placement facility,” or “facility,” means a joint reinsurance association, the California FAIR Plan Association, formed by insurers licensed to write and engaged in writing basic property insurance within this state to assist persons in securing basic property insurance and to formulate and administer a program for the equitable apportionment among insurers of basic property insurance.
+(b) “Commissioner” means the Insurance Commissioner of this state.
+(c) (1) “Basic property insurance” means insurance against direct loss to real or tangible personal property at a fixed location in those geographic or urban areas, as designated by the commissioner, from perils insured under the standard fire policy and extended coverage endorsement, from vandalism and malicious mischief, and includes other insurance coverages as may be added with respect to that property by the industry placement facility with the approval of the commissioner or by the commissioner. “Basic property insurance” includes insurance for manufactured homes and mobilehomes under the same terms and conditions as basic property insurance sold for
+						other residential dwellings. “Basic property insurance” does not include insurance on automobile risks, commercial agricultural commodities or livestock, or equipment used to cultivate or transport agricultural commodities or livestock.
+(2) For the purposes of earthquake coverage that is provided as a component of basic property insurance, the association shall sell only the policy described in Section 10089. In force policies of basic property insurance that include earthquake coverage shall be renewed with the coverage specified in Section 10089, and the association shall comply with the notice requirements of paragraph (2) of subdivision (a) of Section 10086.
+(d) “Inspection bureau” means the organization or organizations designated by the
+						association with the approval of the commissioner to make inspections to determine the condition of the properties for which basic property insurance is sought and to perform other duties as may be authorized by the association.
+(e) “Premiums written” means gross direct premiums charged with respect to property in this state on all policies of basic property insurance and the basic property insurance premium components of all multiperil policies, less return premiums, dividends paid or credited to policyholders, or the unused or unabsorbed portions of premium deposits.
+(f) “Insurer” means a person who undertakes to indemnify another against loss, damage, or liability arising from a contingent or unknown event, and shall include reciprocals and interinsurance exchanges.
+(g) “Manufactured home” shall have the same meaning as defined in Section 18007 of the Health and Safety Code.
+(h) “Mobilehome” shall have the same meaning as defined in Section 18008 of the Health and Safety Code.
+(Amended by Stats. 2025, Ch. 476, Sec. 1.   (SB 525)   Effective January 1, 2026.)

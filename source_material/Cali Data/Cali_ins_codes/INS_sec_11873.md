@@ -1,0 +1,34 @@
+# California Code,  INS 11873.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=11873.
+
+**Section:** 11873
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 3. LIABILITY, WORKERS' COMPENSATION, AND COMMON CARRIER LIABILITY INSURANCE [11550 - 11895]
+( Heading of Part 3 amended by Stats. 1979, Ch. 373. )
+CHAPTER 4. The State Compensation Insurance Fund [11770 - 11886.2]
+( Chapter 4 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 5. Coverage of Public Employers [11870 - 11874]
+( Article 5 enacted by Stats. 1935, Ch. 145. )
+11873.
+(a) Except as provided by subdivision (b), the fund shall not be subject to the provisions of the Government Code made applicable to state agencies generally or collectively, unless the section specifically names the fund as an agency to which the provision applies.
+(b) The fund shall be subject to the provisions of Chapter 10.3 (commencing with Section 3512) of Division 4 of Title 1 of, Division 10 (commencing with Section 7920.000) of Title 1 of, Chapter 6.5 (commencing with Section 8543) of Division 1 of Title 2 of, Article 9 (commencing with Section 11120) of Chapter 1 of Part 1 of Division 3 of Title 2 of, the Government Code, and Division 5 (commencing with Section 18000) of
+						Title 2 of the Government Code, with the exception of all of the following provisions of that division:
+(1) Article 1 (commencing with Section 19820) and Article 2 (commencing with Section 19823) of Chapter 2 of Part 2.6 of Division 5.
+(2) Sections 19849.2, 19849.3, 19849.4, and 19849.5.
+(3) Chapter 4.5 (commencing with Section 19993.1) of Part 2.6 of Division 5.
+(c) Except as provided in subdivisions (d) and (e) for the period from July 1, 2012, to June 30, 2013, inclusive, and for the period from July 1, 2020, to June 30, 2021, inclusive, and notwithstanding any provision of the Government Code or any other provision of law, the positions funded by
+						the State Compensation Insurance Fund are exempt from any hiring freezes and staff cutbacks otherwise required by law. This subdivision is declaratory of existing law.
+(d) Notwithstanding any other law, employees of the fund shall, without limitation, be subject to any and all reductions in state employee compensation imposed by the Legislature on other state employees for the period from July 1, 2012, to June 30, 2013, inclusive, and for the period from July 1, 2020, to June 30, 2021, inclusive, regardless of the means adopted to effect those reductions.
+(e) With the exception of the reductions authorized in subdivision (d), if any provision of this section, or any practice or procedure adopted pursuant to this section, is in conflict with the provisions of a memorandum
+						of understanding reached pursuant to Section 3517.5 of the Government Code, the memorandum of understanding shall be controlling without further legislative action, except that if the provisions of a memorandum of understanding require the expenditure of funds, the provisions shall not become effective unless approved by the Legislature in the annual Budget Act.
+(Amended by Stats. 2021, Ch. 615, Sec. 315.   (AB 474)   Effective January 1, 2022.   Operative January 1, 2023, pursuant to Sec. 463 of Stats. 2021, Ch. 615.)

@@ -1,0 +1,24 @@
+# California Code,  INS 1772.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1772.
+
+**Section:** 1772
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 6. Surplus Line Brokers [1760 - 1780]
+( Chapter 6 enacted by Stats. 1935, Ch. 145. )
+1772.
+(a) A surplus line insurer may be sued upon any cause of action arising in this state under any surplus line insurance contract made by it, or any evidence of insurance issued or delivered by the surplus line broker, pursuant to the procedure set forth in Sections 1610 to 1620, inclusive.  Any policy or evidence of insurance issued by the surplus line insurer or the surplus line broker shall contain a provision stating the substance of this section, and designating the person to whom the commissioner shall mail process.
+(b) Every surplus line insurer assuming a surplus line insurance shall be deemed thereby to have subjected itself to this chapter.
+(c) The remedies provided by this section shall be in addition to any other methods provided by law for service of process.
+(Added by Stats. 1994, Ch. 980, Sec. 7.   Effective January 1, 1995.)

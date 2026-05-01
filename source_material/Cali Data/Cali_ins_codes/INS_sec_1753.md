@@ -1,0 +1,41 @@
+# California Code,  INS 1753.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1753.
+
+**Section:** 1753
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 5. Production Agencies [1621 - 1758.993]
+( Chapter 5 repealed and added by Stats. 1959, Ch. 4. )
+ARTICLE 15. Travel Insurance Agents [1752 - 1757]
+( Article 15 added by Stats. 1959, Ch. 4. )
+1753.
+As used in this article, the following terms have the following meanings:
+(a) “Limited lines travel insurance agent” means an insurer designee that is licensed to transact travel insurance, as defined in subdivision (b).
+(b) “Transact” means, for the purposes of this article, the following activities when engaged in by a travel retailer:
+(1) Offering and disseminating information to a prospective or current policyholder on behalf of a limited lines travel insurance agent, including brochures, buyer guides, descriptions of coverage, and price.
+(2) Referring specific questions regarding coverage features and benefits from a prospective or current policyholder to a limited lines travel insurance agent.
+(3) Disseminating and processing applications for coverage, coverage selection forms, or other similar forms in response to a request from a prospective or current policyholder.
+(4) Collecting premiums from a prospective or current policyholder on behalf of a limited lines travel insurance agent.
+(5) Receiving and recording information from a policyholder to share with a limited lines travel insurance agent.
+(c) (1) “Travel insurance” means insurance coverage for personal
+						risks incidental to planned travel, including one or more of the following:
+(A) Interruption or cancellation of a trip or event.
+(B) Loss of baggage or personal effects.
+(C) Damages to accommodations or rental vehicles.
+(D) Sickness, accident, disability, or death occurring during travel.
+(2) Travel insurance does not include major medical plans, which provide comprehensive medical protection for travelers with trips lasting six months or longer, including, for example, those working overseas as an expatriate or military personnel being deployed.
+(3) Travel insurance does not include damage waiver contracts, as defined in subdivision (g) of Section 1939.01 of the Civil Code. The phrase “damage waiver” or “collision damage waiver” cannot be used to describe travel insurance coverage, but the insurance contract may otherwise refer to “damage waiver” or “collision damage waiver” provided by a rental company, as defined in
+						subdivision (a) of Section 1939.01 of the Civil Code.
+(d) “Travel retailer” means a business organization that makes, arranges, or offers travel services and may offer and disseminate travel insurance as a service to its customers on behalf of and under the direction of a limited lines travel insurance agent.
+(Amended by Stats. 2018, Ch. 231, Sec. 12.   (AB 2045)   Effective January 1, 2019.)

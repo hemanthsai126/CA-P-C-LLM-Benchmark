@@ -1,0 +1,32 @@
+# California Code,  INS 11785.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=11785.
+
+**Section:** 11785
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 3. LIABILITY, WORKERS' COMPENSATION, AND COMMON CARRIER LIABILITY INSURANCE [11550 - 11895]
+( Heading of Part 3 amended by Stats. 1979, Ch. 373. )
+CHAPTER 4. The State Compensation Insurance Fund [11770 - 11886.2]
+( Chapter 4 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 1. Organization and Powers [11770 - 11805]
+( Article 1 enacted by Stats. 1935, Ch. 145. )
+11785.
+(a) The board of directors shall appoint a president, a chief financial officer, a chief operating officer, a chief information technology officer, a chief investment officer, a chief risk officer, a general counsel, a chief medical officer, a chief actuarial officer, a chief claims operations officer, and a chief of internal affairs. The board may appoint a chief underwriting officer, a senior vice president of insurance services, an executive vice president of corporate claims, an executive vice president of strategic planning, and a pricing actuary. The board of directors shall set the salary for each position in amounts that are reasonably necessary to attract and retain individuals of superior qualifications. The board shall submit its
+						salary-setting criteria, including salary surveys, to the Department of Human Resources. These positions shall not be subject to otherwise applicable provisions of the Government Code and the Public Contract Code, and for those purposes the fund shall not be considered a state agency or other public entity. The president shall manage and conduct the business and affairs of the fund under the general direction and subject to the approval of the board of directors, and shall perform other duties as the board of directors prescribes.
+(b) Section 87406 of the Government Code, the Milton Marks Postgovernment Employment Restrictions Act of 1990, shall apply to the fund. Members of the board, a person who held a position designated in subdivision (a), and any other person designated by the fund shall be deemed to be designated employees for the purpose
+						of that act.
+(c) Both the Bagley-Keene Open Meeting Act (Article 9 (commencing with Section 11120) of Chapter 1 of Part 1 of
+						Division 3 of Title 2 of the Government Code) and the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code) shall apply to the fund.
+(d) (1) The board shall, by September 1, 2018, and subsequently on a biennial basis, make a report to the Legislature and to the committees of the Senate and Assembly having jurisdiction over insurance that provides any salary-setting criteria and salary surveys submitted to the Department of Human Resources pursuant to subdivision (a), and the salary and total compensation of each position appointed pursuant to subdivision (a), for the previous two fiscal years.
+(2) A report submitted pursuant to this subdivision shall be submitted in compliance with
+						Section 9795 of the Government Code.
+(Amended by Stats. 2021, Ch. 615, Sec. 314.   (AB 474)   Effective January 1, 2022.   Operative January 1, 2023, pursuant to Sec. 463 of Stats. 2021, Ch. 615.)

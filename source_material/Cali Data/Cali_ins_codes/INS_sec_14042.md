@@ -1,0 +1,27 @@
+# California Code,  INS 14042.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=14042.
+
+**Section:** 14042
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 5. INSURANCE ADJUSTERS [14000 - 16032]
+( Division 5 added by Stats. 1980, Ch. 1190, Sec. 11. )
+CHAPTER 1. Insurance Adjuster Act [14000 - 14099]
+( Chapter 1 added by Stats. 1980, Ch. 1190, Sec. 11. )
+ARTICLE 3. Regulation, Licensing, and Registration [14020 - 14047]
+( Article 3 added by Stats. 1980, Ch. 1190, Sec. 11. )
+14042.
+A licensee shall not conduct a business under a fictitious or other business name unless and until he or she has obtained the written authorization of the commissioner to do so.
+The commissioner shall not authorize the use of a fictitious or other business name that is so similar to that of a public officer or agency or of that used by another licensee that the public may be confused or misled thereby.
+The authorization shall require, as a condition precedent to the use of any fictitious name, that the licensee comply with Section 1724.5 of this code and Chapter 5 (commencing with Section 17900) of Part 3 of Division 7 of the Business and Professions Code.
+A licensee desiring to
+				  conduct his or her business under more than one fictitious business name shall obtain the authorization of the commissioner in the manner prescribed in this section for the use of each name.
+The licensee shall pay a fee of twenty-five dollars ($25) for each authorization to use an additional fictitious business name and for each change in the use of a fictitious business name. If the original license is issued in a nonfictitious name and authorization is requested to have the license reissued in a fictitious business name, the licensee shall pay a fee of twenty-nine dollars ($29) for that authorization.
+(Amended by Stats. 2017, Ch. 534, Sec. 92.   (AB 1699)   Effective January 1, 2018.)

@@ -1,0 +1,25 @@
+# California Code,  INS 736.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=736.
+
+**Section:** 736
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. General Regulations [680 - 1113]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 4. Examination by Commissioner [729 - 738]
+( Article 4 enacted by Stats. 1935, Ch. 145. )
+736.
+All examinations and analyses performed pursuant to Section 730 shall be at the expense of the insurer, organization, or person examined, except that special examinations which are in addition to regular examinations may be at the expense of the state in the discretion of the commissioner. The costs and expenses of all of those examinations shall be paid from the support appropriation for the Department of Insurance current at the time of the examination but shall be charged to and collected from the insurer, organization or person examined. If any insurer, organization, or person refuses to pay those costs and expenses promptly when due, the commissioner may refuse to issue its certificate of authority, certificate of exemption, or license, as the case may be, and may revoke any existing certificate of
+				  authority, certificate of exemption, or license.
+(Amended by Stats. 2009, Ch. 234, Sec. 4.   (AB 299)   Effective January 1, 2010.)

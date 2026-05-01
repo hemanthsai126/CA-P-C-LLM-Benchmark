@@ -1,0 +1,481 @@
+question_number,bucket,bucket_name,model,notes
+1,5,Residential property,heuristic,keyword_residential
+2,1,Basic concepts,heuristic,default
+3,1,Basic concepts,heuristic,default
+4,1,Basic concepts,heuristic,default
+5,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+6,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+7,1,Basic concepts,heuristic,default
+8,1,Basic concepts,heuristic,default
+9,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+10,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+11,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+12,5,Residential property,heuristic,keyword_residential
+13,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+14,2,Contract law,heuristic,keyword_contract
+15,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+16,1,Basic concepts,heuristic,default
+17,6,Valuation & government programs,heuristic,keyword_valuation_programs
+18,5,Residential property,heuristic,keyword_residential
+19,6,Valuation & government programs,heuristic,keyword_valuation_programs
+20,2,Contract law,heuristic,keyword_contract
+21,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+22,1,Basic concepts,heuristic,default
+23,5,Residential property,heuristic,keyword_residential
+24,1,Basic concepts,heuristic,default
+25,5,Residential property,heuristic,keyword_residential
+26,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+27,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+28,6,Valuation & government programs,heuristic,keyword_valuation_programs
+29,2,Contract law,heuristic,keyword_contract
+30,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+31,5,Residential property,heuristic,keyword_residential
+32,2,Contract law,heuristic,keyword_contract
+33,1,Basic concepts,heuristic,default
+34,1,Basic concepts,heuristic,default
+35,2,Contract law,heuristic,keyword_contract
+36,1,Basic concepts,heuristic,default
+37,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+38,2,Contract law,heuristic,keyword_contract
+39,1,Basic concepts,heuristic,default
+40,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+41,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+42,1,Basic concepts,heuristic,default
+43,1,Basic concepts,heuristic,default
+44,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+45,2,Contract law,heuristic,keyword_contract
+46,1,Basic concepts,heuristic,default
+47,2,Contract law,heuristic,keyword_contract
+48,2,Contract law,heuristic,keyword_contract
+49,2,Contract law,heuristic,keyword_contract
+50,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+51,1,Basic concepts,heuristic,default
+52,1,Basic concepts,heuristic,default
+53,2,Contract law,heuristic,keyword_contract
+54,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+55,1,Basic concepts,heuristic,default
+56,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+57,2,Contract law,heuristic,keyword_contract
+58,2,Contract law,heuristic,keyword_contract
+59,3,CA laws & ethics,heuristic,keyword_ca_law
+60,2,Contract law,heuristic,keyword_contract
+61,2,Contract law,heuristic,keyword_contract
+62,3,CA laws & ethics,heuristic,keyword_ca_law
+63,2,Contract law,heuristic,keyword_contract
+64,2,Contract law,heuristic,keyword_contract
+65,2,Contract law,heuristic,keyword_contract
+66,2,Contract law,heuristic,keyword_contract
+67,2,Contract law,heuristic,keyword_contract
+68,2,Contract law,heuristic,keyword_contract
+69,2,Contract law,heuristic,keyword_contract
+70,2,Contract law,heuristic,keyword_contract
+71,2,Contract law,heuristic,keyword_contract
+72,2,Contract law,heuristic,keyword_contract
+73,2,Contract law,heuristic,keyword_contract
+74,2,Contract law,heuristic,keyword_contract
+75,2,Contract law,heuristic,keyword_contract
+76,3,CA laws & ethics,heuristic,keyword_ca_law
+77,2,Contract law,heuristic,keyword_contract
+78,2,Contract law,heuristic,keyword_contract
+79,2,Contract law,heuristic,keyword_contract
+80,2,Contract law,heuristic,keyword_contract
+81,2,Contract law,heuristic,keyword_contract
+82,2,Contract law,heuristic,keyword_contract
+83,2,Contract law,heuristic,keyword_contract
+84,2,Contract law,heuristic,keyword_contract
+85,3,CA laws & ethics,heuristic,keyword_ca_law
+86,2,Contract law,heuristic,keyword_contract
+87,2,Contract law,heuristic,keyword_contract
+88,3,CA laws & ethics,heuristic,keyword_ca_law
+89,2,Contract law,heuristic,keyword_contract
+90,2,Contract law,heuristic,keyword_contract
+91,3,CA laws & ethics,heuristic,keyword_ca_law
+92,2,Contract law,heuristic,keyword_contract
+93,2,Contract law,heuristic,keyword_contract
+94,2,Contract law,heuristic,keyword_contract
+95,2,Contract law,heuristic,keyword_contract
+96,2,Contract law,heuristic,keyword_contract
+97,2,Contract law,heuristic,keyword_contract
+98,3,CA laws & ethics,heuristic,keyword_ca_law
+99,2,Contract law,heuristic,keyword_contract
+100,2,Contract law,heuristic,keyword_contract
+101,2,Contract law,heuristic,keyword_contract
+102,2,Contract law,heuristic,keyword_contract
+103,2,Contract law,heuristic,keyword_contract
+104,2,Contract law,heuristic,keyword_contract
+105,3,CA laws & ethics,heuristic,keyword_ca_law
+106,2,Contract law,heuristic,keyword_contract
+107,2,Contract law,heuristic,keyword_contract
+108,2,Contract law,heuristic,keyword_contract
+109,2,Contract law,heuristic,keyword_contract
+110,2,Contract law,heuristic,keyword_contract
+111,3,CA laws & ethics,heuristic,keyword_ca_law
+112,2,Contract law,heuristic,keyword_contract
+113,2,Contract law,heuristic,keyword_contract
+114,2,Contract law,heuristic,keyword_contract
+115,2,Contract law,heuristic,keyword_contract
+116,2,Contract law,heuristic,keyword_contract
+117,2,Contract law,heuristic,keyword_contract
+118,2,Contract law,heuristic,keyword_contract
+119,2,Contract law,heuristic,keyword_contract
+120,2,Contract law,heuristic,keyword_contract
+121,3,CA laws & ethics,heuristic,keyword_ca_law
+122,3,CA laws & ethics,heuristic,keyword_ca_law
+123,3,CA laws & ethics,heuristic,keyword_ca_law
+124,3,CA laws & ethics,heuristic,keyword_ca_law
+125,3,CA laws & ethics,heuristic,keyword_ca_law
+126,3,CA laws & ethics,heuristic,keyword_ca_law
+127,3,CA laws & ethics,heuristic,keyword_ca_law
+128,3,CA laws & ethics,heuristic,keyword_ca_law
+129,3,CA laws & ethics,heuristic,keyword_ca_law
+130,3,CA laws & ethics,heuristic,keyword_ca_law
+131,3,CA laws & ethics,heuristic,keyword_ca_law
+132,3,CA laws & ethics,heuristic,keyword_ca_law
+133,3,CA laws & ethics,heuristic,keyword_ca_law
+134,3,CA laws & ethics,heuristic,keyword_ca_law
+135,3,CA laws & ethics,heuristic,keyword_ca_law
+136,3,CA laws & ethics,heuristic,keyword_ca_law
+137,3,CA laws & ethics,heuristic,keyword_ca_law
+138,3,CA laws & ethics,heuristic,keyword_ca_law
+139,3,CA laws & ethics,heuristic,keyword_ca_law
+140,3,CA laws & ethics,heuristic,keyword_ca_law
+141,3,CA laws & ethics,heuristic,keyword_ca_law
+142,3,CA laws & ethics,heuristic,keyword_ca_law
+143,3,CA laws & ethics,heuristic,keyword_ca_law
+144,3,CA laws & ethics,heuristic,keyword_ca_law
+145,3,CA laws & ethics,heuristic,keyword_ca_law
+146,3,CA laws & ethics,heuristic,keyword_ca_law
+147,3,CA laws & ethics,heuristic,keyword_ca_law
+148,3,CA laws & ethics,heuristic,keyword_ca_law
+149,3,CA laws & ethics,heuristic,keyword_ca_law
+150,3,CA laws & ethics,heuristic,keyword_ca_law
+151,3,CA laws & ethics,heuristic,keyword_ca_law
+152,3,CA laws & ethics,heuristic,keyword_ca_law
+153,3,CA laws & ethics,heuristic,keyword_ca_law
+154,3,CA laws & ethics,heuristic,keyword_ca_law
+155,3,CA laws & ethics,heuristic,keyword_ca_law
+156,3,CA laws & ethics,heuristic,keyword_ca_law
+157,3,CA laws & ethics,heuristic,keyword_ca_law
+158,3,CA laws & ethics,heuristic,keyword_ca_law
+159,3,CA laws & ethics,heuristic,keyword_ca_law
+160,3,CA laws & ethics,heuristic,keyword_ca_law
+161,3,CA laws & ethics,heuristic,keyword_ca_law
+162,3,CA laws & ethics,heuristic,keyword_ca_law
+163,3,CA laws & ethics,heuristic,keyword_ca_law
+164,3,CA laws & ethics,heuristic,keyword_ca_law
+165,3,CA laws & ethics,heuristic,keyword_ca_law
+166,3,CA laws & ethics,heuristic,keyword_ca_law
+167,3,CA laws & ethics,heuristic,keyword_ca_law
+168,3,CA laws & ethics,heuristic,keyword_ca_law
+169,3,CA laws & ethics,heuristic,keyword_ca_law
+170,3,CA laws & ethics,heuristic,keyword_ca_law
+171,3,CA laws & ethics,heuristic,keyword_ca_law
+172,3,CA laws & ethics,heuristic,keyword_ca_law
+173,3,CA laws & ethics,heuristic,keyword_ca_law
+174,3,CA laws & ethics,heuristic,keyword_ca_law
+175,3,CA laws & ethics,heuristic,keyword_ca_law
+176,3,CA laws & ethics,heuristic,keyword_ca_law
+177,3,CA laws & ethics,heuristic,keyword_ca_law
+178,3,CA laws & ethics,heuristic,keyword_ca_law
+179,3,CA laws & ethics,heuristic,keyword_ca_law
+180,3,CA laws & ethics,heuristic,keyword_ca_law
+181,5,Residential property,heuristic,keyword_residential
+182,5,Residential property,heuristic,keyword_residential
+183,2,Contract law,heuristic,keyword_contract
+184,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+185,1,Basic concepts,heuristic,default
+186,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+187,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+188,5,Residential property,heuristic,keyword_residential
+189,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+190,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+191,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+192,1,Basic concepts,heuristic,default
+193,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+194,5,Residential property,heuristic,keyword_residential
+195,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+196,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+197,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+198,2,Contract law,heuristic,keyword_contract
+199,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+200,6,Valuation & government programs,heuristic,keyword_valuation_programs
+201,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+202,5,Residential property,heuristic,keyword_residential
+203,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+204,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+205,1,Basic concepts,heuristic,default
+206,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+207,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+208,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+209,5,Residential property,heuristic,keyword_residential
+210,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+211,1,Basic concepts,heuristic,default
+212,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+213,5,Residential property,heuristic,keyword_residential
+214,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+215,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+216,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+217,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+218,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+219,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+220,1,Basic concepts,heuristic,default
+221,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+222,5,Residential property,heuristic,keyword_residential
+223,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+224,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+225,5,Residential property,heuristic,keyword_residential
+226,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+227,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+228,5,Residential property,heuristic,keyword_residential
+229,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+230,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+231,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+232,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+233,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+234,5,Residential property,heuristic,keyword_residential
+235,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+236,4,Tort & property fundamentals,heuristic,keyword_tort_fundamentals
+237,1,Basic concepts,heuristic,default
+238,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+239,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+240,5,Residential property,heuristic,keyword_residential
+241,3,CA laws & ethics,heuristic,keyword_ca_law
+242,2,Contract law,heuristic,keyword_contract
+243,6,Valuation & government programs,heuristic,keyword_valuation_programs
+244,5,Residential property,heuristic,keyword_residential
+245,2,Contract law,heuristic,keyword_contract
+246,5,Residential property,heuristic,keyword_residential
+247,2,Contract law,heuristic,keyword_contract
+248,5,Residential property,heuristic,keyword_residential
+249,3,CA laws & ethics,heuristic,keyword_ca_law
+250,6,Valuation & government programs,heuristic,keyword_valuation_programs
+251,5,Residential property,heuristic,keyword_residential
+252,5,Residential property,heuristic,keyword_residential
+253,5,Residential property,heuristic,keyword_residential
+254,3,CA laws & ethics,heuristic,keyword_ca_law
+255,2,Contract law,heuristic,keyword_contract
+256,5,Residential property,heuristic,keyword_residential
+257,2,Contract law,heuristic,keyword_contract
+258,3,CA laws & ethics,heuristic,keyword_ca_law
+259,5,Residential property,heuristic,keyword_residential
+260,2,Contract law,heuristic,keyword_contract
+261,2,Contract law,heuristic,keyword_contract
+262,5,Residential property,heuristic,keyword_residential
+263,6,Valuation & government programs,heuristic,keyword_valuation_programs
+264,2,Contract law,heuristic,keyword_contract
+265,6,Valuation & government programs,heuristic,keyword_valuation_programs
+266,5,Residential property,heuristic,keyword_residential
+267,5,Residential property,heuristic,keyword_residential
+268,3,CA laws & ethics,heuristic,keyword_ca_law
+269,3,CA laws & ethics,heuristic,keyword_ca_law
+270,5,Residential property,heuristic,keyword_residential
+271,3,CA laws & ethics,heuristic,keyword_ca_law
+272,3,CA laws & ethics,heuristic,keyword_ca_law
+273,3,CA laws & ethics,heuristic,keyword_ca_law
+274,3,CA laws & ethics,heuristic,keyword_ca_law
+275,3,CA laws & ethics,heuristic,keyword_ca_law
+276,6,Valuation & government programs,heuristic,keyword_valuation_programs
+277,3,CA laws & ethics,heuristic,keyword_ca_law
+278,6,Valuation & government programs,heuristic,keyword_valuation_programs
+279,3,CA laws & ethics,heuristic,keyword_ca_law
+280,2,Contract law,heuristic,keyword_contract
+281,3,CA laws & ethics,heuristic,keyword_ca_law
+282,5,Residential property,heuristic,keyword_residential
+283,3,CA laws & ethics,heuristic,keyword_ca_law
+284,2,Contract law,heuristic,keyword_contract
+285,5,Residential property,heuristic,keyword_residential
+286,3,CA laws & ethics,heuristic,keyword_ca_law
+287,3,CA laws & ethics,heuristic,keyword_ca_law
+288,3,CA laws & ethics,heuristic,keyword_ca_law
+289,6,Valuation & government programs,heuristic,keyword_valuation_programs
+290,3,CA laws & ethics,heuristic,keyword_ca_law
+291,5,Residential property,heuristic,keyword_residential
+292,2,Contract law,heuristic,keyword_contract
+293,3,CA laws & ethics,heuristic,keyword_ca_law
+294,2,Contract law,heuristic,keyword_contract
+295,5,Residential property,heuristic,keyword_residential
+296,6,Valuation & government programs,heuristic,keyword_valuation_programs
+297,3,CA laws & ethics,heuristic,keyword_ca_law
+298,3,CA laws & ethics,heuristic,keyword_ca_law
+299,3,CA laws & ethics,heuristic,keyword_ca_law
+300,3,CA laws & ethics,heuristic,keyword_ca_law
+301,6,Valuation & government programs,heuristic,keyword_valuation_programs
+302,6,Valuation & government programs,heuristic,keyword_valuation_programs
+303,3,CA laws & ethics,heuristic,keyword_ca_law
+304,6,Valuation & government programs,heuristic,keyword_valuation_programs
+305,3,CA laws & ethics,heuristic,keyword_ca_law
+306,5,Residential property,heuristic,keyword_residential
+307,5,Residential property,heuristic,keyword_residential
+308,6,Valuation & government programs,heuristic,keyword_valuation_programs
+309,6,Valuation & government programs,heuristic,keyword_valuation_programs
+310,2,Contract law,heuristic,keyword_contract
+311,2,Contract law,heuristic,keyword_contract
+312,6,Valuation & government programs,heuristic,keyword_valuation_programs
+313,3,CA laws & ethics,heuristic,keyword_ca_law
+314,2,Contract law,heuristic,keyword_contract
+315,6,Valuation & government programs,heuristic,keyword_valuation_programs
+316,6,Valuation & government programs,heuristic,keyword_valuation_programs
+317,3,CA laws & ethics,heuristic,keyword_ca_law
+318,5,Residential property,heuristic,keyword_residential
+319,6,Valuation & government programs,heuristic,keyword_valuation_programs
+320,6,Valuation & government programs,heuristic,keyword_valuation_programs
+321,3,CA laws & ethics,heuristic,keyword_ca_law
+322,6,Valuation & government programs,heuristic,keyword_valuation_programs
+323,3,CA laws & ethics,heuristic,keyword_ca_law
+324,6,Valuation & government programs,heuristic,keyword_valuation_programs
+325,6,Valuation & government programs,heuristic,keyword_valuation_programs
+326,5,Residential property,heuristic,keyword_residential
+327,6,Valuation & government programs,heuristic,keyword_valuation_programs
+328,6,Valuation & government programs,heuristic,keyword_valuation_programs
+329,3,CA laws & ethics,heuristic,keyword_ca_law
+330,6,Valuation & government programs,heuristic,keyword_valuation_programs
+331,6,Valuation & government programs,heuristic,keyword_valuation_programs
+332,3,CA laws & ethics,heuristic,keyword_ca_law
+333,6,Valuation & government programs,heuristic,keyword_valuation_programs
+334,3,CA laws & ethics,heuristic,keyword_ca_law
+335,2,Contract law,heuristic,keyword_contract
+336,2,Contract law,heuristic,keyword_contract
+337,6,Valuation & government programs,heuristic,keyword_valuation_programs
+338,2,Contract law,heuristic,keyword_contract
+339,6,Valuation & government programs,heuristic,keyword_valuation_programs
+340,2,Contract law,heuristic,keyword_contract
+341,6,Valuation & government programs,heuristic,keyword_valuation_programs
+342,6,Valuation & government programs,heuristic,keyword_valuation_programs
+343,6,Valuation & government programs,heuristic,keyword_valuation_programs
+344,6,Valuation & government programs,heuristic,keyword_valuation_programs
+345,2,Contract law,heuristic,keyword_contract
+346,6,Valuation & government programs,heuristic,keyword_valuation_programs
+347,6,Valuation & government programs,heuristic,keyword_valuation_programs
+348,3,CA laws & ethics,heuristic,keyword_ca_law
+349,6,Valuation & government programs,heuristic,keyword_valuation_programs
+350,6,Valuation & government programs,heuristic,keyword_valuation_programs
+351,3,CA laws & ethics,heuristic,keyword_ca_law
+352,6,Valuation & government programs,heuristic,keyword_valuation_programs
+353,2,Contract law,heuristic,keyword_contract
+354,2,Contract law,heuristic,keyword_contract
+355,6,Valuation & government programs,heuristic,keyword_valuation_programs
+356,6,Valuation & government programs,heuristic,keyword_valuation_programs
+357,3,CA laws & ethics,heuristic,keyword_ca_law
+358,5,Residential property,heuristic,keyword_residential
+359,6,Valuation & government programs,heuristic,keyword_valuation_programs
+360,6,Valuation & government programs,heuristic,keyword_valuation_programs
+361,2,Contract law,heuristic,keyword_contract
+362,5,Residential property,heuristic,keyword_residential
+363,5,Residential property,heuristic,keyword_residential
+364,5,Residential property,heuristic,keyword_residential
+365,2,Contract law,heuristic,keyword_contract
+366,5,Residential property,heuristic,keyword_residential
+367,2,Contract law,heuristic,keyword_contract
+368,5,Residential property,heuristic,keyword_residential
+369,5,Residential property,heuristic,keyword_residential
+370,5,Residential property,heuristic,keyword_residential
+371,5,Residential property,heuristic,keyword_residential
+372,2,Contract law,heuristic,keyword_contract
+373,5,Residential property,heuristic,keyword_residential
+374,5,Residential property,heuristic,keyword_residential
+375,2,Contract law,heuristic,keyword_contract
+376,5,Residential property,heuristic,keyword_residential
+377,5,Residential property,heuristic,keyword_residential
+378,6,Valuation & government programs,heuristic,keyword_valuation_programs
+379,2,Contract law,heuristic,keyword_contract
+380,2,Contract law,heuristic,keyword_contract
+381,5,Residential property,heuristic,keyword_residential
+382,5,Residential property,heuristic,keyword_residential
+383,5,Residential property,heuristic,keyword_residential
+384,2,Contract law,heuristic,keyword_contract
+385,5,Residential property,heuristic,keyword_residential
+386,2,Contract law,heuristic,keyword_contract
+387,5,Residential property,heuristic,keyword_residential
+388,5,Residential property,heuristic,keyword_residential
+389,5,Residential property,heuristic,keyword_residential
+390,2,Contract law,heuristic,keyword_contract
+391,5,Residential property,heuristic,keyword_residential
+392,2,Contract law,heuristic,keyword_contract
+393,5,Residential property,heuristic,keyword_residential
+394,2,Contract law,heuristic,keyword_contract
+395,5,Residential property,heuristic,keyword_residential
+396,5,Residential property,heuristic,keyword_residential
+397,5,Residential property,heuristic,keyword_residential
+398,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+399,2,Contract law,heuristic,keyword_contract
+400,2,Contract law,heuristic,keyword_contract
+401,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+402,2,Contract law,heuristic,keyword_contract
+403,2,Contract law,heuristic,keyword_contract
+404,5,Residential property,heuristic,keyword_residential
+405,2,Contract law,heuristic,keyword_contract
+406,5,Residential property,heuristic,keyword_residential
+407,5,Residential property,heuristic,keyword_residential
+408,5,Residential property,heuristic,keyword_residential
+409,2,Contract law,heuristic,keyword_contract
+410,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+411,2,Contract law,heuristic,keyword_contract
+412,5,Residential property,heuristic,keyword_residential
+413,2,Contract law,heuristic,keyword_contract
+414,5,Residential property,heuristic,keyword_residential
+415,5,Residential property,heuristic,keyword_residential
+416,5,Residential property,heuristic,keyword_residential
+417,5,Residential property,heuristic,keyword_residential
+418,2,Contract law,heuristic,keyword_contract
+419,5,Residential property,heuristic,keyword_residential
+420,5,Residential property,heuristic,keyword_residential
+421,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+422,5,Residential property,heuristic,keyword_residential
+423,5,Residential property,heuristic,keyword_residential
+424,5,Residential property,heuristic,keyword_residential
+425,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+426,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+427,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+428,5,Residential property,heuristic,keyword_residential
+429,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+430,2,Contract law,heuristic,keyword_contract
+431,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+432,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+433,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+434,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+435,5,Residential property,heuristic,keyword_residential
+436,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+437,5,Residential property,heuristic,keyword_residential
+438,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+439,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+440,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+441,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+442,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+443,5,Residential property,heuristic,keyword_residential
+444,5,Residential property,heuristic,keyword_residential
+445,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+446,5,Residential property,heuristic,keyword_residential
+447,8,Commercial insurance,heuristic,keyword_commercial
+448,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+449,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+450,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+451,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+452,5,Residential property,heuristic,keyword_residential
+453,5,Residential property,heuristic,keyword_residential
+454,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+455,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+456,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+457,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+458,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+459,2,Contract law,heuristic,keyword_contract
+460,5,Residential property,heuristic,keyword_residential
+461,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+462,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+463,5,Residential property,heuristic,keyword_residential
+464,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+465,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+466,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+467,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+468,5,Residential property,heuristic,keyword_residential
+469,2,Contract law,heuristic,keyword_contract
+470,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+471,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+472,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+473,5,Residential property,heuristic,keyword_residential
+474,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+475,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+476,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+477,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+478,2,Contract law,heuristic,keyword_contract
+479,7,Personal liability & inland marine,heuristic,keyword_liability_inland
+480,7,Personal liability & inland marine,heuristic,keyword_liability_inland

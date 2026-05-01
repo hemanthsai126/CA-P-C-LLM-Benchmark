@@ -1,0 +1,4 @@
+# Optional: one INS section number per line (no INS prefix).
+# Example:
+# 790.03
+# 1871.7

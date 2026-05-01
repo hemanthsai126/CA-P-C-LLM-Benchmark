@@ -1,0 +1,40 @@
+# California Code,  INS 10138.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10138.
+
+**Section:** 10138
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. The Contract [10110 - 10198.10]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 2.3. Transfers of Structured Settlement Payment Rights [10134 - 10139.5]
+( Article 2.3 added by Stats. 1999, Ch. 742, Sec. 1. )
+10138.
+(a) A transfer agreement, as defined in subdivision (o) of Section 10134, shall not include any provision described in the paragraphs below. Any inclusion of a prohibited provision, with respect to a seller who is a California resident, shall make the provision void and unenforceable.
+(1) Any provision that waives the seller’s right to sue
+				under any law, or in which the seller agrees not to sue, or that waives jurisdiction or standing to sue under the contract.
+(2) Any provision that requires the seller to indemnify and hold harmless the buyer, or to pay the buyer’s costs of defense, in any claim or action brought by the seller or on the seller’s behalf contesting the sale for any reason.
+(3) Any provision that waives benefits or rights conferred by law with respect to garnishment of wages.
+(4) Any provision providing that the contract is confidential or proprietary, belonging to the buyer.
+(5) Any provision in which the seller stipulates to a confession of judgment.
+(6) Any provision requiring the seller to pay the buyer’s
+				attorney’s fees and costs if the purchase agreement is not completed.
+(7) Any provision requiring the seller to pay any tax liability arising under the federal tax laws, other than the seller’s own tax liability, if any, that results from the transfer.
+(8) Any provision providing for brokerage fees incurred in the contract to be deducted from the purchase price disclosed pursuant to paragraph (5) of subdivision (b) of Section 10136.
+(9) If the payee is domiciled in California at the time that the transfer agreement is signed by the payee, any forum selection provision providing for jurisdiction to be in a court outside of California for any action arising under the contract.
+(10) If the payee is domiciled in California at the time that the transfer
+				agreement is signed by the payee, any choice-of-law provision that provides for controlling law to be other than California law in any action arising under the contract.
+(11) A provision that provides the transferee with a security interest or collateral interest in any structured settlement payment rights that exceed the actual dollar amount of the structured settlement payment rights being transferred.
+(12) Any provision that creates a “buyer’s first right of refusal” to purchase any remaining structured payment rights that the payee may desire to sell in the future.
+(b) The provisions in this section may not be waived by agreement of the parties.
+(Amended by Stats. 2009, Ch. 593, Sec. 5.   (SB 510)   Effective January 1, 2010.)

@@ -1,0 +1,26 @@
+# California Code,  INS 1010.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1010.
+
+**Section:** 1010
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. General Regulations [680 - 1113]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 14. Proceedings in Cases of Insolvency and Delinquency [1010 - 1062]
+( Article 14 amended by Stats. 1935, Ch. 291. )
+1010.
+(a) The provisions of this article shall apply to all persons, except the State Compensation Insurance Fund, subject to examination by the commissioner, or purporting to do insurance business in this state, or in the process of organization with intent to do such business therein, or from whom the commissioner’s certificate of authority is required for the transaction of business, or whose certificate of authority is revoked or suspended.
+(b) Notwithstanding subdivision (a), if
+				any of the conditions set forth in Section 1011 exists with respect to the State Compensation Insurance Fund, and the commissioner would otherwise file a verified application with the superior court or proceed under Section 1013 against the fund, the commissioner shall instead issue a report to the Governor, the President pro Tempore of the Senate, and the Speaker of the Assembly setting forth the conditions that exist and recommending a course to remedy those conditions. The Governor, in consultation with the Legislature, shall direct a course of action to be implemented by the fund’s board of directors, or if additional legislative action is necessary, recommend a course of action to the Legislature, or both.
+(Amended by Stats. 2006, Ch. 740, Sec. 3.9.   Effective January 1, 2007.)

@@ -1,0 +1,801 @@
+question_number,bucket,bucket_name,model,notes
+1,1,Basic concepts,layout_balanced,kept_from_q2
+2,1,Basic concepts,layout_balanced,kept_from_q3
+3,1,Basic concepts,layout_balanced,kept_from_q4
+4,1,Basic concepts,layout_balanced,kept_from_q7
+5,1,Basic concepts,layout_balanced,kept_from_q8
+6,1,Basic concepts,layout_balanced,kept_from_q16
+7,1,Basic concepts,layout_balanced,kept_from_q22
+8,1,Basic concepts,layout_balanced,kept_from_q24
+9,1,Basic concepts,layout_balanced,kept_from_q33
+10,1,Basic concepts,layout_balanced,kept_from_q34
+11,1,Basic concepts,layout_balanced,kept_from_q36
+12,1,Basic concepts,layout_balanced,kept_from_q39
+13,1,Basic concepts,layout_balanced,kept_from_q42
+14,1,Basic concepts,layout_balanced,kept_from_q43
+15,1,Basic concepts,layout_balanced,kept_from_q46
+16,1,Basic concepts,layout_balanced,kept_from_q51
+17,1,Basic concepts,layout_balanced,kept_from_q52
+18,1,Basic concepts,layout_balanced,kept_from_q55
+19,1,Basic concepts,layout_balanced,kept_from_q185
+20,1,Basic concepts,layout_balanced,kept_from_q192
+21,1,Basic concepts,layout_balanced,kept_from_q205
+22,1,Basic concepts,layout_balanced,kept_from_q211
+23,1,Basic concepts,layout_balanced,kept_from_q220
+24,1,Basic concepts,layout_balanced,kept_from_q237
+25,1,Basic concepts,layout_balanced,synthetic_bucket1
+26,1,Basic concepts,layout_balanced,synthetic_bucket1
+27,1,Basic concepts,layout_balanced,synthetic_bucket1
+28,1,Basic concepts,layout_balanced,synthetic_bucket1
+29,1,Basic concepts,layout_balanced,synthetic_bucket1
+30,1,Basic concepts,layout_balanced,synthetic_bucket1
+31,1,Basic concepts,layout_balanced,synthetic_bucket1
+32,1,Basic concepts,layout_balanced,synthetic_bucket1
+33,1,Basic concepts,layout_balanced,synthetic_bucket1
+34,1,Basic concepts,layout_balanced,synthetic_bucket1
+35,1,Basic concepts,layout_balanced,synthetic_bucket1
+36,1,Basic concepts,layout_balanced,synthetic_bucket1
+37,1,Basic concepts,layout_balanced,synthetic_bucket1
+38,1,Basic concepts,layout_balanced,synthetic_bucket1
+39,1,Basic concepts,layout_balanced,synthetic_bucket1
+40,1,Basic concepts,layout_balanced,synthetic_bucket1
+41,1,Basic concepts,layout_balanced,synthetic_bucket1
+42,1,Basic concepts,layout_balanced,synthetic_bucket1
+43,1,Basic concepts,layout_balanced,synthetic_bucket1
+44,1,Basic concepts,layout_balanced,synthetic_bucket1
+45,1,Basic concepts,layout_balanced,synthetic_bucket1
+46,1,Basic concepts,layout_balanced,synthetic_bucket1
+47,1,Basic concepts,layout_balanced,synthetic_bucket1
+48,1,Basic concepts,layout_balanced,synthetic_bucket1
+49,1,Basic concepts,layout_balanced,synthetic_bucket1
+50,1,Basic concepts,layout_balanced,synthetic_bucket1
+51,1,Basic concepts,layout_balanced,synthetic_bucket1
+52,1,Basic concepts,layout_balanced,synthetic_bucket1
+53,1,Basic concepts,layout_balanced,synthetic_bucket1
+54,1,Basic concepts,layout_balanced,synthetic_bucket1
+55,1,Basic concepts,layout_balanced,synthetic_bucket1
+56,1,Basic concepts,layout_balanced,synthetic_bucket1
+57,1,Basic concepts,layout_balanced,synthetic_bucket1
+58,1,Basic concepts,layout_balanced,synthetic_bucket1
+59,1,Basic concepts,layout_balanced,synthetic_bucket1
+60,1,Basic concepts,layout_balanced,synthetic_bucket1
+61,1,Basic concepts,layout_balanced,synthetic_bucket1
+62,1,Basic concepts,layout_balanced,synthetic_bucket1
+63,1,Basic concepts,layout_balanced,synthetic_bucket1
+64,1,Basic concepts,layout_balanced,synthetic_bucket1
+65,1,Basic concepts,layout_balanced,synthetic_bucket1
+66,1,Basic concepts,layout_balanced,synthetic_bucket1
+67,1,Basic concepts,layout_balanced,synthetic_bucket1
+68,1,Basic concepts,layout_balanced,synthetic_bucket1
+69,1,Basic concepts,layout_balanced,synthetic_bucket1
+70,1,Basic concepts,layout_balanced,synthetic_bucket1
+71,1,Basic concepts,layout_balanced,synthetic_bucket1
+72,1,Basic concepts,layout_balanced,synthetic_bucket1
+73,1,Basic concepts,layout_balanced,synthetic_bucket1
+74,1,Basic concepts,layout_balanced,synthetic_bucket1
+75,1,Basic concepts,layout_balanced,synthetic_bucket1
+76,1,Basic concepts,layout_balanced,synthetic_bucket1
+77,1,Basic concepts,layout_balanced,synthetic_bucket1
+78,1,Basic concepts,layout_balanced,synthetic_bucket1
+79,1,Basic concepts,layout_balanced,synthetic_bucket1
+80,1,Basic concepts,layout_balanced,synthetic_bucket1
+81,1,Basic concepts,layout_balanced,synthetic_bucket1
+82,1,Basic concepts,layout_balanced,synthetic_bucket1
+83,1,Basic concepts,layout_balanced,synthetic_bucket1
+84,1,Basic concepts,layout_balanced,synthetic_bucket1
+85,1,Basic concepts,layout_balanced,synthetic_bucket1
+86,1,Basic concepts,layout_balanced,synthetic_bucket1
+87,1,Basic concepts,layout_balanced,synthetic_bucket1
+88,1,Basic concepts,layout_balanced,synthetic_bucket1
+89,1,Basic concepts,layout_balanced,synthetic_bucket1
+90,1,Basic concepts,layout_balanced,synthetic_bucket1
+91,1,Basic concepts,layout_balanced,synthetic_bucket1
+92,1,Basic concepts,layout_balanced,synthetic_bucket1
+93,1,Basic concepts,layout_balanced,synthetic_bucket1
+94,1,Basic concepts,layout_balanced,synthetic_bucket1
+95,1,Basic concepts,layout_balanced,synthetic_bucket1
+96,1,Basic concepts,layout_balanced,synthetic_bucket1
+97,1,Basic concepts,layout_balanced,synthetic_bucket1
+98,1,Basic concepts,layout_balanced,synthetic_bucket1
+99,1,Basic concepts,layout_balanced,synthetic_bucket1
+100,1,Basic concepts,layout_balanced,synthetic_bucket1
+101,2,Contract law,layout_balanced,kept_from_q311
+102,2,Contract law,layout_balanced,kept_from_q61
+103,2,Contract law,layout_balanced,kept_from_q32
+104,2,Contract law,layout_balanced,kept_from_q375
+105,2,Contract law,layout_balanced,kept_from_q84
+106,2,Contract law,layout_balanced,kept_from_q80
+107,2,Contract law,layout_balanced,kept_from_q77
+108,2,Contract law,layout_balanced,kept_from_q65
+109,2,Contract law,layout_balanced,kept_from_q430
+110,2,Contract law,layout_balanced,kept_from_q60
+111,2,Contract law,layout_balanced,kept_from_q340
+112,2,Contract law,layout_balanced,kept_from_q405
+113,2,Contract law,layout_balanced,kept_from_q245
+114,2,Contract law,layout_balanced,kept_from_q57
+115,2,Contract law,layout_balanced,kept_from_q264
+116,2,Contract law,layout_balanced,kept_from_q108
+117,2,Contract law,layout_balanced,kept_from_q35
+118,2,Contract law,layout_balanced,kept_from_q459
+119,2,Contract law,layout_balanced,kept_from_q394
+120,2,Contract law,layout_balanced,kept_from_q75
+121,2,Contract law,layout_balanced,kept_from_q78
+122,2,Contract law,layout_balanced,kept_from_q119
+123,2,Contract law,layout_balanced,kept_from_q284
+124,2,Contract law,layout_balanced,kept_from_q384
+125,2,Contract law,layout_balanced,kept_from_q255
+126,2,Contract law,layout_balanced,kept_from_q73
+127,2,Contract law,layout_balanced,kept_from_q335
+128,2,Contract law,layout_balanced,kept_from_q399
+129,2,Contract law,layout_balanced,kept_from_q107
+130,2,Contract law,layout_balanced,kept_from_q411
+131,2,Contract law,layout_balanced,kept_from_q112
+132,2,Contract law,layout_balanced,kept_from_q392
+133,2,Contract law,layout_balanced,kept_from_q418
+134,2,Contract law,layout_balanced,kept_from_q14
+135,2,Contract law,layout_balanced,kept_from_q68
+136,2,Contract law,layout_balanced,kept_from_q390
+137,2,Contract law,layout_balanced,kept_from_q95
+138,2,Contract law,layout_balanced,kept_from_q314
+139,2,Contract law,layout_balanced,kept_from_q67
+140,2,Contract law,layout_balanced,kept_from_q379
+141,2,Contract law,layout_balanced,kept_from_q292
+142,2,Contract law,layout_balanced,kept_from_q403
+143,2,Contract law,layout_balanced,kept_from_q380
+144,2,Contract law,layout_balanced,kept_from_q101
+145,2,Contract law,layout_balanced,kept_from_q58
+146,2,Contract law,layout_balanced,kept_from_q97
+147,2,Contract law,layout_balanced,kept_from_q96
+148,2,Contract law,layout_balanced,kept_from_q82
+149,2,Contract law,layout_balanced,kept_from_q38
+150,2,Contract law,layout_balanced,kept_from_q113
+151,2,Contract law,layout_balanced,kept_from_q63
+152,2,Contract law,layout_balanced,kept_from_q361
+153,2,Contract law,layout_balanced,kept_from_q183
+154,2,Contract law,layout_balanced,kept_from_q367
+155,2,Contract law,layout_balanced,kept_from_q66
+156,2,Contract law,layout_balanced,kept_from_q402
+157,2,Contract law,layout_balanced,kept_from_q92
+158,2,Contract law,layout_balanced,kept_from_q90
+159,2,Contract law,layout_balanced,kept_from_q110
+160,2,Contract law,layout_balanced,kept_from_q109
+161,2,Contract law,layout_balanced,kept_from_q71
+162,2,Contract law,layout_balanced,kept_from_q86
+163,2,Contract law,layout_balanced,kept_from_q247
+164,2,Contract law,layout_balanced,kept_from_q345
+165,2,Contract law,layout_balanced,kept_from_q386
+166,2,Contract law,layout_balanced,kept_from_q29
+167,2,Contract law,layout_balanced,kept_from_q94
+168,2,Contract law,layout_balanced,kept_from_q469
+169,2,Contract law,layout_balanced,kept_from_q115
+170,2,Contract law,layout_balanced,kept_from_q117
+171,2,Contract law,layout_balanced,kept_from_q100
+172,2,Contract law,layout_balanced,kept_from_q45
+173,2,Contract law,layout_balanced,kept_from_q72
+174,2,Contract law,layout_balanced,kept_from_q409
+175,2,Contract law,layout_balanced,kept_from_q400
+176,2,Contract law,layout_balanced,kept_from_q294
+177,2,Contract law,layout_balanced,kept_from_q53
+178,2,Contract law,layout_balanced,kept_from_q336
+179,2,Contract law,layout_balanced,kept_from_q70
+180,2,Contract law,layout_balanced,kept_from_q260
+181,2,Contract law,layout_balanced,kept_from_q93
+182,2,Contract law,layout_balanced,kept_from_q103
+183,2,Contract law,layout_balanced,kept_from_q89
+184,2,Contract law,layout_balanced,kept_from_q372
+185,2,Contract law,layout_balanced,kept_from_q104
+186,2,Contract law,layout_balanced,kept_from_q242
+187,2,Contract law,layout_balanced,kept_from_q106
+188,2,Contract law,layout_balanced,kept_from_q48
+189,2,Contract law,layout_balanced,kept_from_q310
+190,2,Contract law,layout_balanced,kept_from_q114
+191,2,Contract law,layout_balanced,kept_from_q83
+192,2,Contract law,layout_balanced,kept_from_q47
+193,2,Contract law,layout_balanced,kept_from_q69
+194,2,Contract law,layout_balanced,kept_from_q81
+195,2,Contract law,layout_balanced,kept_from_q20
+196,2,Contract law,layout_balanced,kept_from_q87
+197,2,Contract law,layout_balanced,kept_from_q74
+198,2,Contract law,layout_balanced,kept_from_q354
+199,2,Contract law,layout_balanced,kept_from_q338
+200,2,Contract law,layout_balanced,kept_from_q353
+201,3,CA laws & ethics,layout_balanced,kept_from_q111
+202,3,CA laws & ethics,layout_balanced,kept_from_q139
+203,3,CA laws & ethics,layout_balanced,kept_from_q258
+204,3,CA laws & ethics,layout_balanced,kept_from_q299
+205,3,CA laws & ethics,layout_balanced,kept_from_q152
+206,3,CA laws & ethics,layout_balanced,kept_from_q351
+207,3,CA laws & ethics,layout_balanced,kept_from_q283
+208,3,CA laws & ethics,layout_balanced,kept_from_q175
+209,3,CA laws & ethics,layout_balanced,kept_from_q162
+210,3,CA laws & ethics,layout_balanced,kept_from_q281
+211,3,CA laws & ethics,layout_balanced,kept_from_q170
+212,3,CA laws & ethics,layout_balanced,kept_from_q130
+213,3,CA laws & ethics,layout_balanced,kept_from_q145
+214,3,CA laws & ethics,layout_balanced,kept_from_q129
+215,3,CA laws & ethics,layout_balanced,kept_from_q143
+216,3,CA laws & ethics,layout_balanced,kept_from_q254
+217,3,CA laws & ethics,layout_balanced,kept_from_q180
+218,3,CA laws & ethics,layout_balanced,kept_from_q300
+219,3,CA laws & ethics,layout_balanced,kept_from_q269
+220,3,CA laws & ethics,layout_balanced,kept_from_q166
+221,3,CA laws & ethics,layout_balanced,kept_from_q288
+222,3,CA laws & ethics,layout_balanced,kept_from_q163
+223,3,CA laws & ethics,layout_balanced,kept_from_q158
+224,3,CA laws & ethics,layout_balanced,kept_from_q140
+225,3,CA laws & ethics,layout_balanced,kept_from_q334
+226,3,CA laws & ethics,layout_balanced,kept_from_q177
+227,3,CA laws & ethics,layout_balanced,kept_from_q321
+228,3,CA laws & ethics,layout_balanced,kept_from_q123
+229,3,CA laws & ethics,layout_balanced,kept_from_q98
+230,3,CA laws & ethics,layout_balanced,kept_from_q126
+231,3,CA laws & ethics,layout_balanced,kept_from_q131
+232,3,CA laws & ethics,layout_balanced,kept_from_q132
+233,3,CA laws & ethics,layout_balanced,kept_from_q287
+234,3,CA laws & ethics,layout_balanced,kept_from_q357
+235,3,CA laws & ethics,layout_balanced,kept_from_q161
+236,3,CA laws & ethics,layout_balanced,kept_from_q160
+237,3,CA laws & ethics,layout_balanced,kept_from_q171
+238,3,CA laws & ethics,layout_balanced,kept_from_q179
+239,3,CA laws & ethics,layout_balanced,kept_from_q144
+240,3,CA laws & ethics,layout_balanced,kept_from_q62
+241,3,CA laws & ethics,layout_balanced,kept_from_q271
+242,3,CA laws & ethics,layout_balanced,kept_from_q146
+243,3,CA laws & ethics,layout_balanced,kept_from_q249
+244,3,CA laws & ethics,layout_balanced,kept_from_q153
+245,3,CA laws & ethics,layout_balanced,kept_from_q133
+246,3,CA laws & ethics,layout_balanced,kept_from_q105
+247,3,CA laws & ethics,layout_balanced,kept_from_q303
+248,3,CA laws & ethics,layout_balanced,kept_from_q329
+249,3,CA laws & ethics,layout_balanced,kept_from_q122
+250,3,CA laws & ethics,layout_balanced,kept_from_q141
+251,3,CA laws & ethics,layout_balanced,kept_from_q59
+252,3,CA laws & ethics,layout_balanced,kept_from_q313
+253,3,CA laws & ethics,layout_balanced,kept_from_q165
+254,3,CA laws & ethics,layout_balanced,kept_from_q128
+255,3,CA laws & ethics,layout_balanced,kept_from_q178
+256,3,CA laws & ethics,layout_balanced,kept_from_q241
+257,3,CA laws & ethics,layout_balanced,kept_from_q273
+258,3,CA laws & ethics,layout_balanced,kept_from_q317
+259,3,CA laws & ethics,layout_balanced,kept_from_q272
+260,3,CA laws & ethics,layout_balanced,kept_from_q332
+261,3,CA laws & ethics,layout_balanced,kept_from_q286
+262,3,CA laws & ethics,layout_balanced,kept_from_q157
+263,3,CA laws & ethics,layout_balanced,kept_from_q159
+264,3,CA laws & ethics,layout_balanced,kept_from_q150
+265,3,CA laws & ethics,layout_balanced,kept_from_q124
+266,3,CA laws & ethics,layout_balanced,kept_from_q121
+267,3,CA laws & ethics,layout_balanced,kept_from_q135
+268,3,CA laws & ethics,layout_balanced,kept_from_q168
+269,3,CA laws & ethics,layout_balanced,kept_from_q274
+270,3,CA laws & ethics,layout_balanced,kept_from_q290
+271,3,CA laws & ethics,layout_balanced,kept_from_q348
+272,3,CA laws & ethics,layout_balanced,kept_from_q268
+273,3,CA laws & ethics,layout_balanced,kept_from_q298
+274,3,CA laws & ethics,layout_balanced,kept_from_q275
+275,3,CA laws & ethics,layout_balanced,kept_from_q85
+276,3,CA laws & ethics,layout_balanced,kept_from_q167
+277,3,CA laws & ethics,layout_balanced,kept_from_q174
+278,3,CA laws & ethics,layout_balanced,kept_from_q138
+279,3,CA laws & ethics,layout_balanced,kept_from_q137
+280,3,CA laws & ethics,layout_balanced,kept_from_q151
+281,3,CA laws & ethics,layout_balanced,kept_from_q293
+282,3,CA laws & ethics,layout_balanced,kept_from_q154
+283,3,CA laws & ethics,layout_balanced,kept_from_q136
+284,3,CA laws & ethics,layout_balanced,kept_from_q305
+285,3,CA laws & ethics,layout_balanced,kept_from_q76
+286,3,CA laws & ethics,layout_balanced,kept_from_q147
+287,3,CA laws & ethics,layout_balanced,kept_from_q127
+288,3,CA laws & ethics,layout_balanced,kept_from_q156
+289,3,CA laws & ethics,layout_balanced,kept_from_q88
+290,3,CA laws & ethics,layout_balanced,kept_from_q323
+291,3,CA laws & ethics,layout_balanced,kept_from_q149
+292,3,CA laws & ethics,layout_balanced,kept_from_q134
+293,3,CA laws & ethics,layout_balanced,kept_from_q297
+294,3,CA laws & ethics,layout_balanced,kept_from_q277
+295,3,CA laws & ethics,layout_balanced,kept_from_q172
+296,3,CA laws & ethics,layout_balanced,kept_from_q155
+297,3,CA laws & ethics,layout_balanced,kept_from_q164
+298,3,CA laws & ethics,layout_balanced,kept_from_q142
+299,3,CA laws & ethics,layout_balanced,kept_from_q176
+300,3,CA laws & ethics,layout_balanced,kept_from_q91
+301,4,Tort & property fundamentals,layout_balanced,kept_from_q6
+302,4,Tort & property fundamentals,layout_balanced,kept_from_q9
+303,4,Tort & property fundamentals,layout_balanced,kept_from_q11
+304,4,Tort & property fundamentals,layout_balanced,kept_from_q13
+305,4,Tort & property fundamentals,layout_balanced,kept_from_q15
+306,4,Tort & property fundamentals,layout_balanced,kept_from_q21
+307,4,Tort & property fundamentals,layout_balanced,kept_from_q26
+308,4,Tort & property fundamentals,layout_balanced,kept_from_q30
+309,4,Tort & property fundamentals,layout_balanced,kept_from_q41
+310,4,Tort & property fundamentals,layout_balanced,kept_from_q44
+311,4,Tort & property fundamentals,layout_balanced,kept_from_q50
+312,4,Tort & property fundamentals,layout_balanced,kept_from_q54
+313,4,Tort & property fundamentals,layout_balanced,kept_from_q56
+314,4,Tort & property fundamentals,layout_balanced,kept_from_q187
+315,4,Tort & property fundamentals,layout_balanced,kept_from_q190
+316,4,Tort & property fundamentals,layout_balanced,kept_from_q197
+317,4,Tort & property fundamentals,layout_balanced,kept_from_q203
+318,4,Tort & property fundamentals,layout_balanced,kept_from_q206
+319,4,Tort & property fundamentals,layout_balanced,kept_from_q212
+320,4,Tort & property fundamentals,layout_balanced,kept_from_q216
+321,4,Tort & property fundamentals,layout_balanced,kept_from_q217
+322,4,Tort & property fundamentals,layout_balanced,kept_from_q232
+323,4,Tort & property fundamentals,layout_balanced,kept_from_q236
+324,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+325,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+326,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+327,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+328,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+329,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+330,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+331,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+332,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+333,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+334,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+335,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+336,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+337,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+338,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+339,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+340,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+341,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+342,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+343,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+344,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+345,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+346,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+347,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+348,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+349,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+350,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+351,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+352,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+353,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+354,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+355,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+356,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+357,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+358,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+359,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+360,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+361,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+362,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+363,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+364,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+365,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+366,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+367,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+368,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+369,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+370,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+371,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+372,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+373,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+374,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+375,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+376,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+377,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+378,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+379,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+380,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+381,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+382,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+383,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+384,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+385,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+386,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+387,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+388,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+389,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+390,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+391,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+392,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+393,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+394,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+395,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+396,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+397,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+398,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+399,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+400,4,Tort & property fundamentals,layout_balanced,synthetic_bucket4
+401,5,Residential property,layout_balanced,kept_from_q1
+402,5,Residential property,layout_balanced,kept_from_q12
+403,5,Residential property,layout_balanced,kept_from_q18
+404,5,Residential property,layout_balanced,kept_from_q23
+405,5,Residential property,layout_balanced,kept_from_q25
+406,5,Residential property,layout_balanced,kept_from_q31
+407,5,Residential property,layout_balanced,kept_from_q181
+408,5,Residential property,layout_balanced,kept_from_q182
+409,5,Residential property,layout_balanced,kept_from_q188
+410,5,Residential property,layout_balanced,kept_from_q194
+411,5,Residential property,layout_balanced,kept_from_q202
+412,5,Residential property,layout_balanced,kept_from_q209
+413,5,Residential property,layout_balanced,kept_from_q213
+414,5,Residential property,layout_balanced,kept_from_q222
+415,5,Residential property,layout_balanced,kept_from_q225
+416,5,Residential property,layout_balanced,kept_from_q228
+417,5,Residential property,layout_balanced,kept_from_q234
+418,5,Residential property,layout_balanced,kept_from_q240
+419,5,Residential property,layout_balanced,kept_from_q244
+420,5,Residential property,layout_balanced,kept_from_q246
+421,5,Residential property,layout_balanced,kept_from_q248
+422,5,Residential property,layout_balanced,kept_from_q251
+423,5,Residential property,layout_balanced,kept_from_q252
+424,5,Residential property,layout_balanced,kept_from_q253
+425,5,Residential property,layout_balanced,kept_from_q256
+426,5,Residential property,layout_balanced,kept_from_q259
+427,5,Residential property,layout_balanced,kept_from_q262
+428,5,Residential property,layout_balanced,kept_from_q266
+429,5,Residential property,layout_balanced,kept_from_q267
+430,5,Residential property,layout_balanced,kept_from_q270
+431,5,Residential property,layout_balanced,kept_from_q282
+432,5,Residential property,layout_balanced,kept_from_q285
+433,5,Residential property,layout_balanced,kept_from_q291
+434,5,Residential property,layout_balanced,kept_from_q295
+435,5,Residential property,layout_balanced,kept_from_q306
+436,5,Residential property,layout_balanced,kept_from_q307
+437,5,Residential property,layout_balanced,kept_from_q318
+438,5,Residential property,layout_balanced,kept_from_q326
+439,5,Residential property,layout_balanced,kept_from_q358
+440,5,Residential property,layout_balanced,kept_from_q362
+441,5,Residential property,layout_balanced,kept_from_q363
+442,5,Residential property,layout_balanced,kept_from_q364
+443,5,Residential property,layout_balanced,kept_from_q366
+444,5,Residential property,layout_balanced,kept_from_q368
+445,5,Residential property,layout_balanced,kept_from_q369
+446,5,Residential property,layout_balanced,kept_from_q370
+447,5,Residential property,layout_balanced,kept_from_q371
+448,5,Residential property,layout_balanced,kept_from_q373
+449,5,Residential property,layout_balanced,kept_from_q374
+450,5,Residential property,layout_balanced,kept_from_q376
+451,5,Residential property,layout_balanced,kept_from_q377
+452,5,Residential property,layout_balanced,kept_from_q381
+453,5,Residential property,layout_balanced,kept_from_q382
+454,5,Residential property,layout_balanced,kept_from_q383
+455,5,Residential property,layout_balanced,kept_from_q385
+456,5,Residential property,layout_balanced,kept_from_q387
+457,5,Residential property,layout_balanced,kept_from_q388
+458,5,Residential property,layout_balanced,kept_from_q389
+459,5,Residential property,layout_balanced,kept_from_q391
+460,5,Residential property,layout_balanced,kept_from_q393
+461,5,Residential property,layout_balanced,kept_from_q395
+462,5,Residential property,layout_balanced,kept_from_q396
+463,5,Residential property,layout_balanced,kept_from_q397
+464,5,Residential property,layout_balanced,kept_from_q404
+465,5,Residential property,layout_balanced,kept_from_q406
+466,5,Residential property,layout_balanced,kept_from_q407
+467,5,Residential property,layout_balanced,kept_from_q408
+468,5,Residential property,layout_balanced,kept_from_q412
+469,5,Residential property,layout_balanced,kept_from_q414
+470,5,Residential property,layout_balanced,kept_from_q415
+471,5,Residential property,layout_balanced,kept_from_q416
+472,5,Residential property,layout_balanced,kept_from_q417
+473,5,Residential property,layout_balanced,kept_from_q419
+474,5,Residential property,layout_balanced,kept_from_q420
+475,5,Residential property,layout_balanced,kept_from_q422
+476,5,Residential property,layout_balanced,kept_from_q423
+477,5,Residential property,layout_balanced,kept_from_q424
+478,5,Residential property,layout_balanced,kept_from_q428
+479,5,Residential property,layout_balanced,kept_from_q435
+480,5,Residential property,layout_balanced,kept_from_q437
+481,5,Residential property,layout_balanced,kept_from_q443
+482,5,Residential property,layout_balanced,kept_from_q444
+483,5,Residential property,layout_balanced,kept_from_q446
+484,5,Residential property,layout_balanced,kept_from_q452
+485,5,Residential property,layout_balanced,kept_from_q453
+486,5,Residential property,layout_balanced,kept_from_q460
+487,5,Residential property,layout_balanced,kept_from_q463
+488,5,Residential property,layout_balanced,kept_from_q468
+489,5,Residential property,layout_balanced,kept_from_q473
+490,5,Residential property,layout_balanced,synthetic_bucket5
+491,5,Residential property,layout_balanced,synthetic_bucket5
+492,5,Residential property,layout_balanced,synthetic_bucket5
+493,5,Residential property,layout_balanced,synthetic_bucket5
+494,5,Residential property,layout_balanced,synthetic_bucket5
+495,5,Residential property,layout_balanced,synthetic_bucket5
+496,5,Residential property,layout_balanced,synthetic_bucket5
+497,5,Residential property,layout_balanced,synthetic_bucket5
+498,5,Residential property,layout_balanced,synthetic_bucket5
+499,5,Residential property,layout_balanced,synthetic_bucket5
+500,5,Residential property,layout_balanced,synthetic_bucket5
+501,6,Valuation & government programs,layout_balanced,kept_from_q17
+502,6,Valuation & government programs,layout_balanced,kept_from_q19
+503,6,Valuation & government programs,layout_balanced,kept_from_q28
+504,6,Valuation & government programs,layout_balanced,kept_from_q200
+505,6,Valuation & government programs,layout_balanced,kept_from_q243
+506,6,Valuation & government programs,layout_balanced,kept_from_q250
+507,6,Valuation & government programs,layout_balanced,kept_from_q263
+508,6,Valuation & government programs,layout_balanced,kept_from_q265
+509,6,Valuation & government programs,layout_balanced,kept_from_q276
+510,6,Valuation & government programs,layout_balanced,kept_from_q278
+511,6,Valuation & government programs,layout_balanced,kept_from_q289
+512,6,Valuation & government programs,layout_balanced,kept_from_q296
+513,6,Valuation & government programs,layout_balanced,kept_from_q301
+514,6,Valuation & government programs,layout_balanced,kept_from_q302
+515,6,Valuation & government programs,layout_balanced,kept_from_q304
+516,6,Valuation & government programs,layout_balanced,kept_from_q308
+517,6,Valuation & government programs,layout_balanced,kept_from_q309
+518,6,Valuation & government programs,layout_balanced,kept_from_q312
+519,6,Valuation & government programs,layout_balanced,kept_from_q315
+520,6,Valuation & government programs,layout_balanced,kept_from_q316
+521,6,Valuation & government programs,layout_balanced,kept_from_q319
+522,6,Valuation & government programs,layout_balanced,kept_from_q320
+523,6,Valuation & government programs,layout_balanced,kept_from_q322
+524,6,Valuation & government programs,layout_balanced,kept_from_q324
+525,6,Valuation & government programs,layout_balanced,kept_from_q325
+526,6,Valuation & government programs,layout_balanced,kept_from_q327
+527,6,Valuation & government programs,layout_balanced,kept_from_q328
+528,6,Valuation & government programs,layout_balanced,kept_from_q330
+529,6,Valuation & government programs,layout_balanced,kept_from_q331
+530,6,Valuation & government programs,layout_balanced,kept_from_q333
+531,6,Valuation & government programs,layout_balanced,kept_from_q337
+532,6,Valuation & government programs,layout_balanced,kept_from_q339
+533,6,Valuation & government programs,layout_balanced,kept_from_q341
+534,6,Valuation & government programs,layout_balanced,kept_from_q342
+535,6,Valuation & government programs,layout_balanced,kept_from_q343
+536,6,Valuation & government programs,layout_balanced,kept_from_q344
+537,6,Valuation & government programs,layout_balanced,kept_from_q346
+538,6,Valuation & government programs,layout_balanced,kept_from_q347
+539,6,Valuation & government programs,layout_balanced,kept_from_q349
+540,6,Valuation & government programs,layout_balanced,kept_from_q350
+541,6,Valuation & government programs,layout_balanced,kept_from_q352
+542,6,Valuation & government programs,layout_balanced,kept_from_q355
+543,6,Valuation & government programs,layout_balanced,kept_from_q356
+544,6,Valuation & government programs,layout_balanced,kept_from_q359
+545,6,Valuation & government programs,layout_balanced,kept_from_q360
+546,6,Valuation & government programs,layout_balanced,kept_from_q378
+547,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+548,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+549,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+550,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+551,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+552,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+553,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+554,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+555,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+556,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+557,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+558,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+559,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+560,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+561,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+562,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+563,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+564,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+565,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+566,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+567,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+568,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+569,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+570,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+571,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+572,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+573,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+574,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+575,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+576,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+577,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+578,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+579,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+580,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+581,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+582,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+583,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+584,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+585,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+586,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+587,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+588,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+589,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+590,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+591,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+592,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+593,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+594,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+595,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+596,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+597,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+598,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+599,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+600,6,Valuation & government programs,layout_balanced,synthetic_bucket6
+601,7,Personal liability & inland marine,layout_balanced,kept_from_q5
+602,7,Personal liability & inland marine,layout_balanced,kept_from_q10
+603,7,Personal liability & inland marine,layout_balanced,kept_from_q27
+604,7,Personal liability & inland marine,layout_balanced,kept_from_q37
+605,7,Personal liability & inland marine,layout_balanced,kept_from_q40
+606,7,Personal liability & inland marine,layout_balanced,kept_from_q184
+607,7,Personal liability & inland marine,layout_balanced,kept_from_q186
+608,7,Personal liability & inland marine,layout_balanced,kept_from_q189
+609,7,Personal liability & inland marine,layout_balanced,kept_from_q191
+610,7,Personal liability & inland marine,layout_balanced,kept_from_q193
+611,7,Personal liability & inland marine,layout_balanced,kept_from_q195
+612,7,Personal liability & inland marine,layout_balanced,kept_from_q196
+613,7,Personal liability & inland marine,layout_balanced,kept_from_q199
+614,7,Personal liability & inland marine,layout_balanced,kept_from_q201
+615,7,Personal liability & inland marine,layout_balanced,kept_from_q204
+616,7,Personal liability & inland marine,layout_balanced,kept_from_q207
+617,7,Personal liability & inland marine,layout_balanced,kept_from_q208
+618,7,Personal liability & inland marine,layout_balanced,kept_from_q210
+619,7,Personal liability & inland marine,layout_balanced,kept_from_q214
+620,7,Personal liability & inland marine,layout_balanced,kept_from_q215
+621,7,Personal liability & inland marine,layout_balanced,kept_from_q218
+622,7,Personal liability & inland marine,layout_balanced,kept_from_q219
+623,7,Personal liability & inland marine,layout_balanced,kept_from_q221
+624,7,Personal liability & inland marine,layout_balanced,kept_from_q223
+625,7,Personal liability & inland marine,layout_balanced,kept_from_q224
+626,7,Personal liability & inland marine,layout_balanced,kept_from_q226
+627,7,Personal liability & inland marine,layout_balanced,kept_from_q227
+628,7,Personal liability & inland marine,layout_balanced,kept_from_q229
+629,7,Personal liability & inland marine,layout_balanced,kept_from_q230
+630,7,Personal liability & inland marine,layout_balanced,kept_from_q231
+631,7,Personal liability & inland marine,layout_balanced,kept_from_q233
+632,7,Personal liability & inland marine,layout_balanced,kept_from_q235
+633,7,Personal liability & inland marine,layout_balanced,kept_from_q238
+634,7,Personal liability & inland marine,layout_balanced,kept_from_q239
+635,7,Personal liability & inland marine,layout_balanced,kept_from_q398
+636,7,Personal liability & inland marine,layout_balanced,kept_from_q401
+637,7,Personal liability & inland marine,layout_balanced,kept_from_q410
+638,7,Personal liability & inland marine,layout_balanced,kept_from_q421
+639,7,Personal liability & inland marine,layout_balanced,kept_from_q425
+640,7,Personal liability & inland marine,layout_balanced,kept_from_q426
+641,7,Personal liability & inland marine,layout_balanced,kept_from_q427
+642,7,Personal liability & inland marine,layout_balanced,kept_from_q429
+643,7,Personal liability & inland marine,layout_balanced,kept_from_q431
+644,7,Personal liability & inland marine,layout_balanced,kept_from_q432
+645,7,Personal liability & inland marine,layout_balanced,kept_from_q433
+646,7,Personal liability & inland marine,layout_balanced,kept_from_q434
+647,7,Personal liability & inland marine,layout_balanced,kept_from_q436
+648,7,Personal liability & inland marine,layout_balanced,kept_from_q438
+649,7,Personal liability & inland marine,layout_balanced,kept_from_q439
+650,7,Personal liability & inland marine,layout_balanced,kept_from_q440
+651,7,Personal liability & inland marine,layout_balanced,kept_from_q441
+652,7,Personal liability & inland marine,layout_balanced,kept_from_q442
+653,7,Personal liability & inland marine,layout_balanced,kept_from_q445
+654,7,Personal liability & inland marine,layout_balanced,kept_from_q448
+655,7,Personal liability & inland marine,layout_balanced,kept_from_q449
+656,7,Personal liability & inland marine,layout_balanced,kept_from_q450
+657,7,Personal liability & inland marine,layout_balanced,kept_from_q451
+658,7,Personal liability & inland marine,layout_balanced,kept_from_q454
+659,7,Personal liability & inland marine,layout_balanced,kept_from_q455
+660,7,Personal liability & inland marine,layout_balanced,kept_from_q456
+661,7,Personal liability & inland marine,layout_balanced,kept_from_q457
+662,7,Personal liability & inland marine,layout_balanced,kept_from_q458
+663,7,Personal liability & inland marine,layout_balanced,kept_from_q461
+664,7,Personal liability & inland marine,layout_balanced,kept_from_q462
+665,7,Personal liability & inland marine,layout_balanced,kept_from_q464
+666,7,Personal liability & inland marine,layout_balanced,kept_from_q465
+667,7,Personal liability & inland marine,layout_balanced,kept_from_q466
+668,7,Personal liability & inland marine,layout_balanced,kept_from_q467
+669,7,Personal liability & inland marine,layout_balanced,kept_from_q470
+670,7,Personal liability & inland marine,layout_balanced,kept_from_q471
+671,7,Personal liability & inland marine,layout_balanced,kept_from_q472
+672,7,Personal liability & inland marine,layout_balanced,kept_from_q474
+673,7,Personal liability & inland marine,layout_balanced,kept_from_q475
+674,7,Personal liability & inland marine,layout_balanced,kept_from_q476
+675,7,Personal liability & inland marine,layout_balanced,kept_from_q477
+676,7,Personal liability & inland marine,layout_balanced,kept_from_q479
+677,7,Personal liability & inland marine,layout_balanced,kept_from_q480
+678,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+679,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+680,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+681,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+682,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+683,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+684,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+685,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+686,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+687,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+688,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+689,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+690,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+691,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+692,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+693,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+694,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+695,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+696,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+697,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+698,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+699,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+700,7,Personal liability & inland marine,layout_balanced,synthetic_bucket7
+701,8,Commercial insurance,layout_balanced,kept_from_q447
+702,8,Commercial insurance,layout_balanced,synthetic_bucket8
+703,8,Commercial insurance,layout_balanced,synthetic_bucket8
+704,8,Commercial insurance,layout_balanced,synthetic_bucket8
+705,8,Commercial insurance,layout_balanced,synthetic_bucket8
+706,8,Commercial insurance,layout_balanced,synthetic_bucket8
+707,8,Commercial insurance,layout_balanced,synthetic_bucket8
+708,8,Commercial insurance,layout_balanced,synthetic_bucket8
+709,8,Commercial insurance,layout_balanced,synthetic_bucket8
+710,8,Commercial insurance,layout_balanced,synthetic_bucket8
+711,8,Commercial insurance,layout_balanced,synthetic_bucket8
+712,8,Commercial insurance,layout_balanced,synthetic_bucket8
+713,8,Commercial insurance,layout_balanced,synthetic_bucket8
+714,8,Commercial insurance,layout_balanced,synthetic_bucket8
+715,8,Commercial insurance,layout_balanced,synthetic_bucket8
+716,8,Commercial insurance,layout_balanced,synthetic_bucket8
+717,8,Commercial insurance,layout_balanced,synthetic_bucket8
+718,8,Commercial insurance,layout_balanced,synthetic_bucket8
+719,8,Commercial insurance,layout_balanced,synthetic_bucket8
+720,8,Commercial insurance,layout_balanced,synthetic_bucket8
+721,8,Commercial insurance,layout_balanced,synthetic_bucket8
+722,8,Commercial insurance,layout_balanced,synthetic_bucket8
+723,8,Commercial insurance,layout_balanced,synthetic_bucket8
+724,8,Commercial insurance,layout_balanced,synthetic_bucket8
+725,8,Commercial insurance,layout_balanced,synthetic_bucket8
+726,8,Commercial insurance,layout_balanced,synthetic_bucket8
+727,8,Commercial insurance,layout_balanced,synthetic_bucket8
+728,8,Commercial insurance,layout_balanced,synthetic_bucket8
+729,8,Commercial insurance,layout_balanced,synthetic_bucket8
+730,8,Commercial insurance,layout_balanced,synthetic_bucket8
+731,8,Commercial insurance,layout_balanced,synthetic_bucket8
+732,8,Commercial insurance,layout_balanced,synthetic_bucket8
+733,8,Commercial insurance,layout_balanced,synthetic_bucket8
+734,8,Commercial insurance,layout_balanced,synthetic_bucket8
+735,8,Commercial insurance,layout_balanced,synthetic_bucket8
+736,8,Commercial insurance,layout_balanced,synthetic_bucket8
+737,8,Commercial insurance,layout_balanced,synthetic_bucket8
+738,8,Commercial insurance,layout_balanced,synthetic_bucket8
+739,8,Commercial insurance,layout_balanced,synthetic_bucket8
+740,8,Commercial insurance,layout_balanced,synthetic_bucket8
+741,8,Commercial insurance,layout_balanced,synthetic_bucket8
+742,8,Commercial insurance,layout_balanced,synthetic_bucket8
+743,8,Commercial insurance,layout_balanced,synthetic_bucket8
+744,8,Commercial insurance,layout_balanced,synthetic_bucket8
+745,8,Commercial insurance,layout_balanced,synthetic_bucket8
+746,8,Commercial insurance,layout_balanced,synthetic_bucket8
+747,8,Commercial insurance,layout_balanced,synthetic_bucket8
+748,8,Commercial insurance,layout_balanced,synthetic_bucket8
+749,8,Commercial insurance,layout_balanced,synthetic_bucket8
+750,8,Commercial insurance,layout_balanced,synthetic_bucket8
+751,8,Commercial insurance,layout_balanced,synthetic_bucket8
+752,8,Commercial insurance,layout_balanced,synthetic_bucket8
+753,8,Commercial insurance,layout_balanced,synthetic_bucket8
+754,8,Commercial insurance,layout_balanced,synthetic_bucket8
+755,8,Commercial insurance,layout_balanced,synthetic_bucket8
+756,8,Commercial insurance,layout_balanced,synthetic_bucket8
+757,8,Commercial insurance,layout_balanced,synthetic_bucket8
+758,8,Commercial insurance,layout_balanced,synthetic_bucket8
+759,8,Commercial insurance,layout_balanced,synthetic_bucket8
+760,8,Commercial insurance,layout_balanced,synthetic_bucket8
+761,8,Commercial insurance,layout_balanced,synthetic_bucket8
+762,8,Commercial insurance,layout_balanced,synthetic_bucket8
+763,8,Commercial insurance,layout_balanced,synthetic_bucket8
+764,8,Commercial insurance,layout_balanced,synthetic_bucket8
+765,8,Commercial insurance,layout_balanced,synthetic_bucket8
+766,8,Commercial insurance,layout_balanced,synthetic_bucket8
+767,8,Commercial insurance,layout_balanced,synthetic_bucket8
+768,8,Commercial insurance,layout_balanced,synthetic_bucket8
+769,8,Commercial insurance,layout_balanced,synthetic_bucket8
+770,8,Commercial insurance,layout_balanced,synthetic_bucket8
+771,8,Commercial insurance,layout_balanced,synthetic_bucket8
+772,8,Commercial insurance,layout_balanced,synthetic_bucket8
+773,8,Commercial insurance,layout_balanced,synthetic_bucket8
+774,8,Commercial insurance,layout_balanced,synthetic_bucket8
+775,8,Commercial insurance,layout_balanced,synthetic_bucket8
+776,8,Commercial insurance,layout_balanced,synthetic_bucket8
+777,8,Commercial insurance,layout_balanced,synthetic_bucket8
+778,8,Commercial insurance,layout_balanced,synthetic_bucket8
+779,8,Commercial insurance,layout_balanced,synthetic_bucket8
+780,8,Commercial insurance,layout_balanced,synthetic_bucket8
+781,8,Commercial insurance,layout_balanced,synthetic_bucket8
+782,8,Commercial insurance,layout_balanced,synthetic_bucket8
+783,8,Commercial insurance,layout_balanced,synthetic_bucket8
+784,8,Commercial insurance,layout_balanced,synthetic_bucket8
+785,8,Commercial insurance,layout_balanced,synthetic_bucket8
+786,8,Commercial insurance,layout_balanced,synthetic_bucket8
+787,8,Commercial insurance,layout_balanced,synthetic_bucket8
+788,8,Commercial insurance,layout_balanced,synthetic_bucket8
+789,8,Commercial insurance,layout_balanced,synthetic_bucket8
+790,8,Commercial insurance,layout_balanced,synthetic_bucket8
+791,8,Commercial insurance,layout_balanced,synthetic_bucket8
+792,8,Commercial insurance,layout_balanced,synthetic_bucket8
+793,8,Commercial insurance,layout_balanced,synthetic_bucket8
+794,8,Commercial insurance,layout_balanced,synthetic_bucket8
+795,8,Commercial insurance,layout_balanced,synthetic_bucket8
+796,8,Commercial insurance,layout_balanced,synthetic_bucket8
+797,8,Commercial insurance,layout_balanced,synthetic_bucket8
+798,8,Commercial insurance,layout_balanced,synthetic_bucket8
+799,8,Commercial insurance,layout_balanced,synthetic_bucket8
+800,8,Commercial insurance,layout_balanced,synthetic_bucket8

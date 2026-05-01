@@ -1,0 +1,22 @@
+# California Code,  INS 10200.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=10200.
+
+**Section:** 10200
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 2. Group Life Policies [10200 - 10214]
+( Chapter 2 enacted by Stats. 1935, Ch. 145. )
+10200.
+Any life insurer may issue life, disability, term, and endowment insurance on the group plan, with or without annuities, and with premium rates less than the usual rates for such insurance. Such insurance under a franchise agreement or upon a wholesale basis may be written under rates more or less than the usual rates for such insurance.
+(Amended by Stats. 1961, Ch. 1385.)

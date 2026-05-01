@@ -1,0 +1,29 @@
+# California Code,  INS 1749.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=1749.
+
+**Section:** 1749
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 1. GENERAL RULES GOVERNING INSURANCE [100 - 1879.8]
+( Division 1 enacted by Stats. 1935, Ch. 145. )
+PART 2. THE BUSINESS OF INSURANCE [680 - 1879.8]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 5. Production Agencies [1621 - 1758.993]
+( Chapter 5 repealed and added by Stats. 1959, Ch. 4. )
+ARTICLE 13.5. Prelicensing and Continuing Education [1749 - 1749.9]
+( Article 13.5 added by Stats. 1990, Ch. 1420, Sec. 65. )
+1749.
+(a) The department shall require all new applicants for license to meet prelicensing education standards as follows:
+(1) An applicant for license as a property broker-agent, casualty broker-agent, life agent, accident and health or sickness agent, personal lines broker-agent, or limited lines automobile insurance agent shall be required to complete 12 hours of study on ethics and this code. The 12-hour ethics course shall include one hour of study on insurance fraud. If an applicant seeks a license for more than one of the following license types: property broker-agent license, casualty broker-agent license, life license, accident and health or sickness license, or personal lines broker-agent
+						license, the applicant shall only be required to complete one 12-hour course on ethics and this code, which shall include one hour of study on insurance fraud. The curriculum for satisfying this requirement shall be approved by the curriculum board and submitted to the commissioner for final approval.
+(2) An applicant for a property broker-agent license, casualty broker-agent license, life agent license, accident and health or sickness license, personal lines broker-agent license, or limited lines automobile insurance agent license, who is currently licensed as a nonresident in this state shall be required to complete the 12-hour course of study on ethics and this code, as required by this section. The 12-hour ethics course shall include one hour of study on insurance fraud.
+(b) Review and approval of prelicensing courses not conducted in a classroom shall include an evaluation of the safeguards in place to ensure that the student completing the course is the person enrolled in the course, methods used to monitor the student’s attendance are adequate, methods for the student to interact with the entity providing the training exist, and methods used to record the times spent completing the course are adequate.
+(c) Prelicensing certificates of completion expire three years from the completion date of the course, whether or not a license is issued.
+(Amended by Stats. 2025, Ch. 566, Sec. 5.   (AB 943)   Effective January 1, 2026.)

@@ -1,0 +1,30 @@
+# California Code,  INS 12978.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=12978.
+
+**Section:** 12978
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 3. THE INSURANCE COMMISSIONER [12900 - 13855]
+( Division 3 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 2. Powers and Duties [12919 - 13555]
+( Chapter 2 enacted by Stats. 1935, Ch. 145. )
+ARTICLE 4. Fees [12970 - 12980]
+( Article 4 enacted by Stats. 1935, Ch. 145. )
+12978.
+(a) Notwithstanding any other law, the commissioner may increase or decrease the fees set forth in this code, as necessary, to allow the department to meet the appropriation authorized by the annual Budget Act. However, any increase or decrease so made shall be made only in accordance with this section, and a fee increase shall not exceed 10 percent without the prior approval of the Legislature.
+(b) A single annual increase or decrease in fees, on a fiscal year basis, may be made by the department at any time during the year provided it is announced by bulletin issued at least 90 days prior to the effective date of that increase or decrease. The bulletin shall be sent to all affected parties and to the Assembly Committee on
+				  Insurance and the Senate Committee on Insurance. That fee increase or decrease may be rescinded by a majority vote of both houses of the Legislature not later than 60 days after the issuance of the bulletin announcing the increase or decrease.
+(c) If the bulletin is issued during the period between August 1 and December 1 of any year, the department shall provide notice in writing of the necessity of any fee increase or decrease as proposed in the bulletin upon issuance of the bulletin to the chairperson of the committee in each house that considers appropriations and the Chairperson of the Joint Legislative Budget Committee.
+(d) If written notice is provided to the commissioner within 60 days of the issuance of the bulletin announcing the increase or decrease by any of the chairpersons that there is an objection to the fee increase or decrease, the increase or decrease shall take
+				  effect February 1 of the following year unless rescinded by a majority vote of both houses of the Legislature by that date, rather than 60 days after issuance of the bulletin.
+(e) The department shall annually project forward its workload for the subsequent three years in order to project appropriate fee levels, and shall annually make adjustments to those fees, if necessary, based on actual workload experience.
+(f) The limit on the cumulative amount that the fees may be increased or decreased shall be the amount necessary to provide sufficient moneys to carry out the projected workload within the appropriations contained in the Governor’s Budget for the next succeeding fiscal year, or, to the extent that moneys received or projected to be received by the department are insufficient to carry out the projected workload within the appropriation authorized by the annual Budget Act
+				  during the then current fiscal year, an amount necessary to meet that appropriation and consistent with that projected workload.
+(Amended by Stats. 2017, Ch. 534, Sec. 91.   (AB 1699)   Effective January 1, 2018.)

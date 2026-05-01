@@ -1,0 +1,39 @@
+# California Code,  INS 12820.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=12820.
+
+**Section:** 12820
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 8. SERVICE CONTRACTS [12800 - 12865]
+( Part 8 added by Stats. 2003, Ch. 439, Sec. 5. )
+12820.
+(a) Prior to offering a vehicle service contract form to a purchaser or providing a vehicle service contract form to a seller, an obligor shall file with the commissioner a specimen of that vehicle service contract form.
+(b) A vehicle service contract form may include any or all of the benefits described in subdivision (c) of Section 12800 and shall comply with all of the following requirements:
+(1) (A) If an obligor has complied with Section 12830, the vehicle service contract shall include a disclosure in substantially the following form: “Performance to you under this contract is guaranteed by a
+						California approved insurance company. You may file a claim with this insurance company if any promise made in the contract has been denied or has not been honored within 60 days after your request. The name and address of the insurance company is: (insert name and address). If you are not satisfied with the insurance company’s response, you may contact the California Department of Insurance at 1-800-927-4357 or access the department’s Internet Web site (www.insurance.ca.gov).”
+(B) If an obligor has complied with Section 12836, the vehicle service contract shall include a disclosure in substantially the following form: “If any promise made in the contract has been denied or has not been honored within 60 days after your request, you may contact the California Department of Insurance at 1-800-927-4357 or access the department’s Internet Web site (www.insurance.ca.gov).”
+(C) The requirement that a vehicle service contract form include the department’s Internet Web site shall not apply to a form for which the department has issued a “no objection letter” as of December 31, 2016.
+(2) All vehicle service contract language that excludes coverage, or imposes duties upon the purchaser, shall be conspicuously printed in boldface type no smaller than the surrounding type.
+(3) The vehicle service contract shall do each of the following:
+(A) State the obligor’s full corporate name or a fictitious name approved by the commissioner, the obligor’s mailing address, the obligor’s telephone number, and the obligor’s vehicle service contract
+						provider license number.
+(B) State the name of the purchaser and the name of the seller.
+(C) Conspicuously state the vehicle service contract’s purchase price.
+(D) Comply with Sections 1794.4 and 1794.41 of the Civil Code.
+(E) Name the administrator, if any, and provide the administrator’s license number.
+(4) If the vehicle service contract excludes coverage for preexisting conditions, the contract must disclose this exclusion in 12-point type.
+(c) The following benefits constitute insurance, whether offered as part of a vehicle
+						service contract or in a separate agreement:
+(1) Indemnification for a loss caused by misplacement, theft, collision, fire, or other peril typically covered in the comprehensive coverage section of an automobile insurance policy, a homeowner’s policy, or a marine or inland marine policy, except as expressly authorized in subdivision (c) of Section 12800.
+(2) Locksmith services, unless offered as part of an emergency road service benefit.
+(d) This section shall become operative on January 1, 2017.
+(Amended (as added by Stats. 2015, Ch. 348, Sec. 27) by Stats. 2016, Ch. 386, Sec. 5.   (AB 2354)   Effective January 1, 2017.)

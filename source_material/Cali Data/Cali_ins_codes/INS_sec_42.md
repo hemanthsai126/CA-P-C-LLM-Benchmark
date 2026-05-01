@@ -1,0 +1,18 @@
+# California Code,  INS 42.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=42.
+
+**Section:** 42
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+GENERAL PROVISIONS
+( General Provisions enacted by Stats. 1935, Ch. 145. )
+42.
+The designation of insurance coverage as “group” in any code or law of this state other than this code does not authorize its representation as a group coverage or as a group policy, certificate, or contract by any person licensed or certificated by the commissioner unless the policy providing the coverage is defined as group insurance by a specific provision of this code or of the laws of the state in which the policy, certificate, or contract is issued. This section shall apply only to life, disability, and workers’ compensation insurance.
+(Amended by Stats. 2018, Ch. 231, Sec. 1.   (AB 2045)   Effective January 1, 2019.)

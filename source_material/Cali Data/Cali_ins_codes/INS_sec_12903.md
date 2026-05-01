@@ -1,0 +1,22 @@
+# California Code,  INS 12903.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=12903.
+
+**Section:** 12903
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 3. THE INSURANCE COMMISSIONER [12900 - 13855]
+( Division 3 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 1. Appointment, Qualification, and Offices [12900 - 12907]
+( Chapter 1 enacted by Stats. 1935, Ch. 145. )
+12903.
+The commissioner may employ actuarial, technical, and administrative assistants and clerks, as the commissioner may need to discharge in proper manner the duties imposed upon the commissioner by law. The commissioner may also employ stenographic reporters to take and transcribe the testimony in any formal hearing or investigation before the commissioner, deputy, or person authorized by the commissioner.
+Those employed persons shall perform the duties assigned to them by the commissioner, subject to the provisions of the civil service laws. The commissioner may incur traveling and other expenses as are necessary, convenient, or advisable for the performance of the commissioner’s duties. The provisions of this section shall not be deemed to affect or modify positions or
+				  seniority of officers or employees existing and held in the office of the commissioner immediately prior to the date this section takes effect, and all persons then serving in any capacity therein shall continue and remain in that capacity without change of position or seniority, subject to the provisions of the law regulating civil service in the same manner and to the same extent as prior to the date this section takes effect.
+(Amended by Stats. 2021, Ch. 50, Sec. 241.   (AB 378)   Effective January 1, 2022.)

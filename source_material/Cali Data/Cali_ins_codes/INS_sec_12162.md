@@ -1,0 +1,40 @@
+# California Code,  INS 12162.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=12162.
+
+**Section:** 12162
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 5. MOTOR CLUBS [12140 - 12311]
+( Part 5 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 2. Certificate of Authority [12160 - 12170]
+( Chapter 2 repealed and added by Stats. 1969, Ch. 858. )
+12162.
+The commissioner shall not issue a certificate of authority to any motor club until:
+(a) It files with him or her the following:
+(1) A formal application for the certificate in that form and detail as the commissioner requires, executed under oath by its president or other principal officer.
+(2) A certified copy of its charter or articles of incorporation and its bylaws, if any.
+(3) A copy of its latest financial statement, or report of independent audit as the commissioner may require; or, in the event neither is available, its most recent operating
+				  statement and balance sheet. Any financial statement, audit, operating and balance sheet shall be verified by the person compiling or making the same and by an executive officer of the applicant.
+(4) If it is a foreign corporation, a certificate from its domiciliary state regulatory authority executed not more than 30 days before the filing of its application that it is duly authorized to do a motor club business in that state.
+(5) An explanation of its plan of doing business, and copies of the following: its application for membership; the proposed membership certificate or identification card; any proposed addendum thereto; any individual insurance policy and any group master policy and individual certificates thereunder to be offered; any service contract to be issued.
+(6) Other information as the commissioner may
+				  find necessary in order to determine the applicant’s qualifications.
+(b) It first deposits security with the commissioner in one of the following forms:
+(1) Securities of the kinds prescribed by this code for capital fund investments by stock insurers and approved by the commissioner, in the amount of one hundred thousand dollars ($100,000) based on par value or market value, whichever is less. The making, maintenance and withdrawal of those deposits and the substitution of securities therein shall be governed by Article 11 (commencing with Section 939) of Chapter 1 of Part 2 of Division 1.
+(2) A surety bond on a form prescribed by the Attorney General of this state, executed by an admitted surety insurer in the penal sum of one hundred thousand dollars ($100,000).
+(c) It pays to the commissioner an annual license fee of four hundred twenty-four dollars ($424).
+(d) Its name is approved by the commissioner under Section 881, which applies to motor clubs.
+(e) It proves by affidavits of its officers, directors, managers, and individual owners of more than 10 percent on a form prescribed by the commissioner that it is not disqualified under Section 704.5.
+(f) It satisfies the commissioner it is qualified as respects each of the subjects enumerated in subdivisions (b), (c), (e), (f), (h), (i), and (j) of Section 717, when those subjects are read in the sense of protection to its members instead of policyholders.
+(g) It is a separate legal entity capable of being examined by the commissioner as provided in
+				  this part.
+(Amended by Stats. 2017, Ch. 534, Sec. 75.   (AB 1699)   Effective January 1, 2018.)

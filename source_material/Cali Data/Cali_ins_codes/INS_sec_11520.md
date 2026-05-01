@@ -1,0 +1,28 @@
+# California Code,  INS 11520.
+
+**California Insurance Code (INS)**
+
+**Official source:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=INS&sectionNum=11520.
+
+**Section:** 11520
+
+**Justia mirror (discovery):** https://law.justia.com/codes/california/2024/code-ins/
+
+---
+
+Insurance Code - INS
+DIVISION 2. CLASSES OF INSURANCE [1880 - 12880.8]
+( Division 2 enacted by Stats. 1935, Ch. 145. )
+PART 2. LIFE AND DISABILITY INSURANCE [10110 - 11549]
+( Part 2 enacted by Stats. 1935, Ch. 145. )
+CHAPTER 12. Grants and Annuities Societies [11520 - 11524]
+( Chapter 12 enacted by Stats. 1935, Ch. 145. )
+11520.
+The following organizations and persons may receive transfers of property, conditioned upon their agreement to pay an annuity to the transferor or the transferor’s nominee, after obtaining from the commissioner a certificate of authority so to do:
+(a) Any charitable, religious, benevolent or educational organization, pecuniary profit not being its object or purpose, after being in active operation for at least 10 years; provided, nevertheless, that 10 years of active operation shall not be required in case of:
+(1) A nonprofit corporation organized and controlled by a hospital licensed by the State Department of Health Services as a general acute care hospital pursuant to Chapter 2 (commencing with Section 1250) of Division 2 of the Health and Safety Code; and
+(2) An incorporated educational institution offering courses of instruction beyond high school, organized pursuant to Section 94757 of the Education Code, and which is, and for at least one year has been, qualified pursuant to Chapter 7 (commencing with Section 94700) of Part 59 of the Education Code to issue diplomas or degrees as defined in Sections 94724 and 94726 of that code;
+(b) Every organization or person maintaining homes for the aged for pecuniary profit.
+This section applies to organizations subject to and operating under Chapter 10 (commencing with Section 1770) of Division 2 of the Health and Safety Code.
+(c) This section shall become operative on January 1, 1997.
+(Repealed (in Sec. 292) and added by Stats. 1995, Ch. 758, Sec. 292.5.   Effective January 1, 1996.   Section operative January 1, 1997, by its own provisions.)
