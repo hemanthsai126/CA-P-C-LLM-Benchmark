@@ -1,98 +1,113 @@
-# Benchmarking Large Language Models on Insurance Licensing–Style Multiple-Choice Exams: Methods, Results, and Implications for Exam Prep Tools
+# Benchmarking LLMs on Insurance Licensing–Style Exams: What We Measured and What It Actually Tells You
 
-**Research evaluation report** · Artifacts under `results/` · May 2026 · *this file: `REPORT.md` at repo root*
-
----
-
-### How to view figures in this file
-
-**This file is `REPORT.md` at the repository root.** Figure URLs use **`./results/...`** so they resolve when the Markdown preview uses the **project root** (“Broker Test”) as the base path—this is the usual behavior in VS Code / Cursor. Allow **local** images if the editor prompts you.
-
-**Same text under `results/report.md`** uses shorter paths (`./charts/...`) that resolve when the preview’s base is the **`results/`** folder instead. Use whichever file your viewer loads correctly.
-
-If images still break, open the PNGs directly: `results/charts/`, `results/from_youtube_video/judge_plots/`, `results/*/option/analysis/`.
+**Research evaluation report** · May 2026
 
 ---
 
 ## Abstract
 
-Many learners adopt large language models (LLMs) to prepare for **California property-and-casualty–style** licensing exams: drill questions, explanations, and quick feedback. The *practical* goal is often framed as **passing**—hitting a cut score on a high-stakes test. This report documents a reproducible **case-study evaluation** of twelve model configurations (OpenAI API models plus open weights via Ollama) on **three** complementary MCQ corpora (Quizlet/PDF-derived, YouTube-oriented, synthetic handbook-style), with **letter accuracy** against held-out keys, **LLM-as-judge** alignment of rationales to reference explanations (YouTube subset), and **eight-way curriculum bucket** ablations. Frontier models reach **~75%** on the hardest scraped-style pool and **~99%** on the synthetic set; mid-sized open models (**≈7–9B**) approach or exceed **~80–95%** on the friendlier splits. **Implication:** if the only success criterion were coarse MCQ performance on practice-style material above **~3B parameters**, many modern models would already clear a low “passing” bar—so **research and product work** should shift toward **validity**, **calibration**, **topic-level weaknesses**, and **non-MCQ** competencies rather than headline accuracy alone.
-
-**Keywords:** insurance licensing, LLM evaluation, multiple-choice QA, curriculum buckets, LLM-as-judge, explanation alignment, domain shift, Ollama, OpenAI API
+People use large language models to study for insurance licensing exams—practice questions, quick explanations, the hope of passing on the first try. This project measures how well a dozen model setups actually perform on that kind of work, but we try to be honest about what the numbers mean. We use three different piles of California P&C–style multiple-choice items (a big messy Quizlet/PDF-style set, a smaller YouTube-aligned set, and a cleaner synthetic set balanced across topics). We score letter answers against keys, we score explanations against reference text where we have it, and we break errors down by eight curriculum buckets so “where do I study harder?” has an answer, not just a single percentage. The headline is predictable: frontier models and larger open weights look strong on easier material, and everyone looks worse on the scraped PDF-style bank. The more useful headline is that **if your only bar is “passing” on friendly practice MCQs, plenty of models above a few billion parameters already look fine**—which means the interesting work is everything *around* that: whether items predict the real exam, whether explanations are safe to trust, and what happens when wording and jurisdiction get nasty.
 
 ---
 
 ## 1. Introduction
 
-State licensing pathways for property and casualty insurance emphasize breadth (coverage lines, exclusions, state-specific rules) and precise reading of dense prose. Generative models are increasingly embedded in **study products**—question banks, chat tutors, and explanation generators.
+Licensing exams reward careful reading, memorized detail, and time pressure. Study products are already folding in LLMs for generation and tutoring. That is fine as a product direction, but it needs evaluation that matches how people will use the tool—not one leaderboard score on one file of questions.
 
-**Motivation.** A natural user goal is to **pass the exam**: maximize expected score subject to time and effort. From a **research** standpoint, however, “passing” is an underspecified target: it depends on the **item bank**, **cut score**, **item difficulty**, and **correlation** between practice sets and the operational exam. This work therefore asks:
-
-1. How do **frontier vs. open** models compare on **three** deliberately different corpora?
-2. Do **rationales** track reference explanations when a key exists (YouTube)?
-3. Where do models **fail within a fixed curriculum taxonomy** (eight buckets)?
-
-**Contribution.** We release a compact, script-driven pipeline: MCQ runs in `option/*.csv`, automated accuracy tables, cross-corpus figures, an OpenAI judge over `explanations.txt`, and per-bucket accuracy heatmaps under each `option/analysis/`. Together, these support **interpretable** comparisons beyond a single leaderboard number.
+We built a small, repeatable pipeline in this repository: run models, store CSVs, compare to keys, plot across corpora, judge explanations on the YouTube split, and slice accuracy by topic bucket. The goal of this write-up is to summarize what we found in one place, in language that a reviewer or a product owner can read without digging through folders first.
 
 ---
 
 ## 2. Materials and methods
 
-### 2.1 Benchmark corpora
+### 2.1 The three corpora
 
-| Corpus | Folder | Role | Answer-key scope |
-|--------|--------|------|-------------------|
-| **Quizlet / PDF-derived** | `from_quizlet_pdfs/` | Large, heterogeneous pool; **hardest** for top models | **550** overlapping A–D scored items (from `answers.txt`) |
-| **YouTube-oriented** | `from_youtube_video/` | Transcript/video-aligned validation split | **150** items |
-| **Synthetic handbook-style** | `synthetic_data/` | Controlled 50×8 bucket layout | **400** items |
+| Corpus | Folder | What it is | How many answers we grade |
+|--------|--------|------------|----------------------------|
+| Quizlet / PDF-style | `from_quizlet_pdfs/` | Large, noisy study-bank style pool | **550** scored overlaps (see below) |
+| YouTube-aligned | `from_youtube_video/` | Smaller validation split tied to transcript-style material | **150** |
+| Synthetic | `synthetic_data/` | Handbook-style generation, 50 questions × 8 topic blocks | **400** |
 
-### 2.2 Models
+Questions and keys live next to the scores under each `results/...` folder. Model outputs are in `option/*.csv` with a letter and usually a short `reason`.
 
-**OpenAI API:** GPT-4o, GPT-4o mini, GPT-4.1 mini, GPT-4.1 nano, GPT-3.5 Turbo (identifiers embedded in CSV filenames). **Local (Ollama):** TinyLlama 1.1B, Gemma 2 2B / 9B, Phi-3 Mini 3.8B, Qwen2.5 7B, Mistral 7B, Llama 3.1 8B. Parameter labels for API “mini/nano” classes follow common **informal** public estimates where noted.
+### 2.2 Models we tested
+
+**OpenAI (API, names as in filenames)**
+
+- GPT-4o  
+- GPT-4o mini  
+- GPT-4.1 mini  
+- GPT-4.1 nano  
+- GPT-3.5 Turbo  
+
+**Ollama (local weights)**
+
+- TinyLlama 1.1B  
+- Gemma 2 2B  
+- Gemma 2 9B  
+- Phi-3 Mini 3.8B  
+- Qwen2.5 7B  
+- Mistral 7B  
+- Llama 3.1 8B  
+
+Where we label API “mini” sizes with “~7B (est.)” and similar, that is informal public shorthand, not a vendor spec.
 
 ### 2.3 Task
 
-Four-way MCQ (A–D); models emit a letter and a short `reason` string where the pipeline requests it.
+Each item is four-way multiple choice (A–D). Pipelines ask for a letter and a short rationale where configured.
 
-### 2.4 Letter accuracy
+### 2.4 Letter accuracy and what “overlap” means (especially on Quizlet)
 
-Let \(G\) be question ids with gold letter in \(\{A,B,C,D\}\), and \(P\) ids with a valid model letter. Accuracy is computed on **\(G \cap P\)**: \(\#\{\text{correct}\}/|G \cap P|\). Implementation matches `scripts/update_option_results_tables.py`.
+We only score a question when **both** sides give a usable letter: the key says A–D, and the model outputs A–D. Let \(G\) be those key ids and \(P\) those prediction ids. We compute accuracy on **\(G \cap P\)**: correct count divided by how many ids are in that intersection.
 
-### 2.5 Explanation judge (YouTube)
+**Quizlet nuance.** `answers.txt` has more lines than 550, but many rows line up with the same overlapping set of items once you require a valid model letter and a valid key. In practice every full run in our tables ends up with **550** comparable items for that corpus—the questions where the model actually played the game with a letter and the key was A–D. Things that fall out include missing predictions, garbled letters, or key rows that are not plain A–D. So when we say “overlap,” we mean: *this is the fair head-to-head set*, not “every line in the file.”
 
-Reference lines in `from_youtube_video/explanations.txt` are compared to each model’s `reason` by a fixed **gpt-4.1-mini** judge (`scripts/judge_reasoning_openai.py`), producing **alignment_score** ∈ {0,1,2,3} per item (**148** judged overlaps in the run summarized here). See Table D.
+### 2.5 Explanation judge (YouTube only)
 
-### 2.6 Curriculum buckets (eight topics)
+For YouTube items we have `explanations.txt`. A fixed **gpt-4.1-mini** judge reads the stem, options, model letter, model `reason`, and the reference explanation, and returns a 0–3 alignment score plus short notes (`scripts/judge_reasoning_openai.py`). **148** items had everything needed for that pass in the run summarized below.
 
-Items are mapped to buckets **1–8** (Basic concepts … Commercial insurance). **Quizlet** and **YouTube** use `question_buckets_gpt-4.1.csv`. **Synthetic** uses the generator layout **50 consecutive ids per bucket** (same names), consistent with `answers.txt` header. Per-bucket accuracy uses ids in the overlap of gold, prediction, and bucket map (`scripts/analyze_option_buckets.py` → each `option/analysis/`).
+### 2.6 The eight curriculum buckets (topic labels)
 
-### 2.7 Figures and reproduction
+Items are tagged into **one** of eight buckets (names match `question_buckets_gpt-4.1.csv` on Quizlet and YouTube; synthetic uses the same names in fixed 50-question blocks).
+
+1. **Basic concepts**  
+2. **Contract law**  
+3. **CA laws & ethics**  
+4. **Tort & property fundamentals**  
+5. **Residential property**  
+6. **Valuation & government programs**  
+7. **Personal liability & inland marine**  
+8. **Commercial insurance**  
+
+Per-bucket accuracy is computed on the overlap of key, prediction, and bucket assignment (`scripts/analyze_option_buckets.py` → each `option/analysis/`).
+
+### 2.7 How figures were produced
 
 | Output | Script |
 |--------|--------|
-| Cross-corpus MCQ bar/heatmap | `scripts/plot_option_accuracy_across_sources.py` |
-| Judge plots | `scripts/plot_judge_summary.py`, `scripts/run_youtube_openai_judge_and_plots.sh` |
-| Bucket heatmaps / means / per-model bars | `scripts/analyze_option_buckets.py` |
+| Cross-corpus MCQ bar and heatmap | `scripts/plot_option_accuracy_across_sources.py` |
+| Judge plots | `scripts/plot_judge_summary.py` · `scripts/run_youtube_openai_judge_and_plots.sh` |
+| Bucket heatmaps, means, per-model bars | `scripts/analyze_option_buckets.py` |
 
 ---
 
 ## 3. Results
 
-### 3.1 Overall MCQ accuracy across corpora
+### 3.1 Overall MCQ accuracy across the three corpora
+
+#### Figure 1. MCQ accuracy by corpus (grouped bars)
 
 ![Figure 1 — MCQ accuracy by benchmark source (grouped horizontal bars).](./results/charts/option_accuracy_by_source_barh.png)
 
-**Takeaway.** The same model family can look “exam-ready” on **synthetic** items yet **much weaker** on **Quizlet PDF–style** noise; any single-corpus number is a **partial** view of capability.
+**Summary.** Same models, three corpora—the spread between Quizlet and synthetic is the story. Treating synthetic accuracy as “exam readiness” would overstate reality; treating Quizlet alone as the whole truth would understate how clean items inflate scores.
 
-**Takeaway.** Open-weight **scale** orders models roughly as expected on the left (Quizlet) axis, but **separations compress** on synthetic data—where the evaluation is less discriminative for strong models.
+#### Figure 2. MCQ accuracy heatmap (corpora × models)
 
 ![Figure 2 — MCQ accuracy heatmap (three corpora × models).](./results/charts/option_accuracy_by_source_heatmap.png)
 
-**Takeaway.** The heatmap makes **domain shift** visible as horizontal “stripes” of warm vs. cool cells for the same row (model).
+**Summary.** The heatmap makes domain shift easy to see at a glance: warm cells on synthetic, cooler on Quizlet for the same row. Use it when you care about rank stability versus absolute level.
 
-**Takeaway.** Numeric cells support **pairwise** reading (e.g., same model Quizlet vs. YouTube) without re-parsing tables.
-
-### 3.2 Mean MCQ accuracy across corpora (unweighted)
+### 3.2 Mean accuracy across corpora (simple average of the three percentages)
 
 | Model | Params (reporting) | Quizlet | YouTube | Synthetic | Mean |
 |-------|-------------------:|--------:|--------:|----------:|-----:|
@@ -111,7 +126,7 @@ Items are mapped to buckets **1–8** (Basic concepts … Commercial insurance).
 
 ### 3.3 Per-corpus MCQ tables
 
-#### Table A — `from_quizlet_pdfs` (550 overlaps)
+#### Table A — Quizlet (550 overlaps)
 
 | CSV | Parameters | Correct | Wrong | Accuracy |
 |-----|------------|--------:|------:|----------:|
@@ -128,7 +143,7 @@ Items are mapped to buckets **1–8** (Basic concepts … Commercial insurance).
 | `phi3_mini_reasoned.csv` | 3.8B | 196 | 354 | **35.64%** |
 | `tinyllama_reasoned.csv` | 1.1B | 161 | 389 | **29.27%** |
 
-#### Table B — `from_youtube_video` (150 items)
+#### Table B — YouTube (150 items)
 
 | CSV | Parameters | Correct | Wrong | Accuracy |
 |-----|------------|--------:|------:|----------:|
@@ -145,7 +160,7 @@ Items are mapped to buckets **1–8** (Basic concepts … Commercial insurance).
 | `gemma_2b_reasoned.csv` | 2B | 66 | 84 | **44.00%** |
 | `tinyllama_reasoned.csv` | 1.1B | 36 | 114 | **24.00%** |
 
-#### Table C — `synthetic_data` (400 items)
+#### Table C — Synthetic (400 items)
 
 | CSV | Parameters | Correct | Wrong | Accuracy |
 |-----|------------|--------:|------:|----------:|
@@ -162,9 +177,9 @@ Items are mapped to buckets **1–8** (Basic concepts … Commercial insurance).
 | `phi3_mini_reasoned.csv` | 3.8B | 189 | 211 | **47.25%** |
 | `tinyllama_reasoned.csv` | 1.1B | 110 | 290 | **27.50%** |
 
-### 3.4 YouTube — rationale alignment (judge **gpt-4.1-mini**)
+### 3.4 YouTube — explanation alignment (judge: gpt-4.1-mini)
 
-#### Table D — Judge summary (`judge_runs_openai/gpt-4.1-mini/summary.csv`)
+#### Table D — Judge summary
 
 | Run | n | MCQ acc. | Avg align | %0 | %1 | %2 | %3 |
 |-----|--:|---------:|----------:|---:|---:|---:|---:|
@@ -181,121 +196,98 @@ Items are mapped to buckets **1–8** (Basic concepts … Commercial insurance).
 | `gemma_2b_reasoned` | 148 | 43.92% | 1.64 | 14.86% | 36.49% | 18.92% | 29.73% |
 | `tinyllama_reasoned` | 148 | 24.32% | 0.78 | 37.84% | 50.00% | 8.11% | 4.05% |
 
-Per-item JSONL: `judge_runs_openai/gpt-4.1-mini/*.jsonl`.
+Per-item logs: `judge_runs_openai/gpt-4.1-mini/*.jsonl`.
+
+#### Figure 3. Mean explanation alignment (0–3) by model
 
 ![Figure 3 — Mean explanation alignment (0–3) by model.](./results/from_youtube_video/judge_plots/avg_alignment_score.png)
 
-**Takeaway.** Mean alignment **ranks** models similarly to MCQ accuracy but is not identical: it rewards **reference-shaped** reasoning, not only the correct letter.
+**Summary.** Alignment tracks who sounds like the reference explanation, not only who picked the right letter. That matters if learners read the rationale and treat it as teaching.
 
-**Takeaway.** The long left tail for the smallest model shows that **wrong answers** and **poor explanations** tend to co-occur in this setup.
+#### Figure 4. Stacked distribution of judge scores (0–3)
 
 ![Figure 4 — Stacked judge score distribution (0–3) per model.](./results/from_youtube_video/judge_plots/score_distribution_stacked.png)
 
-**Takeaway.** Stacked bars expose **mass at score 3** for top models versus **mass at 0–1** for weak baselines—useful for communicating risk to learners.
+**Summary.** Top models pile mass at score 3; small baselines pile at 0–1. The middle band is where cheap human QA can still help even when letters look acceptable.
 
-**Takeaway.** Mid-tier models often show a **thick “2” band** (mostly right idea, imperfect wording), which is exactly where human review can add value.
+#### Figure 5. MCQ accuracy versus mean alignment
 
-![Figure 5 — MCQ accuracy vs. mean alignment (each point = one model).](./results/from_youtube_video/judge_plots/accuracy_vs_alignment.png)
+![Figure 5 — MCQ accuracy vs mean alignment (each point = one model).](./results/from_youtube_video/judge_plots/accuracy_vs_alignment.png)
 
-**Takeaway.** Positive correlation supports using **cheap MCQ probes** as a first screen, with **judge or human** checks when explanations will be shown to users.
+**Summary.** Correlation is positive but imperfect—worth spot-checking “right letter, shaky reasoning” cases before shipping tutor copy.
 
-**Takeaway.** Deviations from the diagonal motivate **error analysis**: some models may be “lucky” on letters or “verbose but aligned.”
+### 3.5 Curriculum buckets — where models gain and lose ground
 
-### 3.5 Curriculum bucket ablations (MCQ accuracy within topic)
-
-For each corpus, **Figure pair (heatmap, mean-by-bucket)** summarizes where models cluster in performance across the eight curriculum buckets. Rows in heatmaps are sorted by **overall mean accuracy** (across buckets, ignoring NaNs). Additional **per-model bar charts** exist as `option/analysis/<model>_by_bucket.png` (not all duplicated here to keep the report readable).
+The eight buckets are listed in §2.6 (basic concepts through commercial insurance). Figures below show **MCQ accuracy within each bucket** after intersecting with valid model letters and keys. Heatmap rows are sorted by average accuracy across buckets. Each corpus also has per-model bar charts in `option/analysis/*_by_bucket.png` if you want every model in isolation.
 
 #### Quizlet / PDF-derived (`from_quizlet_pdfs/option/analysis/`)
 
+##### Figure 6. Quizlet — models × buckets (heatmap)
+
 ![Figure 6 — Quizlet: models × buckets accuracy heatmap.](./results/from_quizlet_pdfs/option/analysis/heatmap_models_x_buckets.png)
 
-**Takeaway.** Vertical “cold” columns identify **topic buckets** that systematically hurt many models—good targets for harder drill sets or instructor review.
+**Summary.** Cold columns are topics that hurt many models together—good places to harden a curriculum or add instructor review, not just to swap model weights.
 
-**Takeaway.** Spread across rows shows that **parameter scale** still matters on messy real-world study material.
+##### Figure 7. Quizlet — mean accuracy by bucket
 
 ![Figure 7 — Quizlet: mean MCQ accuracy across models per bucket.](./results/from_quizlet_pdfs/option/analysis/mean_accuracy_by_bucket.png)
 
-**Takeaway.** Buckets with low means are **hard for the field**, not only for one vendor model.
-
-**Takeaway.** If product goals include “balanced mastery,” these means suggest **where** to rebalance generated practice.
+**Summary.** When the cross-model mean dips, the bucket is intrinsically awkward for this bank, not a single vendor glitch.
 
 #### YouTube (`from_youtube_video/option/analysis/`)
 
+##### Figure 8. YouTube — models × buckets (heatmap)
+
 ![Figure 8 — YouTube: models × buckets heatmap.](./results/from_youtube_video/option/analysis/heatmap_models_x_buckets.png)
 
-**Takeaway.** With \(N=150\), some bucket cells are **sparse**; interpret low-accuracy cells with the companion `bucket_accuracy_long.csv` counts.
+**Summary.** With only 150 items, some bucket cells are thin; pair the plot with `bucket_accuracy_long.csv` counts when you interpret a dark cell.
 
-**Takeaway.** The pattern still shows whether certain topics (e.g., commercial lines) concentrate errors for **multiple** systems.
+##### Figure 9. YouTube — mean accuracy by bucket
 
 ![Figure 9 — YouTube: mean accuracy per bucket.](./results/from_youtube_video/option/analysis/mean_accuracy_by_bucket.png)
 
-**Takeaway.** Mean-by-bucket on YouTube complements the **judge** analysis: a model can score well on letters in a bucket while still needing explanation polish (see §3.4).
+**Summary.** Bucket means here sit next to the judge results: letters can look fine while explanations still need polish.
 
 #### Synthetic (`synthetic_data/option/analysis/`)
 
+##### Figure 10. Synthetic — models × buckets (heatmap)
+
 ![Figure 10 — Synthetic: models × buckets heatmap.](./results/synthetic_data/option/analysis/heatmap_models_x_buckets.png)
 
-**Takeaway.** Synthetic heatmaps are **visually greener** overall—consistent with high ceiling accuracy and controlled generation.
+**Summary.** The synthetic heatmap is greener overall—expected given controlled generation—and still shows which slices separate mid-sized models.
 
-**Takeaway.** Residual red pockets still reveal **which curriculum slice** remains hard for sub-8B models.
+##### Figure 11. Synthetic — mean accuracy by bucket
 
 ![Figure 11 — Synthetic: mean accuracy per bucket.](./results/synthetic_data/option/analysis/mean_accuracy_by_bucket.png)
 
-**Takeaway.** When even **mean** bucket accuracy is high, the evaluation is less about “who passes” and more about **ranking** among strong systems.
-
-**Takeaway.** Use synthetic results for **regression testing** after prompt or pipeline changes, not as sole evidence of exam readiness.
+**Summary.** High bucket means here are better for regression checks after prompt changes than for claiming real exam readiness.
 
 ---
 
 ## 4. Discussion
 
-**Exam “passing” vs. research quality.** On the **synthetic** and, to a lesser extent, **YouTube** splits, several models at **roughly 4B parameters and above** already achieve **high** MCQ accuracy. If the only barrier imagined were “enough practice items with answer keys,” then **scaling past ~3B** appears sufficient for *that* barrier on these corpora. **Operational licensing exams**, however, impose **procedural**, **reading-comprehension**, and **adversarial** demands that MCQ benchmarks here do not capture. The more defensible research conclusion is: **practice-style MCQ accuracy saturates quickly**; the remaining work is **validity** (does the item bank predict outcomes?), **fairness**, **calibration**, and **safe deployment** of explanations.
+Learners often frame the goal as passing the exam. These runs are still practice MCQs with our keys—they are not the state test. Still, a few patterns are stable enough to say out loud:
 
-**Domain shift** remains the dominant story: rankings are **partially stable** across corpora, but **absolute** performance moves by tens of percentage points. Product teams should therefore **never** quote a single-number “pass probability” from one bank.
+- **“Passing” on friendly MCQs is a soft target.** On synthetic (and to some extent YouTube), several models from about **4B parameters up** already look very strong on letters. If the bar is quietly lowered to “good enough drill scores,” then **anything past ~3B** clears that shallow bar on easy material. The harder Quizlet-style bank is where scores spread from the twenties into the mid-seventies—closer to messy study reality.
 
-**Buckets** operationalize a **curriculum view**: they show *where* to invest content—not only *whether* a model is “good.”
+- **Domain shift beats model gossip.** Rankings partially hold, but absolute scores swing by tens of points across corpora. Shipping a single headline number from one bank is misleading.
 
-**Judge limitations.** The gpt-4.1-mini judge is useful for **relative** comparison and QA sampling, not as a ground truth of pedagogical quality—especially when judging **near-identical** API model families.
+- **Buckets change the question from “who won?” to “what should I study?”** They highlight curriculum slices that hurt many models at once, which is more actionable than a leaderboard row.
 
----
-
-## 5. Limitations
-
-- Not an **official** examination; non-certifying.
-- **Keys and explanations** may contain extraction noise.
-- **API / weight snapshots** drift; archive exact versions with each run.
-- **Overlap metric** excludes invalid model letters (can inflate vs. strict user-facing scoring).
-- **LLM judge** subjectivity and **bucket labels** (GPT-4.1–based for two corpora; layout-based for synthetic) introduce **measurement dependence**.
+- **Judge alignment is a smoke test, not a seal of approval.** gpt-4.1-mini is useful for ordering explanations and finding disasters to review; it is not a substitute for human subject-matter review, especially when API models cluster near each other.
 
 ---
 
-## 6. Conclusion
-
-We presented a **multi-corpus**, **multi-metric** evaluation of LLMs on insurance licensing–style MCQs: **letter accuracy**, **reference-aligned explanations** (YouTube), and **topic-bucket** error structure (all corpora). The evidence supports a **pragmatic** conclusion for learners: larger models and frontier APIs are strong **practice assistants** on clean or synthetic material, but **messy** study PDFs remain challenging—so “exam prep” products should surface **uncertainty**, **citations to primary law and manuals**, and **human oversight**, especially below ~7B or on adversarial items. For **research**, the closing recommendation is to treat **“passing” on practice MCQs**—especially with models above a few billion parameters—as a **low** bar; the scientific and engineering problem is to characterize **when** model advice is **reliable enough** to stake regulatory and financial outcomes on it.
-
----
-
-## 7. Data and code availability
+## 5. Data and code availability
 
 | Artifact | Location |
 |----------|----------|
 | Questions, keys, explanations | `results/from_quizlet_pdfs/`, `results/from_youtube_video/`, `results/synthetic_data/` |
 | Model CSVs | each `results/*/option/*.csv` |
 | MCQ accuracy tables | `results/*/results.md` · `scripts/update_option_results_tables.py` |
-| Cross-corpus MCQ figures | `results/charts/*.png` · `scripts/plot_option_accuracy_across_sources.py` |
+| Cross-corpus figures | `results/charts/*.png` · `scripts/plot_option_accuracy_across_sources.py` |
 | Judge JSONL + summary | `judge_runs_openai/gpt-4.1-mini/` · `scripts/judge_reasoning_openai.py` |
-| Judge plots copy | `results/from_youtube_video/judge_plots/` · `scripts/run_youtube_openai_judge_and_plots.sh` |
+| Judge plots | `results/from_youtube_video/judge_plots/` · `scripts/run_youtube_openai_judge_and_plots.sh` |
 | Bucket analysis | each `results/*/option/analysis/` · `scripts/analyze_option_buckets.py` |
-| This report (root-relative image URLs) | `REPORT.md` |
-| Same report (`results/`-relative image URLs) | `results/report.md` |
-
----
-
-## References (illustrative)
-
-1. Brown, T. et al. (2020). Language Models are Few-Shot Learners. *NeurIPS* (general LLM context).
-2. Candidate bulletins and **state insurance department** handbooks should be cited for any externally distributed derivative; this repository snapshot does not replace primary sources.
-
----
-
-*End of report.*
+| This report (root-relative image paths) | `REPORT.md` |
+| Same text with `results/`-relative image paths | `results/report.md` |
