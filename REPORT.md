@@ -1,16 +1,16 @@
 # Benchmarking Large Language Models on Insurance Licensing–Style Multiple-Choice Exams: Methods, Results, and Implications for Exam Prep Tools
 
-**Research evaluation report** · Artifacts under `results/` · May 2026
+**Research evaluation report** · Artifacts under `results/` · May 2026 · *this file: `REPORT.md` at repo root*
 
 ---
 
 ### How to view figures in this file
 
-Paths like **`./charts/…`** are **relative to the `results/` directory** (this file’s folder). Many Markdown previews use the **opened file’s folder** as the base URL, so figures work when you preview **`results/report.md`** from a workspace rooted at **“Broker Test”**.
+**This file is `REPORT.md` at the repository root.** Figure URLs use **`./results/...`** so they resolve when the Markdown preview uses the **project root** (“Broker Test”) as the base path—this is the usual behavior in VS Code / Cursor. Allow **local** images if the editor prompts you.
 
-If your preview instead resolves links from the **repository root**, images here may break—open the duplicate **`REPORT.md`** at the **repo root** (same content, but links are `./results/charts/…`, etc.).
+**Same text under `results/report.md`** uses shorter paths (`./charts/...`) that resolve when the preview’s base is the **`results/`** folder instead. Use whichever file your viewer loads correctly.
 
-Allow **local** images in preview settings if prompted. You can always open PNGs under `results/charts/`, `results/from_youtube_video/judge_plots/`, and `results/*/option/analysis/`.
+If images still break, open the PNGs directly: `results/charts/`, `results/from_youtube_video/judge_plots/`, `results/*/option/analysis/`.
 
 ---
 
@@ -80,13 +80,13 @@ Items are mapped to buckets **1–8** (Basic concepts … Commercial insurance).
 
 ### 3.1 Overall MCQ accuracy across corpora
 
-![Figure 1 — MCQ accuracy by benchmark source (grouped horizontal bars).](./charts/option_accuracy_by_source_barh.png)
+![Figure 1 — MCQ accuracy by benchmark source (grouped horizontal bars).](./results/charts/option_accuracy_by_source_barh.png)
 
 **Takeaway.** The same model family can look “exam-ready” on **synthetic** items yet **much weaker** on **Quizlet PDF–style** noise; any single-corpus number is a **partial** view of capability.
 
 **Takeaway.** Open-weight **scale** orders models roughly as expected on the left (Quizlet) axis, but **separations compress** on synthetic data—where the evaluation is less discriminative for strong models.
 
-![Figure 2 — MCQ accuracy heatmap (three corpora × models).](./charts/option_accuracy_by_source_heatmap.png)
+![Figure 2 — MCQ accuracy heatmap (three corpora × models).](./results/charts/option_accuracy_by_source_heatmap.png)
 
 **Takeaway.** The heatmap makes **domain shift** visible as horizontal “stripes” of warm vs. cool cells for the same row (model).
 
@@ -183,19 +183,19 @@ Items are mapped to buckets **1–8** (Basic concepts … Commercial insurance).
 
 Per-item JSONL: `judge_runs_openai/gpt-4.1-mini/*.jsonl`.
 
-![Figure 3 — Mean explanation alignment (0–3) by model.](./from_youtube_video/judge_plots/avg_alignment_score.png)
+![Figure 3 — Mean explanation alignment (0–3) by model.](./results/from_youtube_video/judge_plots/avg_alignment_score.png)
 
 **Takeaway.** Mean alignment **ranks** models similarly to MCQ accuracy but is not identical: it rewards **reference-shaped** reasoning, not only the correct letter.
 
 **Takeaway.** The long left tail for the smallest model shows that **wrong answers** and **poor explanations** tend to co-occur in this setup.
 
-![Figure 4 — Stacked judge score distribution (0–3) per model.](./from_youtube_video/judge_plots/score_distribution_stacked.png)
+![Figure 4 — Stacked judge score distribution (0–3) per model.](./results/from_youtube_video/judge_plots/score_distribution_stacked.png)
 
 **Takeaway.** Stacked bars expose **mass at score 3** for top models versus **mass at 0–1** for weak baselines—useful for communicating risk to learners.
 
 **Takeaway.** Mid-tier models often show a **thick “2” band** (mostly right idea, imperfect wording), which is exactly where human review can add value.
 
-![Figure 5 — MCQ accuracy vs. mean alignment (each point = one model).](./from_youtube_video/judge_plots/accuracy_vs_alignment.png)
+![Figure 5 — MCQ accuracy vs. mean alignment (each point = one model).](./results/from_youtube_video/judge_plots/accuracy_vs_alignment.png)
 
 **Takeaway.** Positive correlation supports using **cheap MCQ probes** as a first screen, with **judge or human** checks when explanations will be shown to users.
 
@@ -207,13 +207,13 @@ For each corpus, **Figure pair (heatmap, mean-by-bucket)** summarizes where mode
 
 #### Quizlet / PDF-derived (`from_quizlet_pdfs/option/analysis/`)
 
-![Figure 6 — Quizlet: models × buckets accuracy heatmap.](./from_quizlet_pdfs/option/analysis/heatmap_models_x_buckets.png)
+![Figure 6 — Quizlet: models × buckets accuracy heatmap.](./results/from_quizlet_pdfs/option/analysis/heatmap_models_x_buckets.png)
 
 **Takeaway.** Vertical “cold” columns identify **topic buckets** that systematically hurt many models—good targets for harder drill sets or instructor review.
 
 **Takeaway.** Spread across rows shows that **parameter scale** still matters on messy real-world study material.
 
-![Figure 7 — Quizlet: mean MCQ accuracy across models per bucket.](./from_quizlet_pdfs/option/analysis/mean_accuracy_by_bucket.png)
+![Figure 7 — Quizlet: mean MCQ accuracy across models per bucket.](./results/from_quizlet_pdfs/option/analysis/mean_accuracy_by_bucket.png)
 
 **Takeaway.** Buckets with low means are **hard for the field**, not only for one vendor model.
 
@@ -221,25 +221,25 @@ For each corpus, **Figure pair (heatmap, mean-by-bucket)** summarizes where mode
 
 #### YouTube (`from_youtube_video/option/analysis/`)
 
-![Figure 8 — YouTube: models × buckets heatmap.](./from_youtube_video/option/analysis/heatmap_models_x_buckets.png)
+![Figure 8 — YouTube: models × buckets heatmap.](./results/from_youtube_video/option/analysis/heatmap_models_x_buckets.png)
 
 **Takeaway.** With \(N=150\), some bucket cells are **sparse**; interpret low-accuracy cells with the companion `bucket_accuracy_long.csv` counts.
 
 **Takeaway.** The pattern still shows whether certain topics (e.g., commercial lines) concentrate errors for **multiple** systems.
 
-![Figure 9 — YouTube: mean accuracy per bucket.](./from_youtube_video/option/analysis/mean_accuracy_by_bucket.png)
+![Figure 9 — YouTube: mean accuracy per bucket.](./results/from_youtube_video/option/analysis/mean_accuracy_by_bucket.png)
 
 **Takeaway.** Mean-by-bucket on YouTube complements the **judge** analysis: a model can score well on letters in a bucket while still needing explanation polish (see §3.4).
 
 #### Synthetic (`synthetic_data/option/analysis/`)
 
-![Figure 10 — Synthetic: models × buckets heatmap.](./synthetic_data/option/analysis/heatmap_models_x_buckets.png)
+![Figure 10 — Synthetic: models × buckets heatmap.](./results/synthetic_data/option/analysis/heatmap_models_x_buckets.png)
 
 **Takeaway.** Synthetic heatmaps are **visually greener** overall—consistent with high ceiling accuracy and controlled generation.
 
 **Takeaway.** Residual red pockets still reveal **which curriculum slice** remains hard for sub-8B models.
 
-![Figure 11 — Synthetic: mean accuracy per bucket.](./synthetic_data/option/analysis/mean_accuracy_by_bucket.png)
+![Figure 11 — Synthetic: mean accuracy per bucket.](./results/synthetic_data/option/analysis/mean_accuracy_by_bucket.png)
 
 **Takeaway.** When even **mean** bucket accuracy is high, the evaluation is less about “who passes” and more about **ranking** among strong systems.
 
@@ -286,8 +286,8 @@ We presented a **multi-corpus**, **multi-metric** evaluation of LLMs on insuranc
 | Judge JSONL + summary | `judge_runs_openai/gpt-4.1-mini/` · `scripts/judge_reasoning_openai.py` |
 | Judge plots copy | `results/from_youtube_video/judge_plots/` · `scripts/run_youtube_openai_judge_and_plots.sh` |
 | Bucket analysis | each `results/*/option/analysis/` · `scripts/analyze_option_buckets.py` |
-| This report (`results/`-relative images) | `results/report.md` |
-| Same report (root-relative images; often better for preview) | [`REPORT.md`](../REPORT.md) at repository root |
+| This report (root-relative image URLs) | `REPORT.md` |
+| Same report (`results/`-relative image URLs) | `results/report.md` |
 
 ---
 
