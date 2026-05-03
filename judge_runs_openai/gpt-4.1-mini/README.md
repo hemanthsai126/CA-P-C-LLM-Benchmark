@@ -10,7 +10,7 @@ Typical files: `summary.csv`, per-run `.jsonl` logs, and the **plot PNGs** below
 
 ### `avg_alignment_score.png`
 
-**What it shows:** **Average judge alignment score** (0–3) per evaluated model run—how well each model’s stated **reason** matched the reference explanation in `eval_set/from_youtube_video/explanations.txt`.
+**What it shows:** **Average judge alignment score** (0–3) per evaluated model run—how well each model’s stated **reason** matched the reference explanation in `eval_set/from_youtube_video/explanations.txt` (under `DATA/eval_set/…` on disk; symlink `eval_set/` at repo root).
 
 ![Average alignment (0–3) by model for this judge run.](avg_alignment_score.png)
 

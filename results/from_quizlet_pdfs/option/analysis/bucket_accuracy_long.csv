@@ -1,0 +1,97 @@
+model,bucket,bucket_name,n,correct,accuracy
+gemma2_9b_reasoned,1,Basic concepts,50,39,0.78
+gemma2_9b_reasoned,2,Contract law,25,13,0.52
+gemma2_9b_reasoned,3,CA laws & ethics,86,51,0.59302
+gemma2_9b_reasoned,4,Tort & property fundamentals,24,14,0.58333
+gemma2_9b_reasoned,5,Residential property,166,115,0.69277
+gemma2_9b_reasoned,6,Valuation & government programs,20,15,0.75
+gemma2_9b_reasoned,7,Personal liability & inland marine,72,47,0.65278
+gemma2_9b_reasoned,8,Commercial insurance,107,69,0.64486
+gemma_2b_reasoned,1,Basic concepts,50,16,0.32
+gemma_2b_reasoned,2,Contract law,25,15,0.6
+gemma_2b_reasoned,3,CA laws & ethics,86,34,0.39535
+gemma_2b_reasoned,4,Tort & property fundamentals,24,9,0.375
+gemma_2b_reasoned,5,Residential property,166,75,0.45181
+gemma_2b_reasoned,6,Valuation & government programs,20,8,0.4
+gemma_2b_reasoned,7,Personal liability & inland marine,72,30,0.41667
+gemma_2b_reasoned,8,Commercial insurance,107,47,0.43925
+gpt-3_5-turbo_reasoned_from_quizlet_pdfs,1,Basic concepts,50,36,0.72
+gpt-3_5-turbo_reasoned_from_quizlet_pdfs,2,Contract law,25,16,0.64
+gpt-3_5-turbo_reasoned_from_quizlet_pdfs,3,CA laws & ethics,86,52,0.60465
+gpt-3_5-turbo_reasoned_from_quizlet_pdfs,4,Tort & property fundamentals,24,17,0.70833
+gpt-3_5-turbo_reasoned_from_quizlet_pdfs,5,Residential property,166,107,0.64458
+gpt-3_5-turbo_reasoned_from_quizlet_pdfs,6,Valuation & government programs,20,14,0.7
+gpt-3_5-turbo_reasoned_from_quizlet_pdfs,7,Personal liability & inland marine,72,45,0.625
+gpt-3_5-turbo_reasoned_from_quizlet_pdfs,8,Commercial insurance,107,69,0.64486
+gpt-4_1-mini_reasoned_from_quizlet_pdfs,1,Basic concepts,50,37,0.74
+gpt-4_1-mini_reasoned_from_quizlet_pdfs,2,Contract law,25,18,0.72
+gpt-4_1-mini_reasoned_from_quizlet_pdfs,3,CA laws & ethics,86,52,0.60465
+gpt-4_1-mini_reasoned_from_quizlet_pdfs,4,Tort & property fundamentals,24,20,0.83333
+gpt-4_1-mini_reasoned_from_quizlet_pdfs,5,Residential property,166,120,0.72289
+gpt-4_1-mini_reasoned_from_quizlet_pdfs,6,Valuation & government programs,20,16,0.8
+gpt-4_1-mini_reasoned_from_quizlet_pdfs,7,Personal liability & inland marine,72,44,0.61111
+gpt-4_1-mini_reasoned_from_quizlet_pdfs,8,Commercial insurance,107,71,0.66355
+gpt-4_1-nano_reasoned_from_quizlet_pdfs,1,Basic concepts,50,38,0.76
+gpt-4_1-nano_reasoned_from_quizlet_pdfs,2,Contract law,25,15,0.6
+gpt-4_1-nano_reasoned_from_quizlet_pdfs,3,CA laws & ethics,86,48,0.55814
+gpt-4_1-nano_reasoned_from_quizlet_pdfs,4,Tort & property fundamentals,24,15,0.625
+gpt-4_1-nano_reasoned_from_quizlet_pdfs,5,Residential property,166,108,0.6506
+gpt-4_1-nano_reasoned_from_quizlet_pdfs,6,Valuation & government programs,20,16,0.8
+gpt-4_1-nano_reasoned_from_quizlet_pdfs,7,Personal liability & inland marine,72,42,0.58333
+gpt-4_1-nano_reasoned_from_quizlet_pdfs,8,Commercial insurance,107,70,0.65421
+gpt-4o-mini_reasoned_from_quizlet_pdfs,1,Basic concepts,50,38,0.76
+gpt-4o-mini_reasoned_from_quizlet_pdfs,2,Contract law,25,16,0.64
+gpt-4o-mini_reasoned_from_quizlet_pdfs,3,CA laws & ethics,86,56,0.65116
+gpt-4o-mini_reasoned_from_quizlet_pdfs,4,Tort & property fundamentals,24,18,0.75
+gpt-4o-mini_reasoned_from_quizlet_pdfs,5,Residential property,166,120,0.72289
+gpt-4o-mini_reasoned_from_quizlet_pdfs,6,Valuation & government programs,20,17,0.85
+gpt-4o-mini_reasoned_from_quizlet_pdfs,7,Personal liability & inland marine,72,48,0.66667
+gpt-4o-mini_reasoned_from_quizlet_pdfs,8,Commercial insurance,107,77,0.71963
+gpt-4o_reasoned_from_quizlet_pdfs,1,Basic concepts,50,38,0.76
+gpt-4o_reasoned_from_quizlet_pdfs,2,Contract law,25,17,0.68
+gpt-4o_reasoned_from_quizlet_pdfs,3,CA laws & ethics,86,61,0.7093
+gpt-4o_reasoned_from_quizlet_pdfs,4,Tort & property fundamentals,24,17,0.70833
+gpt-4o_reasoned_from_quizlet_pdfs,5,Residential property,166,129,0.77711
+gpt-4o_reasoned_from_quizlet_pdfs,6,Valuation & government programs,20,19,0.95
+gpt-4o_reasoned_from_quizlet_pdfs,7,Personal liability & inland marine,72,53,0.73611
+gpt-4o_reasoned_from_quizlet_pdfs,8,Commercial insurance,107,76,0.71028
+llama3.1_8b_reasoned,1,Basic concepts,50,41,0.82
+llama3.1_8b_reasoned,2,Contract law,25,13,0.52
+llama3.1_8b_reasoned,3,CA laws & ethics,86,45,0.52326
+llama3.1_8b_reasoned,4,Tort & property fundamentals,24,15,0.625
+llama3.1_8b_reasoned,5,Residential property,166,115,0.69277
+llama3.1_8b_reasoned,6,Valuation & government programs,20,13,0.65
+llama3.1_8b_reasoned,7,Personal liability & inland marine,72,46,0.63889
+llama3.1_8b_reasoned,8,Commercial insurance,107,72,0.6729
+mistral_7b_reasoned,1,Basic concepts,50,32,0.64
+mistral_7b_reasoned,2,Contract law,25,11,0.44
+mistral_7b_reasoned,3,CA laws & ethics,86,39,0.45349
+mistral_7b_reasoned,4,Tort & property fundamentals,24,13,0.54167
+mistral_7b_reasoned,5,Residential property,166,87,0.5241
+mistral_7b_reasoned,6,Valuation & government programs,20,14,0.7
+mistral_7b_reasoned,7,Personal liability & inland marine,72,41,0.56944
+mistral_7b_reasoned,8,Commercial insurance,107,56,0.52336
+phi3_mini_reasoned,1,Basic concepts,50,16,0.32
+phi3_mini_reasoned,2,Contract law,25,8,0.32
+phi3_mini_reasoned,3,CA laws & ethics,86,30,0.34884
+phi3_mini_reasoned,4,Tort & property fundamentals,24,8,0.33333
+phi3_mini_reasoned,5,Residential property,166,68,0.40964
+phi3_mini_reasoned,6,Valuation & government programs,20,9,0.45
+phi3_mini_reasoned,7,Personal liability & inland marine,72,27,0.375
+phi3_mini_reasoned,8,Commercial insurance,107,30,0.28037
+qwen2.5_7b_reasoned,1,Basic concepts,50,34,0.68
+qwen2.5_7b_reasoned,2,Contract law,25,15,0.6
+qwen2.5_7b_reasoned,3,CA laws & ethics,86,38,0.44186
+qwen2.5_7b_reasoned,4,Tort & property fundamentals,24,15,0.625
+qwen2.5_7b_reasoned,5,Residential property,166,98,0.59036
+qwen2.5_7b_reasoned,6,Valuation & government programs,20,15,0.75
+qwen2.5_7b_reasoned,7,Personal liability & inland marine,72,40,0.55556
+qwen2.5_7b_reasoned,8,Commercial insurance,107,53,0.49533
+tinyllama_reasoned,1,Basic concepts,50,8,0.16
+tinyllama_reasoned,2,Contract law,25,6,0.24
+tinyllama_reasoned,3,CA laws & ethics,86,27,0.31395
+tinyllama_reasoned,4,Tort & property fundamentals,24,5,0.20833
+tinyllama_reasoned,5,Residential property,166,57,0.34337
+tinyllama_reasoned,6,Valuation & government programs,20,7,0.35
+tinyllama_reasoned,7,Personal liability & inland marine,72,17,0.23611
+tinyllama_reasoned,8,Commercial insurance,107,34,0.31776

@@ -1,0 +1,103 @@
+# Question review report
+# Source: eval_set/from_youtube_video/questions.txt
+# Model: gpt-4o-mini
+# Parsed: 113 | Removed as duplicate: 13 | Kept: 100
+
+## Removed duplicate IDs (not listed in issues — safe auto-removal)
+
+### Exact normalized-stem duplicates (dropped later ID)
+63
+
+### Semantic duplicate groups (dropped non-min ID per group)
+16, 17, 22, 23, 39, 49, 66, 68, 111, 116, 117, 118
+
+## Flagged for manual review (still kept in questions.txt until you delete)
+
+- Old ID 7 → New ID 6: Incomplete option D
+- Old ID 10 → New ID 9: Option B is garbled
+- Old ID 31 → New ID 26: Option C is blank
+- Old ID 37 → New ID 32: Option C is garbled
+- Old ID 81 → New ID 70: Option D is blank
+- Old ID 109 → New ID 94: Option A is blank
+
+## Model duplicate_groups (raw)
+[
+  [
+    1,
+    16
+  ],
+  [
+    2,
+    17
+  ],
+  [
+    5,
+    23
+  ],
+  [
+    6,
+    22
+  ],
+  [
+    11,
+    39
+  ],
+  [
+    12,
+    66
+  ],
+  [
+    31,
+    49
+  ],
+  [
+    37,
+    68
+  ],
+  [
+    46,
+    116
+  ],
+  [
+    57,
+    117
+  ],
+  [
+    93,
+    111
+  ],
+  [
+    100,
+    118
+  ]
+]
+
+---
+
+## Follow-up: local duplicate scan (150 items, 2026-05-02)
+
+**Scope:** `questions.txt` after merge of CSV `pc_ins_exam_mcq_w_reasons_1_50.csv` as IDs 101–150 (150 blocks total).
+
+**Methods (no API):**
+
+1. **Exact normalized stem** — same as `exact_stem_dupes()` in `scripts/dedupe_questions_openai.py` (`_norm_stem`: lowercase, strip non-alphanumeric). Later ID dropped if two stems collide.
+2. **Full MCQ fingerprint** — normalized concatenation of stem + options A–D; later ID dropped on exact collision.
+
+**Results:**
+
+| Check | Dropped IDs |
+| --- | --- |
+| Exact normalized stem | none |
+| Full fingerprint (stem + four options) | none |
+| Subset 101–150 only (same two checks) | none |
+| Cross-batch: same stem key in 1–100 and 101–150 | none |
+
+**No rows were removed** from `questions.txt` / `answers.txt` / `explanations.txt` in this pass.
+
+**Note on fuzzy similarity:** Pairwise stem similarity (e.g. `difflib` ratio ≥ 0.93) together with the same answer letter can still flag *non-duplicate* items (example: IDs 63 and 92 — both California climate change / property insurance, both keyed **C**, but different stems and different option sets). Automated fuzzy merging without a small-model review would risk false positives.
+
+**Semantic / near-duplicate review (optional):** With `OPENAI_API_KEY` set, rerun:
+
+` .venv/bin/python3 scripts/dedupe_questions_openai.py --questions eval_set/from_youtube_video/questions.txt --answers eval_set/from_youtube_video/answers.txt --issues-out eval_set/from_youtube_video/questions_issues_report.txt `
+
+That path re-scores overlapping groups like the earlier gpt-4o-mini pass; merge this file’s history manually if you overwrite the report.

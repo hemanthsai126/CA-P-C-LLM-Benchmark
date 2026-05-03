@@ -1,24 +1,35 @@
 #!/usr/bin/env python3
 """
-Judge explanation quality for each model output in results/*_reasoned.csv using OpenAI.
+Judge explanation quality for each model’s ``*_reasoned.csv`` under the YouTube benchmark
+using a single OpenAI **judge** model.
 
-This judge compares the model's explanation ("reason") to the ground-truth explanation in:
-  eval_set/from_youtube_video/explanations.txt
-
-It also includes the question + choices for context.
+The judge compares the model’s ``reason`` text to the ground-truth line in
+``results/from_youtube_video/explanations.txt`` (same ``question_number``), with the MCQ
+stem and options for context.
 
 Score scale (0–3):
   0 worst, 1 bad, 2 ok, 3 better
 
+Defaults (paths relative to repo root = parent of ``scripts/``):
+
+  --results-dir   results/from_youtube_video/option   (glob ``*_reasoned.csv``)
+  --questions     results/from_youtube_video/questions.txt
+  --answers       results/from_youtube_video/answers.txt
+  --explanations  results/from_youtube_video/explanations.txt
+
 Outputs:
-  judge_runs_openai/<judge_model>/<run_name>.jsonl
+
+  judge_runs_openai/<judge_model>/<run_stem>.jsonl
   judge_runs_openai/<judge_model>/summary.csv
 
 Auth:
   export OPENAI_API_KEY=...
 
-For reasoning models (e.g. gpt-5.5), pass `--reasoning-effort medium` (or low/high).
-Use `--reasoning-effort off` to omit the `reasoning` field (e.g. gpt-4.1-mini).
+For reasoning models (e.g. gpt-5.2), pass ``--reasoning-effort medium`` (or low/high).
+Use ``--reasoning-effort off`` to omit the ``reasoning`` field (e.g. gpt-4.1-mini).
+
+Legacy layout (``data/eval_set/from_youtube_video/``) is still supported by passing explicit
+``--questions``, ``--answers``, ``--explanations``, and ``--results-dir`` paths.
 """
 
 from __future__ import annotations
@@ -80,17 +91,27 @@ def parse_explanations_txt(path: Path) -> dict[int, str]:
     out: dict[int, str] = {}
     for ln in path.read_text(encoding="utf-8", errors="replace").splitlines():
         ln = ln.strip()
-        if not ln:
+        if not ln or ln.startswith("#"):
             continue
         m = re.match(r"^(\d+)\s+(.*)$", ln)
         if not m:
             continue
-        out[int(m.group(1))] = m.group(2).strip()
+        body = m.group(2).strip()
+        if body:
+            out[int(m.group(1))] = body
     return out
 
 
 def list_result_csvs(results_dir: Path) -> list[Path]:
-    return sorted(results_dir.glob("*_reasoned.csv"))
+    """Ollama-style ``*_reasoned.csv`` and OpenAI-style ``*_reasoned_from_<source>.csv``."""
+    paths: set[Path] = set()
+    for p in results_dir.glob("*_reasoned.csv"):
+        if p.is_file():
+            paths.add(p)
+    for p in results_dir.glob("*_reasoned_from_*.csv"):
+        if p.is_file():
+            paths.add(p)
+    return sorted(paths)
 
 
 RUBRIC = """You are grading how well a model's explanation matches the ground-truth explanation.
@@ -187,37 +208,89 @@ def clamp_int(x: Any, lo: int, hi: int) -> int:
     return max(lo, min(hi, v))
 
 
+def _resolve(repo: Path, p: Path) -> Path:
+    return p.resolve() if p.is_absolute() else (repo / p).resolve()
+
+
+def load_repo_dotenv(repo: Path) -> None:
+    """Load ``repo/.env`` into the process environment (keys not already set). No extra deps."""
+    p = repo / ".env"
+    if not p.is_file():
+        return
+    for raw in p.read_text(encoding="utf-8", errors="replace").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.startswith("export "):
+            line = line[7:].strip()
+        if "=" not in line:
+            continue
+        key, _, val = line.partition("=")
+        key = key.strip()
+        val = val.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = val
+
+
 def main() -> int:
+    repo = Path(__file__).resolve().parents[1]
+    yt = repo / "results" / "from_youtube_video"
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--judge-model", default="gpt-4.1-mini")
+    ap.add_argument("--judge-model", default="gpt-4.1-mini", help="OpenAI model id for the judge (e.g. gpt-4.1-mini, gpt-4o)")
     ap.add_argument(
         "--reasoning-effort",
         default=None,
-        help='For reasoning models (e.g. gpt-5.5): effort like low, medium, high. Use "off" to omit.',
+        help='For reasoning models: low, medium, high. Use "off" to omit the reasoning field.',
     )
-    ap.add_argument("--results-dir", type=Path, default=Path("results"))
-    ap.add_argument("--questions", type=Path, default=Path("eval_set/from_youtube_video/questions.txt"))
-    ap.add_argument("--answers", type=Path, default=Path("eval_set/from_youtube_video/answers.txt"))
-    ap.add_argument("--explanations", type=Path, default=Path("eval_set/from_youtube_video/explanations.txt"))
-    ap.add_argument("--limit", type=int, default=0, help="Limit questions per model (0=all)")
+    ap.add_argument(
+        "--results-dir",
+        type=Path,
+        default=yt / "option",
+        help="Directory containing *_reasoned.csv (default: results/from_youtube_video/option)",
+    )
+    ap.add_argument("--questions", type=Path, default=yt / "questions.txt")
+    ap.add_argument("--answers", type=Path, default=yt / "answers.txt")
+    ap.add_argument("--explanations", type=Path, default=yt / "explanations.txt")
+    ap.add_argument(
+        "--only",
+        type=str,
+        default="",
+        help="Comma-separated CSV stems to judge (default: all *_reasoned.csv). E.g. mistral_7b_reasoned,gpt-4o_reasoned_from_youtube_video",
+    )
+    ap.add_argument("--limit", type=int, default=0, help="Limit rows per model CSV (0=all)")
     ap.add_argument("--max-output-tokens", type=int, default=220)
     ap.add_argument("--temperature", type=float, default=0.0)
     ap.add_argument("--sleep-ms", type=int, default=0)
     args = ap.parse_args()
 
+    load_repo_dotenv(repo)
     if not os.environ.get("OPENAI_API_KEY"):
-        raise SystemExit("Missing OPENAI_API_KEY environment variable.")
+        raise SystemExit(
+            "Missing OPENAI_API_KEY. Export it in the shell or add it to a repo-root `.env` file "
+            "(see `.gitignore`; never commit secrets)."
+        )
 
-    qmap = parse_questions_txt(args.questions)
-    answers = parse_answers_txt(args.answers)
-    ref = parse_explanations_txt(args.explanations)
+    questions_p = _resolve(repo, args.questions)
+    answers_p = _resolve(repo, args.answers)
+    expl_p = _resolve(repo, args.explanations)
+    results_dir = _resolve(repo, args.results_dir)
 
-    csvs = list_result_csvs(args.results_dir)
+    qmap = parse_questions_txt(questions_p)
+    answers = parse_answers_txt(answers_p)
+    ref = parse_explanations_txt(expl_p)
+
+    csvs = list_result_csvs(results_dir)
+    if args.only.strip():
+        allow = {s.strip() for s in args.only.split(",") if s.strip()}
+        csvs = [p for p in csvs if p.stem in allow]
+        missing = allow - {p.stem for p in csvs}
+        if missing:
+            raise SystemExit(f"--only stems not found as *_reasoned.csv: {sorted(missing)}")
     if not csvs:
-        raise SystemExit(f"No *_reasoned.csv files found in {args.results_dir}")
+        raise SystemExit(f"No *_reasoned.csv files found in {results_dir}")
 
     client = OpenAI()
-    out_dir = Path("judge_runs_openai") / args.judge_model
+    out_dir = (repo / "judge_runs_openai" / args.judge_model).resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 
     summary_rows: list[dict[str, Any]] = []
@@ -227,7 +300,7 @@ def main() -> int:
         out_jsonl = out_dir / f"{run_name}.jsonl"
 
         model_rows: list[dict[str, str]] = []
-        with csv_path.open(newline="", encoding="utf-8") as f:
+        with csv_path.open(newline="", encoding="utf-8", errors="replace") as f:
             r = csv.DictReader(f)
             for row in r:
                 model_rows.append(row)
@@ -249,7 +322,7 @@ def main() -> int:
                 if qn not in qmap or qn not in ref:
                     continue
 
-                chosen = (row.get("option") or "").strip().upper()
+                chosen = (row.get("answer") or row.get("option") or "").strip().upper()
                 reason = (row.get("reason") or "").strip()
                 user_content = build_user_content(
                     q=qmap[qn],
@@ -298,7 +371,7 @@ def main() -> int:
         summary_rows.append(
             {
                 "run": run_name,
-                "file": csv_path.as_posix(),
+                "file": str(csv_path.relative_to(repo)) if csv_path.is_relative_to(repo) else csv_path.as_posix(),
                 "judge_model": args.judge_model,
                 "n_scored": n_scored,
                 "accuracy": round((n_correct / n_scored) if n_scored else 0.0, 4),

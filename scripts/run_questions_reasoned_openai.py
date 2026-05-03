@@ -3,7 +3,7 @@
 OpenAI version of the questions-only runner.
 
 Reads ONLY a questions file (e.g. eval_set/from_youtube_video/questions.txt) and writes a CSV with:
-  question_number, option, reason
+  question_number, answer, reason
 
 The script does NOT read answers.txt.
 
@@ -183,7 +183,7 @@ def main() -> int:
 
     with args.out.open("w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["question_number", "option", "reason"])
+        w.writerow(["question_number", "answer", "reason"])
         f.flush()
 
         for q in qs:

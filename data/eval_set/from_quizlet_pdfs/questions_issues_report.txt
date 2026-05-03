@@ -1,0 +1,158 @@
+# Question review report
+# Source: eval_set/from_quizlet_pdfs/questions.txt
+# Model: gpt-4o-mini
+# Parsed: 165 | Removed as duplicate: 21 | Kept: 144
+
+## Removed duplicate IDs (not listed in issues — safe auto-removal)
+
+### Exact normalized-stem duplicates (dropped later ID)
+45, 71, 140
+
+### Semantic duplicate groups (dropped non-min ID per group)
+3, 4, 10, 21, 22, 29, 40, 46, 51, 63, 74, 81, 83, 119, 121, 138, 145, 161
+
+## Flagged for manual review (still kept in questions.txt until you delete)
+
+- Old ID 5 → New ID 3: Incomplete stem
+- Old ID 6 → New ID 4: Nonsense options
+- Old ID 30 → New ID 24: Nonsense options
+- Old ID 52 → New ID 42: Incomplete stem
+- Old ID 53 → New ID 43: Incomplete stem
+- Old ID 86 → New ID 71: Incomplete stem
+- Old ID 97 → New ID 82: Incomplete stem
+- Old ID 98 → New ID 83: Incomplete stem
+- Old ID 99 → New ID 84: Incomplete stem
+- Old ID 100 → New ID 85: Incomplete stem
+- Old ID 101 → New ID 86: Incomplete stem
+- Old ID 102 → New ID 87: Incomplete stem
+- Old ID 103 → New ID 88: Incomplete stem
+- Old ID 104 → New ID 89: Incomplete stem
+- Old ID 105 → New ID 90: Incomplete stem
+- Old ID 106 → New ID 91: Incomplete stem
+- Old ID 107 → New ID 92: Incomplete stem
+- Old ID 109 → New ID 94: Incomplete stem
+- Old ID 110 → New ID 95: Incomplete stem
+- Old ID 111 → New ID 96: Incomplete stem
+- Old ID 112 → New ID 97: Incomplete stem
+- Old ID 113 → New ID 98: Incomplete stem
+- Old ID 114 → New ID 99: Incomplete stem
+- Old ID 115 → New ID 100: Incomplete stem
+- Old ID 116 → New ID 101: Incomplete stem
+- Old ID 119 → New ID (dropped as duplicate): Incomplete stem
+- Old ID 120 → New ID 104: Incomplete stem
+- Old ID 122 → New ID 105: Incomplete stem
+- Old ID 123 → New ID 106: Incomplete stem
+- Old ID 124 → New ID 107: Incomplete stem
+- Old ID 125 → New ID 108: Incomplete stem
+- Old ID 126 → New ID 109: Incomplete stem
+- Old ID 127 → New ID 110: Incomplete stem
+- Old ID 128 → New ID 111: Incomplete stem
+- Old ID 129 → New ID 112: Incomplete stem
+- Old ID 130 → New ID 113: Incomplete stem
+- Old ID 131 → New ID 114: Incomplete stem
+- Old ID 132 → New ID 115: Incomplete stem
+- Old ID 133 → New ID 116: Incomplete stem
+- Old ID 134 → New ID 117: Incomplete stem
+- Old ID 135 → New ID 118: Incomplete stem
+- Old ID 136 → New ID 119: Incomplete stem
+- Old ID 139 → New ID 121: Incomplete stem
+- Old ID 140 → New ID (dropped as duplicate): Incomplete stem
+- Old ID 141 → New ID 122: Incomplete stem
+- Old ID 142 → New ID 123: Incomplete stem
+- Old ID 143 → New ID 124: Incomplete stem
+- Old ID 146 → New ID 126: Incomplete stem
+- Old ID 147 → New ID 127: Incomplete stem
+- Old ID 148 → New ID 128: Incomplete stem
+- Old ID 149 → New ID 129: Incomplete stem
+- Old ID 150 → New ID 130: Incomplete stem
+- Old ID 151 → New ID 131: Incomplete stem
+- Old ID 152 → New ID 132: Incomplete stem
+- Old ID 153 → New ID 133: Incomplete stem
+- Old ID 154 → New ID 134: Incomplete stem
+- Old ID 155 → New ID 135: Incomplete stem
+- Old ID 156 → New ID 136: Incomplete stem
+- Old ID 157 → New ID 137: Incomplete stem
+- Old ID 158 → New ID 138: Incomplete stem
+- Old ID 159 → New ID 139: Incomplete stem
+- Old ID 160 → New ID 140: Incomplete stem
+- Old ID 161 → New ID (dropped as duplicate): Incomplete stem
+- Old ID 162 → New ID 141: Incomplete stem
+- Old ID 163 → New ID 142: Incomplete stem
+- Old ID 164 → New ID 143: Incomplete stem
+- Old ID 165 → New ID 144: Incomplete stem
+
+## Model duplicate_groups (raw)
+[
+  [
+    1,
+    3
+  ],
+  [
+    2,
+    4
+  ],
+  [
+    9,
+    10
+  ],
+  [
+    11,
+    22
+  ],
+  [
+    12,
+    21
+  ],
+  [
+    28,
+    29
+  ],
+  [
+    34,
+    40
+  ],
+  [
+    42,
+    46
+  ],
+  [
+    50,
+    51
+  ],
+  [
+    62,
+    63
+  ],
+  [
+    72,
+    74
+  ],
+  [
+    80,
+    81
+  ],
+  [
+    82,
+    83
+  ],
+  [
+    118,
+    119
+  ],
+  [
+    120,
+    121
+  ],
+  [
+    137,
+    138
+  ],
+  [
+    144,
+    145
+  ],
+  [
+    160,
+    161
+  ]
+]

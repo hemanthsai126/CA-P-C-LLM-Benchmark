@@ -10,7 +10,7 @@ Exported **PNG figures** for write-ups (often copies of plots generated next to 
 
 **How we got them:** Run `scripts/plot_judge_summary.py` on a `summary.csv`, then copy the PNGs here for documentation.
 
-These PNGs are embedded from [`eval_set/from_youtube_video/Results.md`](../eval_set/from_youtube_video/Results.md) (relative path `../../Results_plots/` from that file).
+These PNGs are embedded from [`eval_set/from_youtube_video/Results.md`](../eval_set/from_youtube_video/Results.md) (relative path `../../Results_plots/` from that file). The eval Markdown lives under **`DATA/eval_set/from_youtube_video/`**; **`eval_set/`** at the repo root is a symlink to `DATA/eval_set/`.
 
 ---
 

@@ -37,7 +37,8 @@ class Item:
 
 OPT_RE = re.compile(r"^(?P<k>[a-dA-D])\.\s*(?P<v>.+?)\s*$")
 # Some PDF extractions remove the space after the question number (e.g. "1Which ...").
-Q_RE = re.compile(r"^(?P<n>\d{1,3})\s*(?P<t>.+?)\s*$")
+# Require whitespace after the number so years like "2018 ..." are not parsed as question 201.
+Q_RE = re.compile(r"^(?P<n>\d{1,3})\s+(?P<t>.+?)\s*$")
 
 
 def norm(s: str) -> str:
@@ -127,8 +128,12 @@ def parse_items(lines: list[str], *, start: int = 1, end: int = 50) -> list[Item
         r"\bPrivacy Policy\b",
         r"\bAll Rights Reserved\b",
         r"\bPASS Guarantee\b",
+        r"\bScore My Practice\b",
+        r"\bTests\.com Video\b",
     ]
     for ln in lines:
+        # Fix PDF text where the question number is glued to the first word (e.g. "14Rex", "15Jeff").
+        ln = re.sub(r"^(\d{1,3})([A-Za-z])", r"\1 \2", ln)
         if ln.startswith("-- ") and " of " in ln:
             continue
         if re.match(r"^\d{1,2}/\d{1,2}/\d{2},", ln):
@@ -214,6 +219,14 @@ def parse_items(lines: list[str], *, start: int = 1, end: int = 50) -> list[Item
             i += 1
 
         explanation = " ".join(exp_parts).strip()
+        for junk in (
+            "Score My Practice",
+            "Tests.com Video",
+            "How do I study for a property and casualty insurance exam?",
+            "Property & Casualty Insurance Practice Test",
+        ):
+            if junk in explanation:
+                explanation = explanation.split(junk, 1)[0].strip()
         answer = guess_answer(option_map, explanation)
 
         items.append(

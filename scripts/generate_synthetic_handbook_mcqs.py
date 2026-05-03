@@ -3,8 +3,8 @@
 Generate synthetic California P&C-style MCQs (medium difficulty) using OpenAI,
 balanced so each curriculum bucket has the same count (default 60 × 8 = 480).
 
-Uses excerpts from ``Insurance_Handbook_20103.pdf`` as style/topic reference
-(do not copy long verbatim passages).
+Uses excerpts from one or two reference PDFs (handbook + optional second text)
+as style/topic reference (do not copy long verbatim passages).
 
 Writes:
   - questions file: same block format as questions_formatted.txt
@@ -84,6 +84,21 @@ def extract_handbook_context(pdf: Path, max_chars: int) -> str:
     return blob[:max_chars]
 
 
+def combined_reference_context(pdfs: list[Path], max_chars: int) -> str:
+    """Split the character budget across PDFs and concatenate labeled excerpts."""
+    pdfs = [p for p in pdfs if p.is_file()]
+    if not pdfs:
+        return ""
+    per = max(8_000, max_chars // len(pdfs))
+    chunks: list[str] = []
+    for i, p in enumerate(pdfs):
+        label = p.name
+        body = extract_handbook_context(p, per)
+        chunks.append(f"=== Reference PDF {i + 1}: {label} ===\n{body}")
+    out = "\n\n".join(chunks)
+    return out[:max_chars]
+
+
 def _parse_items_json(text: str) -> list[dict[str, Any]]:
     text = text.strip()
     try:
@@ -127,8 +142,9 @@ def call_openai_batch(
     avoid: list[str],
     temperature: float,
     max_output_tokens: int,
+    extra_user_suffix: str = "",
 ) -> list[dict[str, Any]]:
-    avoid_blob = "\n".join(f"- {s[:200]}" for s in avoid[:40])
+    avoid_blob = "\n".join(f"- {s[:200]}" for s in avoid[:80])
     sysm = (
         "You write original California property & casualty licensing style multiple-choice questions. "
         "Difficulty: medium — requires reasoning, not trivial definitions, but not obscure trick questions. "
@@ -140,10 +156,12 @@ def call_openai_batch(
     )
     user = (
         f"Topic bucket (must match every item): {bucket_id} — {bucket_name}\n\n"
-        f"Handbook excerpts (reference only):\n{handbook}\n\n"
+        f"Reference PDF excerpts (reference only; do not copy long verbatim passages):\n{handbook}\n\n"
         "Avoid near-duplicates of these stems (paraphrase differently):\n"
         f"{avoid_blob if avoid_blob.strip() else '(none yet)'}\n"
     )
+    if extra_user_suffix.strip():
+        user += "\n" + extra_user_suffix.strip() + "\n"
     req: dict[str, Any] = {
         "model": model,
         "input": [
@@ -173,13 +191,15 @@ def call_openai_batch(
     return _parse_items_json(text)
 
 
-def write_outputs(items: list[dict[str, Any]], q_path: Path, a_path: Path) -> None:
+def write_outputs(
+    items: list[dict[str, Any]], q_path: Path, a_path: Path, *, per_bucket: int
+) -> None:
     q_path.parent.mkdir(parents=True, exist_ok=True)
     a_path.parent.mkdir(parents=True, exist_ok=True)
     with q_path.open("w", encoding="utf-8") as fq, a_path.open("w", encoding="utf-8") as fa:
         fa.write(
-            "# Synthetic balanced set (60 per bucket × 8); medium difficulty; "
-            "reference: Insurance Handbook excerpts.\n"
+            f"# Synthetic balanced set ({per_bucket} per bucket × 8 = {per_bucket * 8}); "
+            "medium difficulty; reference: PDF excerpts (not verbatim copies).\n"
         )
         for n, it in enumerate(items, start=1):
             fq.write(f"{n}. {_squish(it['stem'])}\n")
@@ -200,6 +220,13 @@ def main() -> int:
         "--handbook",
         type=Path,
         default=Path("source_material/Cali Data/Insurance_Handbook_20103.pdf"),
+        help="Primary reference PDF (excerpts sent to the model).",
+    )
+    ap.add_argument(
+        "--handbook2",
+        type=Path,
+        default=None,
+        help="Optional second reference PDF; excerpts are merged with --handbook under --handbook-chars budget.",
     )
     ap.add_argument(
         "--out-questions",
@@ -216,8 +243,15 @@ def main() -> int:
     ap.add_argument("--batch-size", type=int, default=10)
     ap.add_argument("--handbook-chars", type=int, default=110_000)
     ap.add_argument("--max-output-tokens", type=int, default=6000)
-    ap.add_argument("--temperature", type=float, default=0.35)
+    ap.add_argument("--temperature", type=float, default=0.0)
     ap.add_argument("--sleep-ms", type=int, default=250)
+    ap.add_argument(
+        "--max-empty-retries",
+        type=int,
+        default=15,
+        help="When a batch yields zero new unique stems (e.g. temp=0 repeats, or all collide with seen), "
+        "retry with a fresh prompt nonce up to this many times before aborting.",
+    )
     ap.add_argument(
         "--no-backup",
         action="store_true",
@@ -232,6 +266,11 @@ def main() -> int:
 
     if not args.handbook.is_file():
         raise SystemExit(f"Handbook PDF not found: {args.handbook}")
+    ref_pdfs: list[Path] = [args.handbook]
+    if args.handbook2:
+        if not args.handbook2.is_file():
+            raise SystemExit(f"Second handbook PDF not found: {args.handbook2}")
+        ref_pdfs.append(args.handbook2)
 
     if not args.no_backup:
         ts = time.strftime("%Y%m%d_%H%M%S")
@@ -241,9 +280,9 @@ def main() -> int:
                 shutil.copy2(p, bak)
                 print(f"Backed up {p} -> {bak}", file=sys.stderr)
 
-    hb = extract_handbook_context(args.handbook, args.handbook_chars)
+    hb = combined_reference_context(ref_pdfs, args.handbook_chars)
     if len(hb) < 2000:
-        raise SystemExit("Very little text extracted from handbook PDF; check file.")
+        raise SystemExit("Very little text extracted from reference PDF(s); check paths.")
 
     client = OpenAI()
     all_items: list[dict[str, Any]] = []
@@ -255,42 +294,68 @@ def main() -> int:
         avoid: list[str] = []
         while len(got) < need_total:
             batch = min(args.batch_size, need_total - len(got))
-            try:
-                new = call_openai_batch(
-                    client,
-                    model=args.model,
-                    handbook=hb,
-                    bucket_id=bucket_id,
-                    bucket_name=bucket_name,
-                    need=batch,
-                    avoid=avoid,
-                    temperature=args.temperature,
-                    max_output_tokens=args.max_output_tokens,
-                )
-            except Exception as e:
-                print(f"ERROR bucket {bucket_id} batch: {e}", file=sys.stderr)
-                raise
             added = 0
-            for it in new:
-                k = _norm_key(it["stem"])
-                if k in seen:
-                    continue
-                seen.add(k)
-                it["bucket"] = bucket_id
-                got.append(it)
-                avoid.append(it["stem"])
-                added += 1
+            empty_try = 0
+            new: list[dict[str, Any]] = []
+            while added == 0 and empty_try < args.max_empty_retries:
+                suffix = ""
+                if empty_try > 0:
+                    # At temperature 0 the API may repeat identical JSON; vary the instruction so stems change.
+                    nonce = time.strftime("%Y%m%d%H%M%S") + f"-{bucket_id}-{len(got)}-{empty_try}"
+                    suffix = (
+                        f"CRITICAL (attempt {empty_try + 1}): Every stem must be NEW vs the avoid list AND "
+                        f"substantively different from any prior item in this run (nonce {nonce}). "
+                        "Change named parties, amounts, policy forms, and fact patterns; do not recycle wording."
+                    )
+                try:
+                    new = call_openai_batch(
+                        client,
+                        model=args.model,
+                        handbook=hb,
+                        bucket_id=bucket_id,
+                        bucket_name=bucket_name,
+                        need=batch,
+                        avoid=avoid,
+                        temperature=args.temperature,
+                        max_output_tokens=args.max_output_tokens,
+                        extra_user_suffix=suffix,
+                    )
+                except Exception as e:
+                    print(f"ERROR bucket {bucket_id} batch: {e}", file=sys.stderr)
+                    raise
+                added = 0
+                for it in new:
+                    k = _norm_key(it["stem"])
+                    if k in seen:
+                        continue
+                    seen.add(k)
+                    it["bucket"] = bucket_id
+                    got.append(it)
+                    avoid.append(it["stem"])
+                    added += 1
+                if added == 0:
+                    empty_try += 1
+                    print(
+                        f"bucket {bucket_id} ({bucket_name}): batch produced 0 new unique stems "
+                        f"(retry {empty_try}/{args.max_empty_retries})",
+                        file=sys.stderr,
+                    )
+                    if args.sleep_ms:
+                        time.sleep(args.sleep_ms / 1000.0)
             print(
                 f"bucket {bucket_id} ({bucket_name}): +{added} (total {len(got)}/{need_total})",
                 file=sys.stderr,
             )
             if added == 0:
-                raise SystemExit(f"No new items accepted in bucket {bucket_id}; aborting.")
+                raise SystemExit(
+                    f"No new items accepted in bucket {bucket_id} after {args.max_empty_retries} empty retries; "
+                    "try --batch-size 5, slightly higher --temperature, or increase --max-empty-retries."
+                )
             if args.sleep_ms:
                 time.sleep(args.sleep_ms / 1000.0)
         all_items.extend(got)
 
-    write_outputs(all_items, args.out_questions, args.out_answers)
+    write_outputs(all_items, args.out_questions, args.out_answers, per_bucket=args.per_bucket)
     print(f"Wrote {len(all_items)} questions -> {args.out_questions}", file=sys.stderr)
     print(f"Wrote {len(all_items)} answers -> {args.out_answers}", file=sys.stderr)
     return 0

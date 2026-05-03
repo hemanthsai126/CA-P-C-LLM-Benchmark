@@ -7,3 +7,5 @@ jupyter>=1.0.0
 ipykernel>=6.29.0
 matplotlib>=3.8.0
 pypdf>=4.0.0
+pymupdf>=1.24.0  # extract_quizlet_highlight_answers_pymupdf.py (highlight geometry)
+cryptography>=3.1  # required by pypdf for AES-encrypted PDFs (e.g. some handbook / LEM exports)

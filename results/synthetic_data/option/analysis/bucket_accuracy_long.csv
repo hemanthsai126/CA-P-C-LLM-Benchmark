@@ -1,0 +1,97 @@
+model,bucket,bucket_name,n,correct,accuracy
+gemma2_9b_reasoned,1,Basic concepts,50,47,0.94
+gemma2_9b_reasoned,2,Contract law,50,46,0.92
+gemma2_9b_reasoned,3,CA laws & ethics,50,47,0.94
+gemma2_9b_reasoned,4,Tort & property fundamentals,50,46,0.92
+gemma2_9b_reasoned,5,Residential property,50,47,0.94
+gemma2_9b_reasoned,6,Valuation & government programs,50,47,0.94
+gemma2_9b_reasoned,7,Personal liability & inland marine,50,50,1.0
+gemma2_9b_reasoned,8,Commercial insurance,50,49,0.98
+gemma_2b_reasoned,1,Basic concepts,50,22,0.44
+gemma_2b_reasoned,2,Contract law,50,28,0.56
+gemma_2b_reasoned,3,CA laws & ethics,50,29,0.58
+gemma_2b_reasoned,4,Tort & property fundamentals,50,17,0.34
+gemma_2b_reasoned,5,Residential property,50,22,0.44
+gemma_2b_reasoned,6,Valuation & government programs,50,26,0.52
+gemma_2b_reasoned,7,Personal liability & inland marine,50,20,0.4
+gemma_2b_reasoned,8,Commercial insurance,50,32,0.64
+gpt-3_5-turbo_reasoned_synthetic_data,1,Basic concepts,50,46,0.92
+gpt-3_5-turbo_reasoned_synthetic_data,2,Contract law,50,47,0.94
+gpt-3_5-turbo_reasoned_synthetic_data,3,CA laws & ethics,50,49,0.98
+gpt-3_5-turbo_reasoned_synthetic_data,4,Tort & property fundamentals,50,45,0.9
+gpt-3_5-turbo_reasoned_synthetic_data,5,Residential property,50,47,0.94
+gpt-3_5-turbo_reasoned_synthetic_data,6,Valuation & government programs,50,47,0.94
+gpt-3_5-turbo_reasoned_synthetic_data,7,Personal liability & inland marine,50,50,1.0
+gpt-3_5-turbo_reasoned_synthetic_data,8,Commercial insurance,50,49,0.98
+gpt-4_1-mini_reasoned_synthetic_data,1,Basic concepts,50,49,0.98
+gpt-4_1-mini_reasoned_synthetic_data,2,Contract law,50,50,1.0
+gpt-4_1-mini_reasoned_synthetic_data,3,CA laws & ethics,50,49,0.98
+gpt-4_1-mini_reasoned_synthetic_data,4,Tort & property fundamentals,50,48,0.96
+gpt-4_1-mini_reasoned_synthetic_data,5,Residential property,50,50,1.0
+gpt-4_1-mini_reasoned_synthetic_data,6,Valuation & government programs,50,48,0.96
+gpt-4_1-mini_reasoned_synthetic_data,7,Personal liability & inland marine,50,49,0.98
+gpt-4_1-mini_reasoned_synthetic_data,8,Commercial insurance,50,50,1.0
+gpt-4_1-nano_reasoned_synthetic_data,1,Basic concepts,50,47,0.94
+gpt-4_1-nano_reasoned_synthetic_data,2,Contract law,50,45,0.9
+gpt-4_1-nano_reasoned_synthetic_data,3,CA laws & ethics,50,50,1.0
+gpt-4_1-nano_reasoned_synthetic_data,4,Tort & property fundamentals,50,47,0.94
+gpt-4_1-nano_reasoned_synthetic_data,5,Residential property,50,46,0.92
+gpt-4_1-nano_reasoned_synthetic_data,6,Valuation & government programs,50,48,0.96
+gpt-4_1-nano_reasoned_synthetic_data,7,Personal liability & inland marine,50,50,1.0
+gpt-4_1-nano_reasoned_synthetic_data,8,Commercial insurance,50,49,0.98
+gpt-4o-mini_reasoned_synthetic_data,1,Basic concepts,50,48,0.96
+gpt-4o-mini_reasoned_synthetic_data,2,Contract law,50,50,1.0
+gpt-4o-mini_reasoned_synthetic_data,3,CA laws & ethics,50,50,1.0
+gpt-4o-mini_reasoned_synthetic_data,4,Tort & property fundamentals,50,49,0.98
+gpt-4o-mini_reasoned_synthetic_data,5,Residential property,50,49,0.98
+gpt-4o-mini_reasoned_synthetic_data,6,Valuation & government programs,50,49,0.98
+gpt-4o-mini_reasoned_synthetic_data,7,Personal liability & inland marine,50,47,0.94
+gpt-4o-mini_reasoned_synthetic_data,8,Commercial insurance,50,50,1.0
+gpt-4o_reasoned_synthetic_data,1,Basic concepts,50,48,0.96
+gpt-4o_reasoned_synthetic_data,2,Contract law,50,50,1.0
+gpt-4o_reasoned_synthetic_data,3,CA laws & ethics,50,50,1.0
+gpt-4o_reasoned_synthetic_data,4,Tort & property fundamentals,50,50,1.0
+gpt-4o_reasoned_synthetic_data,5,Residential property,50,50,1.0
+gpt-4o_reasoned_synthetic_data,6,Valuation & government programs,50,50,1.0
+gpt-4o_reasoned_synthetic_data,7,Personal liability & inland marine,50,50,1.0
+gpt-4o_reasoned_synthetic_data,8,Commercial insurance,50,50,1.0
+llama3.1_8b_reasoned,1,Basic concepts,50,41,0.82
+llama3.1_8b_reasoned,2,Contract law,50,37,0.74
+llama3.1_8b_reasoned,3,CA laws & ethics,50,48,0.96
+llama3.1_8b_reasoned,4,Tort & property fundamentals,50,42,0.84
+llama3.1_8b_reasoned,5,Residential property,50,41,0.82
+llama3.1_8b_reasoned,6,Valuation & government programs,50,45,0.9
+llama3.1_8b_reasoned,7,Personal liability & inland marine,50,45,0.9
+llama3.1_8b_reasoned,8,Commercial insurance,50,48,0.96
+mistral_7b_reasoned,1,Basic concepts,50,39,0.78
+mistral_7b_reasoned,2,Contract law,50,37,0.74
+mistral_7b_reasoned,3,CA laws & ethics,50,42,0.84
+mistral_7b_reasoned,4,Tort & property fundamentals,50,41,0.82
+mistral_7b_reasoned,5,Residential property,50,46,0.92
+mistral_7b_reasoned,6,Valuation & government programs,50,42,0.84
+mistral_7b_reasoned,7,Personal liability & inland marine,50,40,0.8
+mistral_7b_reasoned,8,Commercial insurance,50,43,0.86
+phi3_mini_reasoned,1,Basic concepts,50,21,0.42
+phi3_mini_reasoned,2,Contract law,50,23,0.46
+phi3_mini_reasoned,3,CA laws & ethics,50,25,0.5
+phi3_mini_reasoned,4,Tort & property fundamentals,50,28,0.56
+phi3_mini_reasoned,5,Residential property,50,23,0.46
+phi3_mini_reasoned,6,Valuation & government programs,50,21,0.42
+phi3_mini_reasoned,7,Personal liability & inland marine,50,25,0.5
+phi3_mini_reasoned,8,Commercial insurance,50,23,0.46
+qwen2.5_7b_reasoned,1,Basic concepts,50,44,0.88
+qwen2.5_7b_reasoned,2,Contract law,50,42,0.84
+qwen2.5_7b_reasoned,3,CA laws & ethics,50,43,0.86
+qwen2.5_7b_reasoned,4,Tort & property fundamentals,50,43,0.86
+qwen2.5_7b_reasoned,5,Residential property,50,42,0.84
+qwen2.5_7b_reasoned,6,Valuation & government programs,50,41,0.82
+qwen2.5_7b_reasoned,7,Personal liability & inland marine,50,41,0.82
+qwen2.5_7b_reasoned,8,Commercial insurance,50,46,0.92
+tinyllama_reasoned,1,Basic concepts,50,11,0.22
+tinyllama_reasoned,2,Contract law,50,18,0.36
+tinyllama_reasoned,3,CA laws & ethics,50,15,0.3
+tinyllama_reasoned,4,Tort & property fundamentals,50,10,0.2
+tinyllama_reasoned,5,Residential property,50,8,0.16
+tinyllama_reasoned,6,Valuation & government programs,50,13,0.26
+tinyllama_reasoned,7,Personal liability & inland marine,50,17,0.34
+tinyllama_reasoned,8,Commercial insurance,50,18,0.36

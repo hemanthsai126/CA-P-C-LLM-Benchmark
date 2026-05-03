@@ -27,6 +27,6 @@ Run from the repo root (requires the right API key):
   --run-dir judge_runs_openai/gpt-4.1-mini
 ```
 
-Paths above match the **YouTube / transcript** eval (default for the judge scripts). Point `--questions` / `--answers` at `eval_set/from_quizlet_pdfs/` if you judge runs on the **800-Q** set instead.
+Paths above match the **YouTube / transcript** eval (default for the judge scripts); those files live under **`DATA/eval_set/from_youtube_video/`** and are also reachable as **`eval_set/from_youtube_video/`** via the repo-root symlink. Point `--questions` / `--answers` at `eval_set/from_quizlet_pdfs/` if you judge runs on the **800-Q** set instead. Frozen copies of the 150-Q / 165-Q slices are under **`results/from_youtube_video/`** and **`results/from_quizlet_pdfs/`** (see [`results/README.md`](../results/README.md)).
 
 Plots derived from `summary.csv` may be copied to `Results_plots/` for reports.

@@ -1,6 +1,6 @@
 # Package `eval` (`eval/`)
 
-Small **Python package** (not the same as the `eval_set/` **data directory**) for running **local Ollama** MCQ evaluation: loading labels, building prompts, and writing CSV rows.
+Small **Python package** (not the same as the **`eval_set/`** benchmark directory) for running **local Ollama** MCQ evaluation: loading labels, building prompts, and writing CSV rows. The on-disk eval tree is **`DATA/eval_set/`**; **`eval_set/`** at the repo root is a symlink there.
 
 | Module | Role |
 |--------|------|

@@ -6,7 +6,7 @@ Inputs:
   - eval_set/from_youtube_video/questions.txt        (question + A-D choices)
   - eval_set/from_youtube_video/answers.txt          (ground truth letters; used only for reporting correctness)
   - eval_set/from_youtube_video/explanations.txt     (optional reference explanations; used only for alignment scoring)
-  - results/*_reasoned.csv        (question_number, option, reason)
+  - results/*_reasoned.csv        (question_number, answer or option, reason)
 
 Outputs:
   - judge_runs/<judge_model>/<run_name>.jsonl   (per-item judge results)
@@ -249,7 +249,7 @@ def main() -> int:
                     continue
                 if qn not in qmap:
                     continue
-                opt = (row.get("option") or "").strip().upper()
+                opt = (row.get("answer") or row.get("option") or "").strip().upper()
                 reason = (row.get("reason") or "").strip()
 
                 # Build judge input
